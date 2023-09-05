@@ -1,0 +1,90 @@
+// ******* Needs to be read in conjunction with the entry form
+// https://piwars.recantha.co.uk/competition/apply?id=4
+
+East Devon Pi-rates
+
+ZyderBot
+
+N/A
+
+Advanced
+
+England
+
+Sidmouth
+
+Colin
+Walls
+robots@colinwalls.co.uk
+01395 519 275
+N/A
+
+N/A
+
+Colin Walls - retired computer programmer, no affiliations. Website https://sidmouthrobots.co.uk/
+John Flanagan - retired Enterprise Architect MBCS, no affiliations. Website https://www.tekyinblack.com
+Paul E. Bennett IEng MIET- Retired Systems Engineer, no affiliations.
+Ian Woodbridge - A life long electronics tinkerer, I am a youth worker and 
+		co organiser of the Exeter Raspberry Jam, no affiliations
+
+ZyderBot will be a four-wheel drive tractor with tank steering
+Stereo cameras with depth perception providing vision feedback for SLAM
+Raspberry Pi 4 running Raspberry Pi OS
+Main code in Python, subsidiary code in MicroPython (or just possibly C++)
+Raspberry Pi Picos (or just possibly Arduinos) for time-critical operations
+Each modular interchangeable attachment will have a specific design for servos and 
+a plug-in connection to the chassis for power and control
+Remote control will be done using SBUS and Pico
+At the end of the project all code on GitHub and all 3D models on Thingiverse will be made public
+For more details see attached design notes
+The project style will be Form Follows Function. We aim to do the tasks in the time
+and just channel the agricultural vibe.
+
+Colin: I have made a lot of demonstration / educational robots to try to interest young 
+people in the activity. They range from simple Pico-controlled tabletop
+Lego-compatible robots that just drive around without falling off, to
+PANDA, which uses Canny edge-detect to find a bomb and drop it over the edge.
+
+John: Finding myself retired, but not yet finished, I want to encourage all 
+ages to get involved and embrace modern computing and robotics through having fun?
+
+Paul: I am a Systems Engineer since 1970, with real robots still operating 
+since 1985 and an expectation for continued operation until decommissioning 
+in 2030. My main focus has always been High Integrity Systems.
+I am a STEM Ambassador who tries to enthuse the younger minds to take up 
+STEM careers or challenges for the betterment of humanity.
+
+Ian:  I've made simple robots for use with young people but never anything this complex.
+
+
+Colin: I have enjoyed messing about with robots, but want more of a challenge. 
+For PiWars I will have to try new things and make them work with a deadline.
+Performance-critical robots will be an exciting new field.
+John: New to robotics, actively looking at developing open source solutions 
+in assisted living for wheelchair users?
+Paul: Forth specialist, working on a Pi based robot for primary schools.
+Ian:  As well as having a lot of fun, I hope to learn more about robotics 
+that I can include in both fuure events like the Sidmouth Science Festival 
+as well as my youth work.
+
+Challenges run autonomously + remote control + blogging
+
+Colin: No
+John: No
+Paul: No
+Ian:  No
+
+Having previously given one-off demonstrations we would like to involve the local schools
+in an ongoing activity. We want to
+use Pi Wars as a vehicle to reach out to the schools, 
+giving us a concrete example of a live project. 
+Our website (https://eastdevonpirates.org) and blog (https://eastdevonpirates.blogspot.com/)
+will help with this as well as visits and presentations.
+
+File zyderbot_design_notes_v02
+
+Yes
+
+No
+
+Yes
