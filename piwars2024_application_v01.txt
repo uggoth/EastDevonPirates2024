@@ -24,7 +24,7 @@ N/A
 
 Colin Walls - retired computer programmer, no affiliations. Website https://sidmouthrobots.co.uk/
 John Flanagan - retired Enterprise Architect MBCS. Website https://www.tekyinblack.com
-Paula Yates - Meteorologist specialising in lightning
+Paula Taylor - Meteorologist specialising in lightning
 Ian Woodbridge - Life long electronics tinkerer, co-organiser of the Exeter Raspberry Jam
 
 ZyderBot is a four-wheel drive tractor with tank steering
