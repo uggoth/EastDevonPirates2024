@@ -1,0 +1,79 @@
+// PiWars 2024 Application
+// ******* Needs to be read in conjunction with the entry form
+// https://piwars.recantha.co.uk/competition/apply?id=5
+
+East Devon PIrates
+
+ZyderBot
+
+N/A
+
+Advanced
+
+England
+
+Sidmouth
+
+Colin
+Walls
+robots@colinwalls.co.uk
+01395 519 275
+N/A
+
+N/A
+
+Colin Walls - retired computer programmer, no affiliations. Website https://sidmouthrobots.co.uk/
+John Flanagan - retired Enterprise Architect MBCS. Website https://www.tekyinblack.com
+Paula Yates - Meteorologist specialising in lightning
+Ian Woodbridge - Life long electronics tinkerer, co-organiser of the Exeter Raspberry Jam
+
+ZyderBot is a four-wheel drive tractor with tank steering
+main chassis: 3D printed
+stereo cameras with depth perception
+brushless motors with pulse feedback for accurate motion
+bespoke 3d printed wheels for total flexibility
+Raspberry Pi 3B
+Raspberry Pi Picos for time-critical operations
+replaceable 18650 li-ion batteries for better power density than NiMh and better safety than LiPo
+each modular interchangeable attachment will have a specific design for servos and 
+a plug-in connection to tthe chassis for power and control
+
+Colin: I have made a lot of demonstration / educational robots to try to interest young 
+people in the activity. They range from simple Pico-controlled tabletop
+Lego-compatible robots that just drive around without falling off, to
+PANDA, which uses Canny edge-detect to find a bomb and drop it over the edge.
+
+John: Finding myself retired, but not yet finished, I want to encourage all 
+ages to get involved and embrace modern computing and robotics through having fun?
+
+Paula: ????
+
+Ian:  I've made simple robots for with young people but never anything this complex.
+
+
+Colin: I have always enjoyed messing about with robots, and found Pi Wars 2022 a real challenge. 
+For PiWars 2024 I will use my experience to do better.
+John: New to robotics, actively looking at developing open source solutions 
+in assisted living for wheelchair users?
+Ian:  As well as having a lot of fun, I hope to learn more about robotics 
+that I can include in both fuure events like the Sidmouth Science Festival 
+as well as my youth work.
+
+Challenges run autonomously + remote control + blogging
+
+No
+
+Yes, we came fourth in the Advanced category in Pi Wars 2022
+
+Our website (https://eastdevonpirates.org) and blog ()
+will help with this as well as visits and presentations.
+
+File: pdf Lots of pictures of our raspbery pi robots and link to project website
+
+No
+
+Yes if fairly local
+
+Yes
+
+Yes
