@@ -43,8 +43,7 @@ people in the activity. They range from simple Pico-controlled tabletop
 Lego-compatible robots that just drive around without falling off, to
 PANDA, which uses Canny edge-detect to find a bomb and drop it over the edge.
 
-John: My motivation hasn't changed, I want to encourage all ages to get involved and embrace modern 
-computing and robotics through having fun and I hope Piwars will give me some more ideas to do this with.
+John: Since PiWars 2022 I've gained a lot of experience, had a lot of fun and designed a series of low cost robots for educational construction and usage.
 
 Paula: ????
 
@@ -53,8 +52,8 @@ Ian:  I've made simple robots for with young people but never anything this comp
 
 Colin: I have always enjoyed messing about with robots, and found Pi Wars 2022 a real challenge. 
 For PiWars 2024 I will use my experience to do better.
-John: Had great fun for PiWars 2022 so want to repeat that using some of the experience I gained
-and since then building other robots
+John: Had great fun for PiWars 2022 so want to repeat that using some of the experience I gained. I want to encourage all ages to get involved and embrace modern 
+computing and robotics through having fun and I hope Piwars will give me some more ideas to do this with.
 Ian:  As well as having a lot of fun, I hope to learn more about robotics 
 that I can include in both fuure events like the Sidmouth Science Festival 
 as well as my youth work.
