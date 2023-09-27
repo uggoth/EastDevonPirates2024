@@ -24,7 +24,7 @@ N/A
 
 Colin Walls - retired computer programmer, no affiliations. Website https://sidmouthrobots.co.uk/
 John Flanagan - retired Enterprise Architect MBCS. Website https://www.tekyinblack.com
-Paula Taylor - Meteorologist specialising in lightning
+Paula Taylor - retired senior scientist specialising in lightning. Was mentor at Hackaday events
 Ian Woodbridge - Life long electronics tinkerer, co-organiser of the Exeter Raspberry Jam
 
 ZyderBot is a four-wheel drive tractor with tank steering
@@ -45,7 +45,7 @@ PANDA, which uses Canny edge-detect to find a bomb and drop it over the edge.
 
 John: Since PiWars 2022 I've gained a lot of experience, had a lot of fun and designed a series of low cost robots for educational construction and usage.
 
-Paula: ????
+Paula: Never made a robot, but willing to help
 
 Ian:  I've made simple robots for with young people but never anything this complex.
 
