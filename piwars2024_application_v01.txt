@@ -36,7 +36,7 @@ Raspberry Pi 3B
 Raspberry Pi Picos for time-critical operations
 replaceable 18650 li-ion batteries for better power density than NiMh and better safety than LiPo
 each modular interchangeable attachment will have a specific design for servos and 
-a plug-in connection to tthe chassis for power and control
+a plug-in connection to the chassis for power and control
 
 Colin: I have made a lot of demonstration / educational robots to try to interest young 
 people in the activity. They range from simple Pico-controlled tabletop
@@ -64,8 +64,7 @@ No
 
 Yes, we came fourth in the Advanced category in Pi Wars 2022
 
-Our website (https://eastdevonpirates.org) and blog ()
-will help with this as well as visits and presentations.
+Our website is at https://eastdevonpirates.org
 
 File: pdf Lots of pictures of our raspbery pi robots and link to project website
 
