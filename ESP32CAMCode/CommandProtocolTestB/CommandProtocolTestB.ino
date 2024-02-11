@@ -1,9 +1,9 @@
 /*
-  Command protocol test A
+  Command protocol test B
 */
 
 const String MY_NAME = "JOLLY";
-const int handshake_pin = 12;
+const int handshake_pin = 13;
 int x;
 bool finished = false;
 String message_in = "";
