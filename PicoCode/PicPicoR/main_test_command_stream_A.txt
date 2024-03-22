@@ -1,0 +1,25 @@
+Received: 0000WHOU
+
+Sending: 0000PICOR
+Received: 0001WHOU
+
+Sending: 0001PICOR
+Received: 0002HREV
+
+Sending: 0002OKOK
+Received: 0003Garbage
+
+Sending: 0003BADC
+Received: 0004HFWD
+
+Sending: 0004OKOK
+Received: 0005Garbij
+
+Sending: 0005BADC
+Received: 0006HOFF
+
+Sending: 0006OKOK
+Received: 0007EXIT
+
+Sending: 0007OKOK
+Exiting

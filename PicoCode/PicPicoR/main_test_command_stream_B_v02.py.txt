@@ -1,0 +1,107 @@
+main_test_command_stream_B_v02.py starting
+
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0006HFWD
+
+Sending: 0006OKOK
+Received: 0007HOFF
+
+Sending: 0007OKOK
+Received: 0008STOP
+
+Sending: 0008OKOK

@@ -1,0 +1,9026 @@
+main_rc_zombie_arm_v07.py starting
+
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001SBUS
+
+Sending: 0001BADC
+Received: 0002SBUS
+
+Sending: 0002BADC
+Received: 0003SBUS
+
+Sending: 0003BADC
+Received: 0004SBUS
+
+Sending: 0004BADC
+Received: 0005SBUS
+
+Sending: 0005BADC
+Received: 0006SBUS
+
+Sending: 0006BADC
+Received: 0007SBUS
+
+Sending: 0007BADC
+Received: 0008SBUS
+
+Sending: 0008BADC
+Received: 0009SBUS
+
+Sending: 0009BADC
+Received: 0010SBUS
+
+Sending: 0010BADC
+Received: 0011SBUS
+
+Sending: 0011BADC
+Received: 0012SBUS
+
+Sending: 0012BADC
+Received: 0013SBUS
+
+Sending: 0013BADC
+Received: 0014SBUS
+
+Sending: 0014BADC
+Received: 0015SBUS
+
+Sending: 0015BADC
+Received: 0016SBUS
+
+Sending: 0016BADC
+Received: 0017SBUS
+
+Sending: 0017BADC
+Received: 0018SBUS
+
+Sending: 0018BADC
+Received: 0019SBUS
+
+Sending: 0019BADC
+Received: 0020SBUS
+
+Sending: 0020BADC
+Received: 0021SBUS
+
+Sending: 0021BADC
+Received: 0022SBUS
+
+Sending: 0022BADC
+Received: 0023SBUS
+
+Sending: 0023BADC
+Received: 0024SBUS
+
+Sending: 0024BADC
+Received: 0025SBUS
+
+Sending: 0025BADC
+Received: 0026SBUS
+
+Sending: 0026BADC
+Received: 0027SBUS
+
+Sending: 0027BADC
+Received: 0028SBUS
+
+Sending: 0028BADC
+Received: 0029SBUS
+
+Sending: 0029BADC
+Received: 0030SBUS
+
+Sending: 0030BADC
+Received: 0031SBUS
+
+Sending: 0031BADC
+Received: 0032SBUS
+
+Sending: 0032BADC
+Received: 0033SBUS
+
+Sending: 0033BADC
+Received: 0034SBUS
+
+Sending: 0034BADC
+Received: 0035SBUS
+
+Sending: 0035BADC
+Received: 0036SBUS
+
+Sending: 0036BADC
+Received: 0037SBUS
+
+Sending: 0037BADC
+Received: 0038SBUS
+
+Sending: 0038BADC
+Received: 0039SBUS
+
+Sending: 0039BADC
+Received: 0040SBUS
+
+Sending: 0040BADC
+Received: 0041SBUS
+
+Sending: 0041BADC
+Received: 0042SBUS
+
+Sending: 0042BADC
+Received: 0043SBUS
+
+Sending: 0043BADC
+Received: 0044SBUS
+
+Sending: 0044BADC
+Received: 0045SBUS
+
+Sending: 0045BADC
+Received: 0046SBUS
+
+Sending: 0046BADC
+Received: 0047SBUS
+
+Sending: 0047BADC
+Received: 0048SBUS
+
+Sending: 0048BADC
+Received: 0049SBUS
+
+Sending: 0049BADC
+Received: 0050SBUS
+
+Sending: 0050BADC
+Received: 0051SBUS
+
+Sending: 0051BADC
+Received: 0052SBUS
+
+Sending: 0052BADC
+Received: 0053SBUS
+
+Sending: 0053BADC
+Received: 0054SBUS
+
+Sending: 0054BADC
+Received: 0055SBUS
+
+Sending: 0055BADC
+Received: 0056SBUS
+
+Sending: 0056BADC
+Received: 0057SBUS
+
+Sending: 0057BADC
+Received: 0058SBUS
+
+Sending: 0058BADC
+Received: 0059SBUS
+
+Sending: 0059BADC
+Received: 0060SBUS
+
+Sending: 0060BADC
+Received: 0061SBUS
+
+Sending: 0061BADC
+Received: 0062SBUS
+
+Sending: 0062BADC
+Received: 0063SBUS
+
+Sending: 0063BADC
+Received: 0064SBUS
+
+Sending: 0064BADC
+Received: 0065SBUS
+
+Sending: 0065BADC
+Received: 0066SBUS
+
+Sending: 0066BADC
+Received: 0067SBUS
+
+Sending: 0067BADC
+Received: 0068SBUS
+
+Sending: 0068BADC
+Received: 0069SBUS
+
+Sending: 0069BADC
+Received: 0070SBUS
+
+Sending: 0070BADC
+Received: 0071SBUS
+
+Sending: 0071BADC
+Received: 0072SBUS
+
+Sending: 0072BADC
+Received: 0073SBUS
+
+Sending: 0073BADC
+Received: 0074SBUS
+
+Sending: 0074BADC
+Received: 0075SBUS
+
+Sending: 0075BADC
+Received: 0076SBUS
+
+Sending: 0076BADC
+Received: 0077SBUS
+
+Sending: 0077BADC
+Received: 0078SBUS
+
+Sending: 0078BADC
+Received: 0079SBUS
+
+Sending: 0079BADC
+Received: 0080SBUS
+
+Sending: 0080BADC
+Received: 0081SBUS
+
+Sending: 0081BADC
+Received: 0082SBUS
+
+Sending: 0082BADC
+Received: 0083SBUS
+
+Sending: 0083BADC
+Received: 0084SBUS
+
+Sending: 0084BADC
+Received: 0085SBUS
+
+Sending: 0085BADC
+Received: 0086SBUS
+
+Sending: 0086BADC
+Received: 0087SBUS
+
+Sending: 0087BADC
+Received: 0088SBUS
+
+Sending: 0088BADC
+Received: 0089SBUS
+
+Sending: 0089BADC
+Received: 0090SBUS
+
+Sending: 0090BADC
+Received: 0091SBUS
+
+Sending: 0091BADC
+Received: 0092SBUS
+
+Sending: 0092BADC
+Received: 0093SBUS
+
+Sending: 0093BADC
+Received: 0094SBUS
+
+Sending: 0094BADC
+Received: 0095SBUS
+
+Sending: 0095BADC
+Received: 0096SBUS
+
+Sending: 0096BADC
+Received: 0097SBUS
+
+Sending: 0097BADC
+Received: 0098SBUS
+
+Sending: 0098BADC
+Received: 0099SBUS
+
+Sending: 0099BADC
+Received: 0100SBUS
+
+Sending: 0100BADC
+Received: 0101SBUS
+
+Sending: 0101BADC
+Received: 0102SBUS
+
+Sending: 0102BADC
+Received: 0103SBUS
+
+Sending: 0103BADC
+Received: 0104SBUS
+
+Sending: 0104BADC
+Received: 0105SBUS
+
+Sending: 0105BADC
+Received: 0106SBUS
+
+Sending: 0106BADC
+Received: 0107SBUS
+
+Sending: 0107BADC
+Received: 0108SBUS
+
+Sending: 0108BADC
+Received: 0109SBUS
+
+Sending: 0109BADC
+Received: 0110SBUS
+
+Sending: 0110BADC
+Received: 0111SBUS
+
+Sending: 0111BADC
+Received: 0112SBUS
+
+Sending: 0112BADC
+Received: 0113SBUS
+
+Sending: 0113BADC
+Received: 0114SBUS
+
+Sending: 0114BADC
+Received: 0115SBUS
+
+Sending: 0115BADC
+Received: 0116SBUS
+
+Sending: 0116BADC
+Received: 0117SBUS
+
+Sending: 0117BADC
+Received: 0118SBUS
+
+Sending: 0118BADC
+Received: 0119SBUS
+
+Sending: 0119BADC
+Received: 0120SBUS
+
+Sending: 0120BADC
+Received: 0121SBUS
+
+Sending: 0121BADC
+Received: 0122SBUS
+
+Sending: 0122BADC
+Received: 0123SBUS
+
+Sending: 0123BADC
+Received: 0124SBUS
+
+Sending: 0124BADC
+Received: 0125SBUS
+
+Sending: 0125BADC
+Received: 0126SBUS
+
+Sending: 0126BADC
+Received: 0127SBUS
+
+Sending: 0127BADC
+Received: 0128SBUS
+
+Sending: 0128BADC
+Received: 0129SBUS
+
+Sending: 0129BADC
+Received: 0130SBUS
+
+Sending: 0130BADC
+Received: 0131SBUS
+
+Sending: 0131BADC
+Received: 0132SBUS
+
+Sending: 0132BADC
+Received: 0133SBUS
+
+Sending: 0133BADC
+Received: 0134SBUS
+
+Sending: 0134BADC
+Received: 0135SBUS
+
+Sending: 0135BADC
+Received: 0136SBUS
+
+Sending: 0136BADC
+Received: 0137SBUS
+
+Sending: 0137BADC
+Received: 0138SBUS
+
+Sending: 0138BADC
+Received: 0139SBUS
+
+Sending: 0139BADC
+Received: 0140SBUS
+
+Sending: 0140BADC
+Received: 0141SBUS
+
+Sending: 0141BADC
+Received: 0142SBUS
+
+Sending: 0142BADC
+Received: 0143SBUS
+
+Sending: 0143BADC
+Received: 0144SBUS
+
+Sending: 0144BADC
+Received: 0145SBUS
+
+Sending: 0145BADC
+Received: 0146SBUS
+
+Sending: 0146BADC
+Received: 0147SBUS
+
+Sending: 0147BADC
+Received: 0148SBUS
+
+Sending: 0148BADC
+Received: 0149SBUS
+
+Sending: 0149BADC
+Received: 0150SBUS
+
+Sending: 0150BADC
+Received: 0151SBUS
+
+Sending: 0151BADC
+Received: 0152SBUS
+
+Sending: 0152BADC
+Received: 0153SBUS
+
+Sending: 0153BADC
+Received: 0154SBUS
+
+Sending: 0154BADC
+Received: 0155SBUS
+
+Sending: 0155BADC
+Received: 0156SBUS
+
+Sending: 0156BADC
+Received: 0157SBUS
+
+Sending: 0157BADC
+Received: 0158SBUS
+
+Sending: 0158BADC
+Received: 0159SBUS
+
+Sending: 0159BADC
+Received: 0160SBUS
+
+Sending: 0160BADC
+Received: 0161SBUS
+
+Sending: 0161BADC
+Received: 0162SBUS
+
+Sending: 0162BADC
+Received: 0163SBUS
+
+Sending: 0163BADC
+Received: 0164SBUS
+
+Sending: 0164BADC
+Received: 0165SBUS
+
+Sending: 0165BADC
+Received: 0166SBUS
+
+Sending: 0166BADC
+Received: 0167SBUS
+
+Sending: 0167BADC
+Received: 0168SBUS
+
+Sending: 0168BADC
+Received: 0169SBUS
+
+Sending: 0169BADC
+Received: 0170SBUS
+
+Sending: 0170BADC
+Received: 0171SBUS
+
+Sending: 0171BADC
+Received: 0172SBUS
+
+Sending: 0172BADC
+Received: 0173SBUS
+
+Sending: 0173BADC
+Received: 0174SBUS
+
+Sending: 0174BADC
+Received: 0175SBUS
+
+Sending: 0175BADC
+Received: 0176SBUS
+
+Sending: 0176BADC
+Received: 0177SBUS
+
+Sending: 0177BADC
+Received: 0178SBUS
+
+Sending: 0178BADC
+Received: 0179SBUS
+
+Sending: 0179BADC
+Received: 0180SBUS
+
+Sending: 0180BADC
+Received: 0181SBUS
+
+Sending: 0181BADC
+Received: 0182SBUS
+
+Sending: 0182BADC
+Received: 0183SBUS
+
+Sending: 0183BADC
+Received: 0184SBUS
+
+Sending: 0184BADC
+Received: 0185SBUS
+
+Sending: 0185BADC
+Received: 0186SBUS
+
+Sending: 0186BADC
+Received: 0187SBUS
+
+Sending: 0187BADC
+Received: 0188SBUS
+
+Sending: 0188BADC
+Received: 0189SBUS
+
+Sending: 0189BADC
+Received: 0190SBUS
+
+Sending: 0190BADC
+Received: 0191SBUS
+
+Sending: 0191BADC
+Received: 0192SBUS
+
+Sending: 0192BADC
+Received: 0193SBUS
+
+Sending: 0193BADC
+Received: 0194SBUS
+
+Sending: 0194BADC
+Received: 0195SBUS
+
+Sending: 0195BADC
+Received: 0196SBUS
+
+Sending: 0196BADC
+Received: 0197SBUS
+
+Sending: 0197BADC
+Received: 0198SBUS
+
+Sending: 0198BADC
+Received: 0199SBUS
+
+Sending: 0199BADC
+Received: 0200SBUS
+
+Sending: 0200BADC
+Received: 0201SBUS
+
+Sending: 0201BADC
+Received: 0202SBUS
+
+Sending: 0202BADC
+Received: 0203SBUS
+
+Sending: 0203BADC
+Received: 0204SBUS
+
+Sending: 0204BADC
+Received: 0205SBUS
+
+Sending: 0205BADC
+Received: 0206SBUS
+
+Sending: 0206BADC
+Received: 0207SBUS
+
+Sending: 0207BADC
+Received: 0208SBUS
+
+Sending: 0208BADC
+Received: 0209SBUS
+
+Sending: 0209BADC
+Received: 0210SBUS
+
+Sending: 0210BADC
+Received: 0211SBUS
+
+Sending: 0211BADC
+Received: 0212SBUS
+
+Sending: 0212BADC
+Received: 0213SBUS
+
+Sending: 0213BADC
+Received: 0214SBUS
+
+Sending: 0214BADC
+Received: 0215SBUS
+
+Sending: 0215BADC
+Received: 0216SBUS
+
+Sending: 0216BADC
+Received: 0217SBUS
+
+Sending: 0217BADC
+Received: 0218SBUS
+
+Sending: 0218BADC
+Received: 0219SBUS
+
+Sending: 0219BADC
+Received: 0220SBUS
+
+Sending: 0220BADC
+Received: 0221SBUS
+
+Sending: 0221BADC
+Received: 0222SBUS
+
+Sending: 0222BADC
+Received: 0223SBUS
+
+Sending: 0223BADC
+Received: 0224SBUS
+
+Sending: 0224BADC
+Received: 0225SBUS
+
+Sending: 0225BADC
+Received: 0226SBUS
+
+Sending: 0226BADC
+Received: 0227SBUS
+
+Sending: 0227BADC
+Received: 0228SBUS
+
+Sending: 0228BADC
+Received: 0229SBUS
+
+Sending: 0229BADC
+Received: 0230SBUS
+
+Sending: 0230BADC
+Received: 0231SBUS
+
+Sending: 0231BADC
+Received: 0232SBUS
+
+Sending: 0232BADC
+Received: 0233SBUS
+
+Sending: 0233BADC
+Received: 0234SBUS
+
+Sending: 0234BADC
+Received: 0235SBUS
+
+Sending: 0235BADC
+Received: 0236SBUS
+
+Sending: 0236BADC
+Received: 0237SBUS
+
+Sending: 0237BADC
+Received: 0238SBUS
+
+Sending: 0238BADC
+Received: 0239SBUS
+
+Sending: 0239BADC
+Received: 0240SBUS
+
+Sending: 0240BADC
+Received: 0241SBUS
+
+Sending: 0241BADC
+Received: 0242SBUS
+
+Sending: 0242BADC
+Received: 0243SBUS
+
+Sending: 0243BADC
+Received: 0244SBUS
+
+Sending: 0244BADC
+Received: 0245SBUS
+
+Sending: 0245BADC
+Received: 0246SBUS
+
+Sending: 0246BADC
+Received: 0247SBUS
+
+Sending: 0247BADC
+Received: 0248SBUS
+
+Sending: 0248BADC
+Received: 0249SBUS
+
+Sending: 0249BADC
+Received: 0250SBUS
+
+Sending: 0250BADC
+Received: 0251SBUS
+
+Sending: 0251BADC
+Received: 0252SBUS
+
+Sending: 0252BADC
+Received: 0253SBUS
+
+Sending: 0253BADC
+Received: 0254SBUS
+
+Sending: 0254BADC
+Received: 0255SBUS
+
+Sending: 0255BADC
+Received: 0256SBUS
+
+Sending: 0256BADC
+Received: 0257SBUS
+
+Sending: 0257BADC
+Received: 0258SBUS
+
+Sending: 0258BADC
+Received: 0259SBUS
+
+Sending: 0259BADC
+Received: 0260SBUS
+
+Sending: 0260BADC
+Received: 0261SBUS
+
+Sending: 0261BADC
+Received: 0262SBUS
+
+Sending: 0262BADC
+Received: 0263SBUS
+
+Sending: 0263BADC
+Received: 0264SBUS
+
+Sending: 0264BADC
+Received: 0265SBUS
+
+Sending: 0265BADC
+Received: 0266SBUS
+
+Sending: 0266BADC
+Received: 0267SBUS
+
+Sending: 0267BADC
+Received: 0268SBUS
+
+Sending: 0268BADC
+Received: 0269SBUS
+
+Sending: 0269BADC
+Received: 0270SBUS
+
+Sending: 0270BADC
+Received: 0271SBUS
+
+Sending: 0271BADC
+Received: 0272SBUS
+
+Sending: 0272BADC
+Received: 0273SBUS
+
+Sending: 0273BADC
+Received: 0274SBUS
+
+Sending: 0274BADC
+Received: 0275SBUS
+
+Sending: 0275BADC
+Received: 0276SBUS
+
+Sending: 0276BADC
+Received: 0277SBUS
+
+Sending: 0277BADC
+Received: 0278SBUS
+
+Sending: 0278BADC
+Received: 0279SBUS
+
+Sending: 0279BADC
+Received: 0280SBUS
+
+Sending: 0280BADC
+Received: 0281SBUS
+
+Sending: 0281BADC
+Received: 0282SBUS
+
+Sending: 0282BADC
+Received: 0283SBUS
+
+Sending: 0283BADC
+Received: 0284SBUS
+
+Sending: 0284BADC
+Received: 0285SBUS
+
+Sending: 0285BADC
+Received: 0286SBUS
+
+Sending: 0286BADC
+Received: 0287SBUS
+
+Sending: 0287BADC
+Received: 0288SBUS
+
+Sending: 0288BADC
+Received: 0289SBUS
+
+Sending: 0289BADC
+Received: 0290SBUS
+
+Sending: 0290BADC
+Received: 0291SBUS
+
+Sending: 0291BADC
+Received: 0292SBUS
+
+Sending: 0292BADC
+Received: 0293SBUS
+
+Sending: 0293BADC
+Received: 0294SBUS
+
+Sending: 0294BADC
+Received: 0295SBUS
+
+Sending: 0295BADC
+Received: 0296SBUS
+
+Sending: 0296BADC
+Received: 0297SBUS
+
+Sending: 0297BADC
+Received: 0298SBUS
+
+Sending: 0298BADC
+Received: 0299SBUS
+
+Sending: 0299BADC
+Received: 0300SBUS
+
+Sending: 0300BADC
+Received: 0301SBUS
+
+Sending: 0301BADC
+Received: 0302SBUS
+
+Sending: 0302BADC
+Received: 0303SBUS
+
+Sending: 0303BADC
+Received: 0304SBUS
+
+Sending: 0304BADC
+Received: 0305SBUS
+
+Sending: 0305BADC
+Received: 0306SBUS
+
+Sending: 0306BADC
+Received: 0307SBUS
+
+Sending: 0307BADC
+Received: 0308SBUS
+
+Sending: 0308BADC
+Received: 0309SBUS
+
+Sending: 0309BADC
+Received: 0310SBUS
+
+Sending: 0310BADC
+Received: 0311SBUS
+
+Sending: 0311BADC
+Received: 0312SBUS
+
+Sending: 0312BADC
+Received: 0313SBUS
+
+Sending: 0313BADC
+Received: 0314SBUS
+
+Sending: 0314BADC
+Received: 0315SBUS
+
+Sending: 0315BADC
+Received: 0316SBUS
+
+Sending: 0316BADC
+Received: 0317SBUS
+
+Sending: 0317BADC
+Received: 0318SBUS
+
+Sending: 0318BADC
+Received: 0319SBUS
+
+Sending: 0319BADC
+Received: 0320SBUS
+
+Sending: 0320BADC
+Received: 0321SBUS
+
+Sending: 0321BADC
+Received: 0322SBUS
+
+Sending: 0322BADC
+Received: 0323SBUS
+
+Sending: 0323BADC
+Received: 0324SBUS
+
+Sending: 0324BADC
+Received: 0325SBUS
+
+Sending: 0325BADC
+Received: 0326SBUS
+
+Sending: 0326BADC
+Received: 0327SBUS
+
+Sending: 0327BADC
+Received: 0328SBUS
+
+Sending: 0328BADC
+Received: 0329SBUS
+
+Sending: 0329BADC
+Received: 0330SBUS
+
+Sending: 0330BADC
+Received: 0331SBUS
+
+Sending: 0331BADC
+Received: 0332SBUS
+
+Sending: 0332BADC
+Received: 0333SBUS
+
+Sending: 0333BADC
+Received: 0334SBUS
+
+Sending: 0334BADC
+Received: 0335SBUS
+
+Sending: 0335BADC
+Received: 0336SBUS
+
+Sending: 0336BADC
+Received: 0337SBUS
+
+Sending: 0337BADC
+Received: 0338SBUS
+
+Sending: 0338BADC
+Received: 0339SBUS
+
+Sending: 0339BADC
+Received: 0340SBUS
+
+Sending: 0340BADC
+Received: 0341SBUS
+
+Sending: 0341BADC
+Received: 0342SBUS
+
+Sending: 0342BADC
+Received: 0343SBUS
+
+Sending: 0343BADC
+Received: 0344SBUS
+
+Sending: 0344BADC
+Received: 0345SBUS
+
+Sending: 0345BADC
+Received: 0346SBUS
+
+Sending: 0346BADC
+Received: 0347SBUS
+
+Sending: 0347BADC
+Received: 0348SBUS
+
+Sending: 0348BADC
+Received: 0349SBUS
+
+Sending: 0349BADC
+Received: 0350SBUS
+
+Sending: 0350BADC
+Received: 0351SBUS
+
+Sending: 0351BADC
+Received: 0352SBUS
+
+Sending: 0352BADC
+Received: 0353SBUS
+
+Sending: 0353BADC
+Received: 0354SBUS
+
+Sending: 0354BADC
+Received: 0355SBUS
+
+Sending: 0355BADC
+Received: 0356SBUS
+
+Sending: 0356BADC
+Received: 0357SBUS
+
+Sending: 0357BADC
+Received: 0358SBUS
+
+Sending: 0358BADC
+Received: 0359SBUS
+
+Sending: 0359BADC
+Received: 0360SBUS
+
+Sending: 0360BADC
+Received: 0361SBUS
+
+Sending: 0361BADC
+Received: 0362SBUS
+
+Sending: 0362BADC
+Received: 0363SBUS
+
+Sending: 0363BADC
+Received: 0364SBUS
+
+Sending: 0364BADC
+Received: 0365SBUS
+
+Sending: 0365BADC
+Received: 0366SBUS
+
+Sending: 0366BADC
+Received: 0367SBUS
+
+Sending: 0367BADC
+Received: 0368SBUS
+
+Sending: 0368BADC
+Received: 0369SBUS
+
+Sending: 0369BADC
+Received: 0370SBUS
+
+Sending: 0370BADC
+Received: 0371SBUS
+
+Sending: 0371BADC
+Received: 0372SBUS
+
+Sending: 0372BADC
+Received: 0373SBUS
+
+Sending: 0373BADC
+Received: 0374SBUS
+
+Sending: 0374BADC
+Received: 0375SBUS
+
+Sending: 0375BADC
+Received: 0376SBUS
+
+Sending: 0376BADC
+Received: 0377SBUS
+
+Sending: 0377BADC
+Received: 0378SBUS
+
+Sending: 0378BADC
+Received: 0379SBUS
+
+Sending: 0379BADC
+Received: 0380SBUS
+
+Sending: 0380BADC
+Received: 0381SBUS
+
+Sending: 0381BADC
+Received: 0382SBUS
+
+Sending: 0382BADC
+Received: 0383SBUS
+
+Sending: 0383BADC
+Received: 0384SBUS
+
+Sending: 0384BADC
+Received: 0385SBUS
+
+Sending: 0385BADC
+Received: 0386SBUS
+
+Sending: 0386BADC
+Received: 0387SBUS
+
+Sending: 0387BADC
+Received: 0388SBUS
+
+Sending: 0388BADC
+Received: 0389SBUS
+
+Sending: 0389BADC
+Received: 0390SBUS
+
+Sending: 0390BADC
+Received: 0391SBUS
+
+Sending: 0391BADC
+Received: 0392SBUS
+
+Sending: 0392BADC
+Received: 0393SBUS
+
+Sending: 0393BADC
+Received: 0394SBUS
+
+Sending: 0394BADC
+Received: 0395SBUS
+
+Sending: 0395BADC
+Received: 0396SBUS
+
+Sending: 0396BADC
+Received: 0397SBUS
+
+Sending: 0397BADC
+Received: 0398SBUS
+
+Sending: 0398BADC
+Received: 0399SBUS
+
+Sending: 0399BADC
+Received: 0400SBUS
+
+Sending: 0400BADC
+Received: 0401SBUS
+
+Sending: 0401BADC
+Received: 0402SBUS
+
+Sending: 0402BADC
+Received: 0403SBUS
+
+Sending: 0403BADC
+Received: 0404SBUS
+
+Sending: 0404BADC
+Received: 0405SBUS
+
+Sending: 0405BADC
+Received: 0406SBUS
+
+Sending: 0406BADC
+Received: 0407SBUS
+
+Sending: 0407BADC
+Received: 0408SBUS
+
+Sending: 0408BADC
+Received: 0409SBUS
+
+Sending: 0409BADC
+Received: 0410SBUS
+
+Sending: 0410BADC
+Received: 0411SBUS
+
+Sending: 0411BADC
+Received: 0412SBUS
+
+Sending: 0412BADC
+Received: 0413SBUS
+
+Sending: 0413BADC
+Received: 0414SBUS
+
+Sending: 0414BADC
+Received: 0415SBUS
+
+Sending: 0415BADC
+Received: 0416SBUS
+
+Sending: 0416BADC
+Received: 0417SBUS
+
+Sending: 0417BADC
+Received: 0418SBUS
+
+Sending: 0418BADC
+Received: 0419SBUS
+
+Sending: 0419BADC
+Received: 0420SBUS
+
+Sending: 0420BADC
+Received: 0421SBUS
+
+Sending: 0421BADC
+Received: 0422SBUS
+
+Sending: 0422BADC
+Received: 0423SBUS
+
+Sending: 0423BADC
+Received: 0424SBUS
+
+Sending: 0424BADC
+Received: 0425SBUS
+
+Sending: 0425BADC
+Received: 0426SBUS
+
+Sending: 0426BADC
+Received: 0427SBUS
+
+Sending: 0427BADC
+Received: 0428SBUS
+
+Sending: 0428BADC
+Received: 0429SBUS
+
+Sending: 0429BADC
+Received: 0430SBUS
+
+Sending: 0430BADC
+Received: 0431SBUS
+
+Sending: 0431BADC
+Received: 0432SBUS
+
+Sending: 0432BADC
+Received: 0433SBUS
+
+Sending: 0433BADC
+Received: 0434SBUS
+
+Sending: 0434BADC
+Received: 0435SBUS
+
+Sending: 0435BADC
+Received: 0436SBUS
+
+Sending: 0436BADC
+Received: 0437SBUS
+
+Sending: 0437BADC
+Received: 0438SBUS
+
+Sending: 0438BADC
+Received: 0439SBUS
+
+Sending: 0439BADC
+Received: 0440SBUS
+
+Sending: 0440BADC
+Received: 0441SBUS
+
+Sending: 0441BADC
+Received: 0442SBUS
+
+Sending: 0442BADC
+Received: 0443SBUS
+
+Sending: 0443BADC
+Received: 0444SBUS
+
+Sending: 0444BADC
+Received: 0445SBUS
+
+Sending: 0445BADC
+Received: 0446SBUS
+
+Sending: 0446BADC
+Received: 0447SBUS
+
+Sending: 0447BADC
+Received: 0448SBUS
+
+Sending: 0448BADC
+Received: 0449SBUS
+
+Sending: 0449BADC
+Received: 0450SBUS
+
+Sending: 0450BADC
+Received: 0451SBUS
+
+Sending: 0451BADC
+Received: 0452SBUS
+
+Sending: 0452BADC
+Received: 0453SBUS
+
+Sending: 0453BADC
+Received: 0454SBUS
+
+Sending: 0454BADC
+Received: 0455SBUS
+
+Sending: 0455BADC
+Received: 0456SBUS
+
+Sending: 0456BADC
+Received: 0457SBUS
+
+Sending: 0457BADC
+Received: 0458SBUS
+
+Sending: 0458BADC
+Received: 0459SBUS
+
+Sending: 0459BADC
+Received: 0460SBUS
+
+Sending: 0460BADC
+Received: 0461SBUS
+
+Sending: 0461BADC
+Received: 0462SBUS
+
+Sending: 0462BADC
+Received: 0463SBUS
+
+Sending: 0463BADC
+Received: 0464SBUS
+
+Sending: 0464BADC
+Received: 0465SBUS
+
+Sending: 0465BADC
+Received: 0466SBUS
+
+Sending: 0466BADC
+Received: 0467SBUS
+
+Sending: 0467BADC
+Received: 0468SBUS
+
+Sending: 0468BADC
+Received: 0469SBUS
+
+Sending: 0469BADC
+Received: 0470SBUS
+
+Sending: 0470BADC
+Received: 0471SBUS
+
+Sending: 0471BADC
+Received: 0472SBUS
+
+Sending: 0472BADC
+Received: 0473SBUS
+
+Sending: 0473BADC
+Received: 0474SBUS
+
+Sending: 0474BADC
+Received: 0475SBUS
+
+Sending: 0475BADC
+Received: 0476SBUS
+
+Sending: 0476BADC
+Received: 0477SBUS
+
+Sending: 0477BADC
+Received: 0478SBUS
+
+Sending: 0478BADC
+Received: 0479SBUS
+
+Sending: 0479BADC
+Received: 0480SBUS
+
+Sending: 0480BADC
+Received: 0481SBUS
+
+Sending: 0481BADC
+Received: 0482SBUS
+
+Sending: 0482BADC
+Received: 0483SBUS
+
+Sending: 0483BADC
+Received: 0484SBUS
+
+Sending: 0484BADC
+Received: 0485SBUS
+
+Sending: 0485BADC
+Received: 0486SBUS
+
+Sending: 0486BADC
+Received: 0487SBUS
+
+Sending: 0487BADC
+Received: 0488SBUS
+
+Sending: 0488BADC
+Received: 0489SBUS
+
+Sending: 0489BADC
+Received: 0490SBUS
+
+Sending: 0490BADC
+Received: 0491SBUS
+
+Sending: 0491BADC
+Received: 0492SBUS
+
+Sending: 0492BADC
+Received: 0493SBUS
+
+Sending: 0493BADC
+Received: 0494SBUS
+
+Sending: 0494BADC
+Received: 0495SBUS
+
+Sending: 0495BADC
+Received: 0496SBUS
+
+Sending: 0496BADC
+Received: 0497SBUS
+
+Sending: 0497BADC
+Received: 0498SBUS
+
+Sending: 0498BADC
+Received: 0499SBUS
+
+Sending: 0499BADC
+Received: 0500SBUS
+
+Sending: 0500BADC
+Received: 0501SBUS
+
+Sending: 0501BADC
+Received: 0502SBUS
+
+Sending: 0502BADC
+Received: 0503SBUS
+
+Sending: 0503BADC
+Received: 0504SBUS
+
+Sending: 0504BADC
+Received: 0505SBUS
+
+Sending: 0505BADC
+Received: 0506SBUS
+
+Sending: 0506BADC
+Received: 0507SBUS
+
+Sending: 0507BADC
+Received: 0508SBUS
+
+Sending: 0508BADC
+Received: 0509SBUS
+
+Sending: 0509BADC
+Received: 0510SBUS
+
+Sending: 0510BADC
+Received: 0511SBUS
+
+Sending: 0511BADC
+Received: 0512SBUS
+
+Sending: 0512BADC
+Received: 0513SBUS
+
+Sending: 0513BADC
+Received: 0514SBUS
+
+Sending: 0514BADC
+Received: 0515SBUS
+
+Sending: 0515BADC
+Received: 0516SBUS
+
+Sending: 0516BADC
+Received: 0517SBUS
+
+Sending: 0517BADC
+Received: 0518SBUS
+
+Sending: 0518BADC
+Received: 0519SBUS
+
+Sending: 0519BADC
+Received: 0520SBUS
+
+Sending: 0520BADC
+Received: 0521SBUS
+
+Sending: 0521BADC
+Received: 0522SBUS
+
+Sending: 0522BADC
+Received: 0523SBUS
+
+Sending: 0523BADC
+Received: 0524SBUS
+
+Sending: 0524BADC
+Received: 0525SBUS
+
+Sending: 0525BADC
+Received: 0526SBUS
+
+Sending: 0526BADC
+Received: 0527SBUS
+
+Sending: 0527BADC
+Received: 0528SBUS
+
+Sending: 0528BADC
+Received: 0529SBUS
+
+Sending: 0529BADC
+Received: 0530SBUS
+
+Sending: 0530BADC
+Received: 0531SBUS
+
+Sending: 0531BADC
+Received: 0532SBUS
+
+Sending: 0532BADC
+Received: 0533SBUS
+
+Sending: 0533BADC
+Received: 0534SBUS
+
+Sending: 0534BADC
+Received: 0535SBUS
+
+Sending: 0535BADC
+Received: 0536SBUS
+
+Sending: 0536BADC
+Received: 0537SBUS
+
+Sending: 0537BADC
+Received: 0538SBUS
+
+Sending: 0538BADC
+Received: 0539SBUS
+
+Sending: 0539BADC
+Received: 0540SBUS
+
+Sending: 0540BADC
+Received: 0541SBUS
+
+Sending: 0541BADC
+Received: 0542SBUS
+
+Sending: 0542BADC
+Received: 0543SBUS
+
+Sending: 0543BADC
+Received: 0544SBUS
+
+Sending: 0544BADC
+Received: 0545SBUS
+
+Sending: 0545BADC
+Received: 0546SBUS
+
+Sending: 0546BADC
+Received: 0547SBUS
+
+Sending: 0547BADC
+Received: 0548SBUS
+
+Sending: 0548BADC
+Received: 0549SBUS
+
+Sending: 0549BADC
+Received: 0550SBUS
+
+Sending: 0550BADC
+Received: 0551SBUS
+
+Sending: 0551BADC
+Received: 0552SBUS
+
+Sending: 0552BADC
+Received: 0553SBUS
+
+Sending: 0553BADC
+Received: 0554SBUS
+
+Sending: 0554BADC
+Received: 0555SBUS
+
+Sending: 0555BADC
+Received: 0556SBUS
+
+Sending: 0556BADC
+Received: 0557SBUS
+
+Sending: 0557BADC
+Received: 0558SBUS
+
+Sending: 0558BADC
+Received: 0559SBUS
+
+Sending: 0559BADC
+Received: 0560SBUS
+
+Sending: 0560BADC
+Received: 0561SBUS
+
+Sending: 0561BADC
+Received: 0562SBUS
+
+Sending: 0562BADC
+Received: 0563SBUS
+
+Sending: 0563BADC
+Received: 0564SBUS
+
+Sending: 0564BADC
+Received: 0565SBUS
+
+Sending: 0565BADC
+Received: 0566SBUS
+
+Sending: 0566BADC
+Received: 0567SBUS
+
+Sending: 0567BADC
+Received: 0568SBUS
+
+Sending: 0568BADC
+Received: 0569SBUS
+
+Sending: 0569BADC
+Received: 0570SBUS
+
+Sending: 0570BADC
+Received: 0571SBUS
+
+Sending: 0571BADC
+Received: 0572SBUS
+
+Sending: 0572BADC
+Received: 0573SBUS
+
+Sending: 0573BADC
+Received: 0574SBUS
+
+Sending: 0574BADC
+Received: 0575SBUS
+
+Sending: 0575BADC
+Received: 0576SBUS
+
+Sending: 0576BADC
+Received: 0577SBUS
+
+Sending: 0577BADC
+Received: 0578SBUS
+
+Sending: 0578BADC
+Received: 0579SBUS
+
+Sending: 0579BADC
+Received: 0580SBUS
+
+Sending: 0580BADC
+Received: 0581SBUS
+
+Sending: 0581BADC
+Received: 0582SBUS
+
+Sending: 0582BADC
+Received: 0583SBUS
+
+Sending: 0583BADC
+Received: 0584SBUS
+
+Sending: 0584BADC
+Received: 0585SBUS
+
+Sending: 0585BADC
+Received: 0586SBUS
+
+Sending: 0586BADC
+Received: 0587SBUS
+
+Sending: 0587BADC
+Received: 0588SBUS
+
+Sending: 0588BADC
+Received: 0589SBUS
+
+Sending: 0589BADC
+Received: 0590SBUS
+
+Sending: 0590BADC
+Received: 0591SBUS
+
+Sending: 0591BADC
+Received: 0592SBUS
+
+Sending: 0592BADC
+Received: 0593SBUS
+
+Sending: 0593BADC
+Received: 0594SBUS
+
+Sending: 0594BADC
+Received: 0595SBUS
+
+Sending: 0595BADC
+Received: 0596SBUS
+
+Sending: 0596BADC
+Received: 0597SBUS
+
+Sending: 0597BADC
+Received: 0598SBUS
+
+Sending: 0598BADC
+Received: 0599SBUS
+
+Sending: 0599BADC
+Received: 0600SBUS
+
+Sending: 0600BADC
+Received: 0601SBUS
+
+Sending: 0601BADC
+Received: 0602SBUS
+
+Sending: 0602BADC
+Received: 0603SBUS
+
+Sending: 0603BADC
+Received: 0604SBUS
+
+Sending: 0604BADC
+Received: 0605SBUS
+
+Sending: 0605BADC
+Received: 0606SBUS
+
+Sending: 0606BADC
+Received: 0607SBUS
+
+Sending: 0607BADC
+Received: 0608SBUS
+
+Sending: 0608BADC
+Received: 0609SBUS
+
+Sending: 0609BADC
+Received: 0610SBUS
+
+Sending: 0610BADC
+Received: 0611SBUS
+
+Sending: 0611BADC
+Received: 0612SBUS
+
+Sending: 0612BADC
+Received: 0613SBUS
+
+Sending: 0613BADC
+Received: 0614SBUS
+
+Sending: 0614BADC
+Received: 0615SBUS
+
+Sending: 0615BADC
+Received: 0616SBUS
+
+Sending: 0616BADC
+Received: 0617SBUS
+
+Sending: 0617BADC
+Received: 0618SBUS
+
+Sending: 0618BADC
+Received: 0619SBUS
+
+Sending: 0619BADC
+Received: 0620SBUS
+
+Sending: 0620BADC
+Received: 0621SBUS
+
+Sending: 0621BADC
+Received: 0622SBUS
+
+Sending: 0622BADC
+Received: 0623SBUS
+
+Sending: 0623BADC
+Received: 0624SBUS
+
+Sending: 0624BADC
+Received: 0625SBUS
+
+Sending: 0625BADC
+Received: 0626SBUS
+
+Sending: 0626BADC
+Received: 0627SBUS
+
+Sending: 0627BADC
+Received: 0628SBUS
+
+Sending: 0628BADC
+Received: 0629SBUS
+
+Sending: 0629BADC
+Received: 0630SBUS
+
+Sending: 0630BADC
+Received: 0631SBUS
+
+Sending: 0631BADC
+Received: 0632SBUS
+
+Sending: 0632BADC
+Received: 0633SBUS
+
+Sending: 0633BADC
+Received: 0634SBUS
+
+Sending: 0634BADC
+Received: 0635SBUS
+
+Sending: 0635BADC
+Received: 0636SBUS
+
+Sending: 0636BADC
+Received: 0637SBUS
+
+Sending: 0637BADC
+Received: 0638SBUS
+
+Sending: 0638BADC
+Received: 0639SBUS
+
+Sending: 0639BADC
+Received: 0640SBUS
+
+Sending: 0640BADC
+Received: 0641SBUS
+
+Sending: 0641BADC
+Received: 0642SBUS
+
+Sending: 0642BADC
+Received: 0643SBUS
+
+Sending: 0643BADC
+Received: 0644SBUS
+
+Sending: 0644BADC
+Received: 0645SBUS
+
+Sending: 0645BADC
+Received: 0646SBUS
+
+Sending: 0646BADC
+Received: 0647SBUS
+
+Sending: 0647BADC
+Received: 0648SBUS
+
+Sending: 0648BADC
+Received: 0649SBUS
+
+Sending: 0649BADC
+Received: 0650SBUS
+
+Sending: 0650BADC
+Received: 0651SBUS
+
+Sending: 0651BADC
+Received: 0652SBUS
+
+Sending: 0652BADC
+Received: 0653SBUS
+
+Sending: 0653BADC
+Received: 0654SBUS
+
+Sending: 0654BADC
+Received: 0655SBUS
+
+Sending: 0655BADC
+Received: 0656SBUS
+
+Sending: 0656BADC
+Received: 0657SBUS
+
+Sending: 0657BADC
+Received: 0658SBUS
+
+Sending: 0658BADC
+Received: 0659SBUS
+
+Sending: 0659BADC
+Received: 0660SBUS
+
+Sending: 0660BADC
+Received: 0661SBUS
+
+Sending: 0661BADC
+Received: 0662SBUS
+
+Sending: 0662BADC
+Received: 0663SBUS
+
+Sending: 0663BADC
+Received: 0664SBUS
+
+Sending: 0664BADC
+Received: 0665SBUS
+
+Sending: 0665BADC
+Received: 0666SBUS
+
+Sending: 0666BADC
+Received: 0667SBUS
+
+Sending: 0667BADC
+Received: 0668SBUS
+
+Sending: 0668BADC
+Received: 0669SBUS
+
+Sending: 0669BADC
+Received: 0670SBUS
+
+Sending: 0670BADC
+Received: 0671SBUS
+
+Sending: 0671BADC
+Received: 0672SBUS
+
+Sending: 0672BADC
+Received: 0673SBUS
+
+Sending: 0673BADC
+Received: 0674SBUS
+
+Sending: 0674BADC
+Received: 0675SBUS
+
+Sending: 0675BADC
+Received: 0676SBUS
+
+Sending: 0676BADC
+Received: 0677SBUS
+
+Sending: 0677BADC
+Received: 0678SBUS
+
+Sending: 0678BADC
+Received: 0679SBUS
+
+Sending: 0679BADC
+Received: 0680SBUS
+
+Sending: 0680BADC
+Received: 0681SBUS
+
+Sending: 0681BADC
+Received: 0682SBUS
+
+Sending: 0682BADC
+Received: 0683SBUS
+
+Sending: 0683BADC
+Received: 0684SBUS
+
+Sending: 0684BADC
+Received: 0685SBUS
+
+Sending: 0685BADC
+Received: 0686SBUS
+
+Sending: 0686BADC
+Received: 0687SBUS
+
+Sending: 0687BADC
+Received: 0688SBUS
+
+Sending: 0688BADC
+Received: 0689SBUS
+
+Sending: 0689BADC
+Received: 0690SBUS
+
+Sending: 0690BADC
+Received: 0691SBUS
+
+Sending: 0691BADC
+Received: 0692SBUS
+
+Sending: 0692BADC
+Received: 0693SBUS
+
+Sending: 0693BADC
+Received: 0694SBUS
+
+Sending: 0694BADC
+Received: 0695SBUS
+
+Sending: 0695BADC
+Received: 0696SBUS
+
+Sending: 0696BADC
+Received: 0697SBUS
+
+Sending: 0697BADC
+Received: 0698SBUS
+
+Sending: 0698BADC
+Received: 0699SBUS
+
+Sending: 0699BADC
+Received: 0700SBUS
+
+Sending: 0700BADC
+Received: 0701SBUS
+
+Sending: 0701BADC
+Received: 0702SBUS
+
+Sending: 0702BADC
+Received: 0703SBUS
+
+Sending: 0703BADC
+Received: 0704SBUS
+
+Sending: 0704BADC
+Received: 0705SBUS
+
+Sending: 0705BADC
+Received: 0706SBUS
+
+Sending: 0706BADC
+Received: 0707SBUS
+
+Sending: 0707BADC
+Received: 0708SBUS
+
+Sending: 0708BADC
+Received: 0709SBUS
+
+Sending: 0709BADC
+Received: 0710SBUS
+
+Sending: 0710BADC
+Received: 0711SBUS
+
+Sending: 0711BADC
+Received: 0712SBUS
+
+Sending: 0712BADC
+Received: 0713SBUS
+
+Sending: 0713BADC
+Received: 0714SBUS
+
+Sending: 0714BADC
+Received: 0715SBUS
+
+Sending: 0715BADC
+Received: 0716SBUS
+
+Sending: 0716BADC
+Received: 0717SBUS
+
+Sending: 0717BADC
+Received: 0718SBUS
+
+Sending: 0718BADC
+Received: 0719SBUS
+
+Sending: 0719BADC
+Received: 0720SBUS
+
+Sending: 0720BADC
+Received: 0721SBUS
+
+Sending: 0721BADC
+Received: 0722SBUS
+
+Sending: 0722BADC
+Received: 0723SBUS
+
+Sending: 0723BADC
+Received: 0724SBUS
+
+Sending: 0724BADC
+Received: 0725SBUS
+
+Sending: 0725BADC
+Received: 0726SBUS
+
+Sending: 0726BADC
+Received: 0727SBUS
+
+Sending: 0727BADC
+Received: 0728SBUS
+
+Sending: 0728BADC
+Received: 0729SBUS
+
+Sending: 0729BADC
+Received: 0730SBUS
+
+Sending: 0730BADC
+Received: 0731SBUS
+
+Sending: 0731BADC
+Received: 0732SBUS
+
+Sending: 0732BADC
+Received: 0733SBUS
+
+Sending: 0733BADC
+Received: 0734SBUS
+
+Sending: 0734BADC
+Received: 0735SBUS
+
+Sending: 0735BADC
+Received: 0736SBUS
+
+Sending: 0736BADC
+Received: 0737SBUS
+
+Sending: 0737BADC
+Received: 0738SBUS
+
+Sending: 0738BADC
+Received: 0739SBUS
+
+Sending: 0739BADC
+Received: 0740SBUS
+
+Sending: 0740BADC
+Received: 0741SBUS
+
+Sending: 0741BADC
+Received: 0742SBUS
+
+Sending: 0742BADC
+Received: 0743SBUS
+
+Sending: 0743BADC
+Received: 0744SBUS
+
+Sending: 0744BADC
+Received: 0745SBUS
+
+Sending: 0745BADC
+Received: 0746SBUS
+
+Sending: 0746BADC
+Received: 0747SBUS
+
+Sending: 0747BADC
+Received: 0748SBUS
+
+Sending: 0748BADC
+Received: 0749SBUS
+
+Sending: 0749BADC
+Received: 0750SBUS
+
+Sending: 0750BADC
+Received: 0751SBUS
+
+Sending: 0751BADC
+Received: 0752SBUS
+
+Sending: 0752BADC
+Received: 0753SBUS
+
+Sending: 0753BADC
+Received: 0754SBUS
+
+Sending: 0754BADC
+Received: 0755SBUS
+
+Sending: 0755BADC
+Received: 0756SBUS
+
+Sending: 0756BADC
+Received: 0757SBUS
+
+Sending: 0757BADC
+Received: 0758SBUS
+
+Sending: 0758BADC
+Received: 0759SBUS
+
+Sending: 0759BADC
+Received: 0760SBUS
+
+Sending: 0760BADC
+Received: 0761SBUS
+
+Sending: 0761BADC
+Received: 0762SBUS
+
+Sending: 0762BADC
+Received: 0763SBUS
+
+Sending: 0763BADC
+Received: 0764SBUS
+
+Sending: 0764BADC
+Received: 0765SBUS
+
+Sending: 0765BADC
+Received: 0766SBUS
+
+Sending: 0766BADC
+Received: 0767SBUS
+
+Sending: 0767BADC
+Received: 0768SBUS
+
+Sending: 0768BADC
+Received: 0769SBUS
+
+Sending: 0769BADC
+Received: 0770SBUS
+
+Sending: 0770BADC
+Received: 0771SBUS
+
+Sending: 0771BADC
+Received: 0772SBUS
+
+Sending: 0772BADC
+Received: 0773SBUS
+
+Sending: 0773BADC
+Received: 0774SBUS
+
+Sending: 0774BADC
+Received: 0775SBUS
+
+Sending: 0775BADC
+Received: 0776SBUS
+
+Sending: 0776BADC
+Received: 0777SBUS
+
+Sending: 0777BADC
+Received: 0778SBUS
+
+Sending: 0778BADC
+Received: 0779SBUS
+
+Sending: 0779BADC
+Received: 0780SBUS
+
+Sending: 0780BADC
+Received: 0781SBUS
+
+Sending: 0781BADC
+Received: 0782SBUS
+
+Sending: 0782BADC
+Received: 0783SBUS
+
+Sending: 0783BADC
+Received: 0784SBUS
+
+Sending: 0784BADC
+Received: 0785SBUS
+
+Sending: 0785BADC
+Received: 0786SBUS
+
+Sending: 0786BADC
+Received: 0787SBUS
+
+Sending: 0787BADC
+Received: 0788SBUS
+
+Sending: 0788BADC
+Received: 0789SBUS
+
+Sending: 0789BADC
+Received: 0790SBUS
+
+Sending: 0790BADC
+Received: 0791SBUS
+
+Sending: 0791BADC
+Received: 0792SBUS
+
+Sending: 0792BADC
+Received: 0793SBUS
+
+Sending: 0793BADC
+Received: 0794SBUS
+
+Sending: 0794BADC
+Received: 0795SBUS
+
+Sending: 0795BADC
+Received: 0796SBUS
+
+Sending: 0796BADC
+Received: 0797SBUS
+
+Sending: 0797BADC
+Received: 0798SBUS
+
+Sending: 0798BADC
+Received: 0799SBUS
+
+Sending: 0799BADC
+Received: 0800SBUS
+
+Sending: 0800BADC
+Received: 0801SBUS
+
+Sending: 0801BADC
+Received: 0802SBUS
+
+Sending: 0802BADC
+Received: 0803SBUS
+
+Sending: 0803BADC
+Received: 0804SBUS
+
+Sending: 0804BADC
+Received: 0805SBUS
+
+Sending: 0805BADC
+Received: 0806SBUS
+
+Sending: 0806BADC
+Received: 0807SBUS
+
+Sending: 0807BADC
+Received: 0808SBUS
+
+Sending: 0808BADC
+Received: 0809SBUS
+
+Sending: 0809BADC
+Received: 0810SBUS
+
+Sending: 0810BADC
+Received: 0811SBUS
+
+Sending: 0811BADC
+Received: 0812SBUS
+
+Sending: 0812BADC
+Received: 0813SBUS
+
+Sending: 0813BADC
+Received: 0814SBUS
+
+Sending: 0814BADC
+Received: 0815SBUS
+
+Sending: 0815BADC
+Received: 0816SBUS
+
+Sending: 0816BADC
+Received: 0817SBUS
+
+Sending: 0817BADC
+Received: 0818SBUS
+
+Sending: 0818BADC
+Received: 0819SBUS
+
+Sending: 0819BADC
+Received: 0820SBUS
+
+Sending: 0820BADC
+Received: 0821SBUS
+
+Sending: 0821BADC
+Received: 0822SBUS
+
+Sending: 0822BADC
+Received: 0823SBUS
+
+Sending: 0823BADC
+Received: 0824SBUS
+
+Sending: 0824BADC
+Received: 0825SBUS
+
+Sending: 0825BADC
+Received: 0826SBUS
+
+Sending: 0826BADC
+Received: 0827SBUS
+
+Sending: 0827BADC
+Received: 0828SBUS
+
+Sending: 0828BADC
+Received: 0829SBUS
+
+Sending: 0829BADC
+Received: 0830SBUS
+
+Sending: 0830BADC
+Received: 0831SBUS
+
+Sending: 0831BADC
+Received: 0832SBUS
+
+Sending: 0832BADC
+Received: 0833SBUS
+
+Sending: 0833BADC
+Received: 0834SBUS
+
+Sending: 0834BADC
+Received: 0835SBUS
+
+Sending: 0835BADC
+Received: 0836SBUS
+
+Sending: 0836BADC
+Received: 0837SBUS
+
+Sending: 0837BADC
+Received: 0838SBUS
+
+Sending: 0838BADC
+Received: 0839SBUS
+
+Sending: 0839BADC
+Received: 0840SBUS
+
+Sending: 0840BADC
+Received: 0841SBUS
+
+Sending: 0841BADC
+Received: 0842SBUS
+
+Sending: 0842BADC
+Received: 0843SBUS
+
+Sending: 0843BADC
+Received: 0844SBUS
+
+Sending: 0844BADC
+Received: 0845SBUS
+
+Sending: 0845BADC
+Received: 0846SBUS
+
+Sending: 0846BADC
+Received: 0847SBUS
+
+Sending: 0847BADC
+Received: 0848SBUS
+
+Sending: 0848BADC
+Received: 0849SBUS
+
+Sending: 0849BADC
+Received: 0850SBUS
+
+Sending: 0850BADC
+Received: 0851SBUS
+
+Sending: 0851BADC
+Received: 0852SBUS
+
+Sending: 0852BADC
+Received: 0853SBUS
+
+Sending: 0853BADC
+Received: 0854SBUS
+
+Sending: 0854BADC
+Received: 0855SBUS
+
+Sending: 0855BADC
+Received: 0856SBUS
+
+Sending: 0856BADC
+Received: 0857SBUS
+
+Sending: 0857BADC
+Received: 0858SBUS
+
+Sending: 0858BADC
+Received: 0859SBUS
+
+Sending: 0859BADC
+Received: 0860SBUS
+
+Sending: 0860BADC
+Received: 0861SBUS
+
+Sending: 0861BADC
+Received: 0862SBUS
+
+Sending: 0862BADC
+Received: 0863SBUS
+
+Sending: 0863BADC
+Received: 0864SBUS
+
+Sending: 0864BADC
+Received: 0865SBUS
+
+Sending: 0865BADC
+Received: 0866SBUS
+
+Sending: 0866BADC
+Received: 0867SBUS
+
+Sending: 0867BADC
+Received: 0868SBUS
+
+Sending: 0868BADC
+Received: 0869SBUS
+
+Sending: 0869BADC
+Received: 0870SBUS
+
+Sending: 0870BADC
+Received: 0871SBUS
+
+Sending: 0871BADC
+Received: 0872SBUS
+
+Sending: 0872BADC
+Received: 0873SBUS
+
+Sending: 0873BADC
+Received: 0874SBUS
+
+Sending: 0874BADC
+Received: 0875SBUS
+
+Sending: 0875BADC
+Received: 0876SBUS
+
+Sending: 0876BADC
+Received: 0877SBUS
+
+Sending: 0877BADC
+Received: 0878SBUS
+
+Sending: 0878BADC
+Received: 0879SBUS
+
+Sending: 0879BADC
+Received: 0880SBUS
+
+Sending: 0880BADC
+Received: 0881SBUS
+
+Sending: 0881BADC
+Received: 0882SBUS
+
+Sending: 0882BADC
+Received: 0883SBUS
+
+Sending: 0883BADC
+Received: 0884SBUS
+
+Sending: 0884BADC
+Received: 0885SBUS
+
+Sending: 0885BADC
+Received: 0886SBUS
+
+Sending: 0886BADC
+Received: 0887SBUS
+
+Sending: 0887BADC
+Received: 0888SBUS
+
+Sending: 0888BADC
+Received: 0889SBUS
+
+Sending: 0889BADC
+Received: 0890SBUS
+
+Sending: 0890BADC
+Received: 0891SBUS
+
+Sending: 0891BADC
+Received: 0892SBUS
+
+Sending: 0892BADC
+Received: 0893SBUS
+
+Sending: 0893BADC
+Received: 0894SBUS
+
+Sending: 0894BADC
+Received: 0895SBUS
+
+Sending: 0895BADC
+Received: 0896SBUS
+
+Sending: 0896BADC
+Received: 0897SBUS
+
+Sending: 0897BADC
+Received: 0898SBUS
+
+Sending: 0898BADC
+Received: 0899SBUS
+
+Sending: 0899BADC
+Received: 0900SBUS
+
+Sending: 0900BADC
+Received: 0901SBUS
+
+Sending: 0901BADC
+Received: 0902SBUS
+
+Sending: 0902BADC
+Received: 0903SBUS
+
+Sending: 0903BADC
+Received: 0904SBUS
+
+Sending: 0904BADC
+Received: 0905SBUS
+
+Sending: 0905BADC
+Received: 0906SBUS
+
+Sending: 0906BADC
+Received: 0907SBUS
+
+Sending: 0907BADC
+Received: 0908SBUS
+
+Sending: 0908BADC
+Received: 0909SBUS
+
+Sending: 0909BADC
+Received: 0910SBUS
+
+Sending: 0910BADC
+Received: 0911SBUS
+
+Sending: 0911BADC
+Received: 0912SBUS
+
+Sending: 0912BADC
+Received: 0913SBUS
+
+Sending: 0913BADC
+Received: 0914SBUS
+
+Sending: 0914BADC
+Received: 0915SBUS
+
+Sending: 0915BADC
+Received: 0916SBUS
+
+Sending: 0916BADC
+Received: 0917SBUS
+
+Sending: 0917BADC
+Received: 0918SBUS
+
+Sending: 0918BADC
+Received: 0919SBUS
+
+Sending: 0919BADC
+Received: 0920SBUS
+
+Sending: 0920BADC
+Received: 0921SBUS
+
+Sending: 0921BADC
+Received: 0922SBUS
+
+Sending: 0922BADC
+Received: 0923SBUS
+
+Sending: 0923BADC
+Received: 0924SBUS
+
+Sending: 0924BADC
+Received: 0925SBUS
+
+Sending: 0925BADC
+Received: 0926SBUS
+
+Sending: 0926BADC
+Received: 0927SBUS
+
+Sending: 0927BADC
+Received: 0928SBUS
+
+Sending: 0928BADC
+Received: 0929SBUS
+
+Sending: 0929BADC
+Received: 0930SBUS
+
+Sending: 0930BADC
+Received: 0931SBUS
+
+Sending: 0931BADC
+Received: 0932SBUS
+
+Sending: 0932BADC
+Received: 0933SBUS
+
+Sending: 0933BADC
+Received: 0934SBUS
+
+Sending: 0934BADC
+Received: 0935SBUS
+
+Sending: 0935BADC
+Received: 0936SBUS
+
+Sending: 0936BADC
+Received: 0937SBUS
+
+Sending: 0937BADC
+Received: 0938SBUS
+
+Sending: 0938BADC
+Received: 0939SBUS
+
+Sending: 0939BADC
+Received: 0940SBUS
+
+Sending: 0940BADC
+Received: 0941SBUS
+
+Sending: 0941BADC
+Received: 0942SBUS
+
+Sending: 0942BADC
+Received: 0943SBUS
+
+Sending: 0943BADC
+Received: 0944SBUS
+
+Sending: 0944BADC
+Received: 0945SBUS
+
+Sending: 0945BADC
+Received: 0946SBUS
+
+Sending: 0946BADC
+Received: 0947SBUS
+
+Sending: 0947BADC
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0948SBUS
+
+Sending: 0948BADC
+Received: 0949SBUS
+
+Sending: 0949BADC
+Received: 0001SBUS
+
+Sending: 0001BADC
+Received: 0950SBUS
+
+Sending: 0950BADC
+Received: 0002SBUS
+
+Sending: 0002BADC
+Received: 0951SBUS
+
+Sending: 0951BADC
+Received: 0003SBUS
+
+Sending: 0003BADC
+Received: 0952SBUS
+
+Sending: 0952BADC
+Received: 0004SBUS
+
+Sending: 0004BADC
+Received: 0953SBUS
+
+Sending: 0953BADC
+Received: 0005SBUS
+
+Sending: 0005BADC
+Received: 0954SBUS
+
+Sending: 0954BADC
+Received: 0006SBUS
+
+Sending: 0006BADC
+Received: 0955SBUS
+
+Sending: 0955BADC
+Received: 0007SBUS
+
+Sending: 0007BADC
+Received: 0956SBUS
+
+Sending: 0956BADC
+Received: 0008SBUS
+
+Sending: 0008BADC
+Received: 0957SBUS
+
+Sending: 0957BADC
+Received: 0009SBUS
+
+Sending: 0009BADC
+Received: 0958SBUS
+
+Sending: 0958BADC
+Received: 0010SBUS
+
+Sending: 0010BADC
+Received: 0959SBUS
+
+Sending: 0959BADC
+Received: 0011SBUS
+
+Sending: 0011BADC
+Received: 0960SBUS
+
+Sending: 0960BADC
+Received: 0012SBUS
+
+Sending: 0012BADC
+Received: 0961SBUS
+
+Sending: 0961BADC
+Received: 0013SBUS
+
+Sending: 0013BADC
+Received: 0962SBUS
+
+Sending: 0962BADC
+Received: 0014SBUS
+
+Sending: 0014BADC
+Received: 0963SBUS
+
+Sending: 0963BADC
+Received: 0015SBUS
+
+Sending: 0015BADC
+Received: 0964SBUS
+
+Sending: 0964BADC
+Received: 0016SBUS
+
+Sending: 0016BADC
+Received: 0965SBUS
+
+Sending: 0965BADC
+Received: 0017SBUS
+
+Sending: 0017BADC
+Received: 0966SBUS
+
+Sending: 0966BADC
+Received: 0018SBUS
+
+Sending: 0018BADC
+Received: 0967SBUS
+
+Sending: 0967BADC
+Received: 0019SBUS
+
+Sending: 0019BADC
+Received: 0968SBUS
+
+Sending: 0968BADC
+Received: 0020SBUS
+
+Sending: 0020BADC
+Received: 0969SBUS
+
+Sending: 0969BADC
+Received: 0021SBUS
+
+Sending: 0021BADC
+Received: 0970SBUS
+
+Sending: 0970BADC
+Received: 0022SBUS
+
+Sending: 0022BADC
+Received: 0971SBUS
+
+Sending: 0971BADC
+Received: 0023SBUS
+
+Sending: 0023BADC
+Received: 0972SBUS
+
+Sending: 0972BADC
+Received: 0024SBUS
+
+Sending: 0024BADC
+Received: 0973SBUS
+
+Sending: 0973BADC
+Received: 0025SBUS
+
+Sending: 0025BADC
+Received: 0974SBUS
+
+Sending: 0974BADC
+Received: 0026SBUS
+
+Sending: 0026BADC
+Received: 0975SBUS
+
+Sending: 0975BADC
+Received: 0027SBUS
+
+Sending: 0027BADC
+Received: 0976SBUS
+
+Sending: 0976BADC
+Received: 0028SBUS
+
+Sending: 0028BADC
+Received: 0977SBUS
+
+Sending: 0977BADC
+Received: 0029SBUS
+
+Sending: 0029BADC
+Received: 0978SBUS
+
+Sending: 0978BADC
+Received: 0030SBUS
+
+Sending: 0030BADC
+Received: 0979SBUS
+
+Sending: 0979BADC
+Received: 0031SBUS
+
+Sending: 0031BADC
+Received: 0980SBUS
+
+Sending: 0980BADC
+Received: 0032SBUS
+
+Sending: 0032BADC
+Received: 0981SBUS
+
+Sending: 0981BADC
+Received: 0033SBUS
+
+Sending: 0033BADC
+Received: 0982SBUS
+
+Sending: 0982BADC
+Received: 0034SBUS
+
+Sending: 0034BADC
+Received: 0983SBUS
+
+Sending: 0983BADC
+Received: 0035SBUS
+
+Sending: 0035BADC
+Received: 0984SBUS
+
+Sending: 0984BADC
+Received: 0036SBUS
+
+Sending: 0036BADC
+Received: 0985SBUS
+
+Sending: 0985BADC
+Received: 0037SBUS
+
+Sending: 0037BADC
+Received: 0986SBUS
+
+Sending: 0986BADC
+Received: 0038SBUS
+
+Sending: 0038BADC
+Received: 0987SBUS
+
+Sending: 0987BADC
+Received: 0039SBUS
+
+Sending: 0039BADC
+Received: 0988SBUS
+
+Sending: 0988BADC
+Received: 0040SBUS
+
+Sending: 0040BADC
+Received: 0989SBUS
+
+Sending: 0989BADC
+Received: 0041SBUS
+
+Sending: 0041BADC
+Received: 0990SBUS
+
+Sending: 0990BADC
+Received: 0042SBUS
+
+Sending: 0042BADC
+Received: 0991SBUS
+
+Sending: 0991BADC
+Received: 0043SBUS
+
+Sending: 0043BADC
+Received: 0992SBUS
+
+Sending: 0992BADC
+Received: 0044SBUS
+
+Sending: 0044BADC
+Received: 0993SBUS
+
+Sending: 0993BADC
+Received: 0045SBUS
+
+Sending: 0045BADC
+Received: 0994SBUS
+
+Sending: 0994BADC
+Received: 0046SBUS
+
+Sending: 0046BADC
+Received: 0995SBUS
+
+Sending: 0995BADC
+Received: 0047SBUS
+
+Sending: 0047BADC
+Received: 0996SBUS
+
+Sending: 0996BADC
+Received: 0048SBUS
+
+Sending: 0048BADC
+Received: 0997SBUS
+
+Sending: 0997BADC
+Received: 0049SBUS
+
+Sending: 0049BADC
+Received: 0998SBUS
+
+Sending: 0998BADC
+Received: 0050SBUS
+
+Sending: 0050BADC
+Received: 0999SBUS
+
+Sending: 0999BADC
+Received: 0051SBUS
+
+Sending: 0051BADC
+Received: 1000SBUS
+
+Sending: 1000BADC
+Received: 0052SBUS
+
+Sending: 0052BADC
+Received: 1001SBUS
+
+Sending: 1001BADC
+Received: 0053SBUS
+
+Sending: 0053BADC
+Received: 1002SBUS
+
+Sending: 1002BADC
+Received: 0054SBUS
+
+Sending: 0054BADC
+Received: 1003SBUS
+
+Sending: 1003BADC
+Received: 0055SBUS
+
+Sending: 0055BADC
+Received: 1004SBUS
+
+Sending: 1004BADC
+Received: 0056SBUS
+
+Sending: 0056BADC
+Received: 1005SBUS
+
+Sending: 1005BADC
+Received: 0057SBUS
+
+Sending: 0057BADC
+Received: 1006SBUS
+
+Sending: 1006BADC
+Received: 0058SBUS
+
+Sending: 0058BADC
+Received: 1007SBUS
+
+Sending: 1007BADC
+Received: 0059SBUS
+
+Sending: 0059BADC
+Received: 1008SBUS
+
+Sending: 1008BADC
+Received: 0060SBUS
+
+Sending: 0060BADC
+Received: 1009SBUS
+
+Sending: 1009BADC
+Received: 0061SBUS
+
+Sending: 0061BADC
+Received: 1010SBUS
+
+Sending: 1010BADC
+Received: 0062SBUS
+
+Sending: 0062BADC
+Received: 1011SBUS
+
+Sending: 1011BADC
+Received: 0063SBUS
+
+Sending: 0063BADC
+Received: 1012SBUS
+
+Sending: 1012BADC
+Received: 0064SBUS
+
+Sending: 0064BADC
+Received: 1013SBUS
+
+Sending: 1013BADC
+Received: 0065SBUS
+
+Sending: 0065BADC
+Received: 1014SBUS
+
+Sending: 1014BADC
+Received: 0066SBUS
+
+Sending: 0066BADC
+Received: 1015SBUS
+
+Sending: 1015BADC
+Received: 0067SBUS
+
+Sending: 0067BADC
+Received: 1016SBUS
+
+Sending: 1016BADC
+Received: 0068SBUS
+
+Sending: 0068BADC
+Received: 1017SBUS
+
+Sending: 1017BADC
+Received: 0069SBUS
+
+Sending: 0069BADC
+Received: 1018SBUS
+
+Sending: 1018BADC
+Received: 0070SBUS
+
+Sending: 0070BADC
+Received: 1019SBUS
+
+Sending: 1019BADC
+Received: 0071SBUS
+
+Sending: 0071BADC
+Received: 1020SBUS
+
+Sending: 1020BADC
+Received: 0072SBUS
+
+Sending: 0072BADC
+Received: 1021SBUS
+
+Sending: 1021BADC
+Received: 0073SBUS
+
+Sending: 0073BADC
+Received: 1022SBUS
+
+Sending: 1022BADC
+Received: 0074SBUS
+
+Sending: 0074BADC
+Received: 1023SBUS
+
+Sending: 1023BADC
+Received: 0075SBUS
+
+Sending: 0075BADC
+Received: 1024SBUS
+
+Sending: 1024BADC
+Received: 0076SBUS
+
+Sending: 0076BADC
+Received: 1025SBUS
+
+Sending: 1025BADC
+Received: 0077SBUS
+
+Sending: 0077BADC
+Received: 1026SBUS
+
+Sending: 1026BADC
+Received: 0078SBUS
+
+Sending: 0078BADC
+Received: 1027SBUS
+
+Sending: 1027BADC
+Received: 0079SBUS
+
+Sending: 0079BADC
+Received: 1028SBUS
+
+Sending: 1028BADC
+Received: 0080SBUS
+
+Sending: 0080BADC
+Received: 1029SBUS
+
+Sending: 1029BADC
+Received: 0081SBUS
+
+Sending: 0081BADC
+Received: 1030SBUS
+
+Sending: 1030BADC
+Received: 0082SBUS
+
+Sending: 0082BADC
+Received: 1031SBUS
+
+Sending: 1031BADC
+Received: 0083SBUS
+
+Sending: 0083BADC
+Received: 1032SBUS
+
+Sending: 1032BADC
+Received: 0084SBUS
+
+Sending: 0084BADC
+Received: 1033SBUS
+
+Sending: 1033BADC
+Received: 0085SBUS
+
+Sending: 0085BADC
+Received: 1034SBUS
+
+Sending: 1034BADC
+Received: 0086SBUS
+
+Sending: 0086BADC
+Received: 1035SBUS
+
+Sending: 1035BADC
+Received: 0087SBUS
+
+Sending: 0087BADC
+Received: 1036SBUS
+
+Sending: 1036BADC
+Received: 0088SBUS
+
+Sending: 0088BADC
+Received: 1037SBUS
+
+Sending: 1037BADC
+Received: 0089SBUS
+
+Sending: 0089BADC
+Received: 1038SBUS
+
+Sending: 1038BADC
+Received: 0090SBUS
+
+Sending: 0090BADC
+Received: 1039SBUS
+
+Sending: 1039BADC
+Received: 0091SBUS
+
+Sending: 0091BADC
+Received: 1040SBUS
+
+Sending: 1040BADC
+Received: 0092SBUS
+
+Sending: 0092BADC
+Received: 1041SBUS
+
+Sending: 1041BADC
+Received: 0093SBUS
+
+Sending: 0093BADC
+Received: 1042SBUS
+
+Sending: 1042BADC
+Received: 0094SBUS
+
+Sending: 0094BADC
+Received: 1043SBUS
+
+Sending: 1043BADC
+Received: 0095SBUS
+
+Sending: 0095BADC
+Received: 1044SBUS
+
+Sending: 1044BADC
+Received: 0096SBUS
+
+Sending: 0096BADC
+Received: 1045SBUS
+
+Sending: 1045BADC
+Received: 0097SBUS
+
+Sending: 0097BADC
+Received: 1046SBUS
+
+Sending: 1046BADC
+Received: 0098SBUS
+
+Sending: 0098BADC
+Received: 1047SBUS
+
+Sending: 1047BADC
+Received: 0099SBUS
+
+Sending: 0099BADC
+Received: 1048SBUS
+
+Sending: 1048BADC
+Received: 0100SBUS
+
+Sending: 0100BADC
+Received: 1049SBUS
+
+Sending: 1049BADC
+Received: 0101SBUS
+
+Sending: 0101BADC
+Received: 1050SBUS
+
+Sending: 1050BADC
+Received: 0102SBUS
+
+Sending: 0102BADC
+Received: 1051SBUS
+
+Sending: 1051BADC
+Received: 0103SBUS
+
+Sending: 0103BADC
+Received: 1052SBUS
+
+Sending: 1052BADC
+Received: 0104SBUS
+
+Sending: 0104BADC
+Received: 1053SBUS
+
+Sending: 1053BADC
+Received: 0105SBUS
+
+Sending: 0105BADC
+Received: 1054SBUS
+
+Sending: 1054BADC
+Received: 0106SBUS
+
+Sending: 0106BADC
+Received: 1055SBUS
+
+Sending: 1055BADC
+Received: 0107SBUS
+
+Sending: 0107BADC
+Received: 1056SBUS
+
+Sending: 1056BADC
+Received: 0108SBUS
+
+Sending: 0108BADC
+Received: 1057SBUS
+
+Sending: 1057BADC
+Received: 0109SBUS
+
+Sending: 0109BADC
+Received: 1058SBUS
+
+Sending: 1058BADC
+Received: 0110SBUS
+
+Sending: 0110BADC
+Received: 1059SBUS
+
+Sending: 1059BADC
+Received: 0111SBUS
+
+Sending: 0111BADC
+Received: 1060SBUS
+
+Sending: 1060BADC
+Received: 0112SBUS
+
+Sending: 0112BADC
+Received: 1061SBUS
+
+Sending: 1061BADC
+Received: 0113SBUS
+
+Sending: 0113BADC
+Received: 1062SBUS
+
+Sending: 1062BADC
+Received: 0114SBUS
+
+Sending: 0114BADC
+Received: 1063SBUS
+
+Sending: 1063BADC
+Received: 0115SBUS
+
+Sending: 0115BADC
+Received: 1064SBUS
+
+Sending: 1064BADC
+Received: 0116SBUS
+
+Sending: 0116BADC
+Received: 1065SBUS
+
+Sending: 1065BADC
+Received: 0117SBUS
+
+Sending: 0117BADC
+Received: 1066SBUS
+
+Sending: 1066BADC
+Received: 0118SBUS
+
+Sending: 0118BADC
+Received: 1067SBUS
+
+Sending: 1067BADC
+Received: 0119SBUS
+
+Sending: 0119BADC
+Received: 1068SBUS
+
+Sending: 1068BADC
+Received: 0120SBUS
+
+Sending: 0120BADC
+Received: 1069SBUS
+
+Sending: 1069BADC
+Received: 0121SBUS
+
+Sending: 0121BADC
+Received: 1070SBUS
+
+Sending: 1070BADC
+Received: 0122SBUS
+
+Sending: 0122BADC
+Received: 1071SBUS
+
+Sending: 1071BADC
+Received: 0123SBUS
+
+Sending: 0123BADC
+Received: 1072SBUS
+
+Sending: 1072BADC
+Received: 0124SBUS
+
+Sending: 0124BADC
+Received: 1073SBUS
+
+Sending: 1073BADC
+Received: 0125SBUS
+
+Sending: 0125BADC
+Received: 1074SBUS
+
+Sending: 1074BADC
+Received: 0126SBUS
+
+Sending: 0126BADC
+Received: 1075SBUS
+
+Sending: 1075BADC
+Received: 0127SBUS
+
+Sending: 0127BADC
+Received: 1076SBUS
+
+Sending: 1076BADC
+Received: 0128SBUS
+
+Sending: 0128BADC
+Received: 1077SBUS
+
+Sending: 1077BADC
+Received: 0129SBUS
+
+Sending: 0129BADC
+Received: 1078SBUS
+
+Sending: 1078BADC
+Received: 0130SBUS
+
+Sending: 0130BADC
+Received: 1079SBUS
+
+Sending: 1079BADC
+Received: 0131SBUS
+
+Sending: 0131BADC
+Received: 1080SBUS
+
+Sending: 1080BADC
+Received: 0132SBUS
+
+Sending: 0132BADC
+Received: 1081SBUS
+
+Sending: 1081BADC
+Received: 0133SBUS
+
+Sending: 0133BADC
+Received: 1082SBUS
+
+Sending: 1082BADC
+Received: 0134SBUS
+
+Sending: 0134BADC
+Received: 1083SBUS
+
+Sending: 1083BADC
+Received: 0135SBUS
+
+Sending: 0135BADC
+Received: 1084SBUS
+
+Sending: 1084BADC
+Received: 0136SBUS
+
+Sending: 0136BADC
+Received: 1085SBUS
+
+Sending: 1085BADC
+Received: 0137SBUS
+
+Sending: 0137BADC
+Received: 1086SBUS
+
+Sending: 1086BADC
+Received: 0138SBUS
+
+Sending: 0138BADC
+Received: 1087SBUS
+
+Sending: 1087BADC
+Received: 0139SBUS
+
+Sending: 0139BADC
+Received: 1088SBUS
+
+Sending: 1088BADC
+Received: 0140SBUS
+
+Sending: 0140BADC
+Received: 1089SBUS
+
+Sending: 1089BADC
+Received: 0141SBUS
+
+Sending: 0141BADC
+Received: 1090SBUS
+
+Sending: 1090BADC
+Received: 0142SBUS
+
+Sending: 0142BADC
+Received: 1091SBUS
+
+Sending: 1091BADC
+Received: 0143SBUS
+
+Sending: 0143BADC
+Received: 1092SBUS
+
+Sending: 1092BADC
+Received: 0144SBUS
+
+Sending: 0144BADC
+Received: 1093SBUS
+
+Sending: 1093BADC
+Received: 0145SBUS
+
+Sending: 0145BADC
+Received: 1094SBUS
+
+Sending: 1094BADC
+Received: 0146SBUS
+
+Sending: 0146BADC
+Received: 1095SBUS
+
+Sending: 1095BADC
+Received: 0147SBUS
+
+Sending: 0147BADC
+Received: 1096SBUS
+
+Sending: 1096BADC
+Received: 0148SBUS
+
+Sending: 0148BADC
+Received: 1097SBUS
+
+Sending: 1097BADC
+Received: 0149SBUS
+
+Sending: 0149BADC
+Received: 1098SBUS
+
+Sending: 1098BADC
+Received: 0150SBUS
+
+Sending: 0150BADC
+Received: 1099SBUS
+
+Sending: 1099BADC
+Received: 0151SBUS
+
+Sending: 0151BADC
+Received: 1100SBUS
+
+Sending: 1100BADC
+Received: 0152SBUS
+
+Sending: 0152BADC
+Received: 1101SBUS
+
+Sending: 1101BADC
+Received: 0153SBUS
+
+Sending: 0153BADC
+Received: 1102SBUS
+
+Sending: 1102BADC
+Received: 0154SBUS
+
+Sending: 0154BADC
+Received: 1103SBUS
+
+Sending: 1103BADC
+Received: 0155SBUS
+
+Sending: 0155BADC
+Received: 1104SBUS
+
+Sending: 1104BADC
+Received: 0156SBUS
+
+Sending: 0156BADC
+Received: 1105SBUS
+
+Sending: 1105BADC
+Received: 0157SBUS
+
+Sending: 0157BADC
+Received: 1106SBUS
+
+Sending: 1106BADC
+Received: 0158SBUS
+
+Sending: 0158BADC
+Received: 1107SBUS
+
+Sending: 1107BADC
+Received: 0159SBUS
+
+Sending: 0159BADC
+Received: 1108SBUS
+
+Sending: 1108BADC
+Received: 0160SBUS
+
+Sending: 0160BADC
+Received: 1109SBUS
+
+Sending: 1109BADC
+Received: 0161SBUS
+
+Sending: 0161BADC
+Received: 1110SBUS
+
+Sending: 1110BADC
+Received: 0162SBUS
+
+Sending: 0162BADC
+Received: 1111SBUS
+
+Sending: 1111BADC
+Received: 0163SBUS
+
+Sending: 0163BADC
+Received: 1112SBUS
+
+Sending: 1112BADC
+Received: 0164SBUS
+
+Sending: 0164BADC
+Received: 1113SBUS
+
+Sending: 1113BADC
+Received: 0165SBUS
+
+Sending: 0165BADC
+Received: 1114SBUS
+
+Sending: 1114BADC
+Received: 0166SBUS
+
+Sending: 0166BADC
+Received: 1115SBUS
+
+Sending: 1115BADC
+Received: 0167SBUS
+
+Sending: 0167BADC
+Received: 1116SBUS
+
+Sending: 1116BADC
+Received: 0168SBUS
+
+Sending: 0168BADC
+Received: 1117SBUS
+
+Sending: 1117BADC
+Received: 0169SBUS
+
+Sending: 0169BADC
+Received: 1118SBUS
+
+Sending: 1118BADC
+Received: 0170SBUS
+
+Sending: 0170BADC
+Received: 1119SBUS
+
+Sending: 1119BADC
+Received: 0171SBUS
+
+Sending: 0171BADC
+Received: 1120SBUS
+
+Sending: 1120BADC
+Received: 0172SBUS
+
+Sending: 0172BADC
+Received: 1121SBUS
+
+Sending: 1121BADC
+Received: 0173SBUS
+
+Sending: 0173BADC
+Received: 1122SBUS
+
+Sending: 1122BADC
+Received: 0174SBUS
+
+Sending: 0174BADC
+Received: 1123SBUS
+
+Sending: 1123BADC
+Received: 0175SBUS
+
+Sending: 0175BADC
+Received: 1124SBUS
+
+Sending: 1124BADC
+Received: 0176SBUS
+
+Sending: 0176BADC
+Received: 1125SBUS
+
+Sending: 1125BADC
+Received: 0177SBUS
+
+Sending: 0177BADC
+Received: 1126SBUS
+
+Sending: 1126BADC
+Received: 0178SBUS
+
+Sending: 0178BADC
+Received: 1127SBUS
+
+Sending: 1127BADC
+Received: 0179SBUS
+
+Sending: 0179BADC
+Received: 1128SBUS
+
+Sending: 1128BADC
+Received: 0180SBUS
+
+Sending: 0180BADC
+Received: 1129SBUS
+
+Sending: 1129BADC
+Received: 0181SBUS
+
+Sending: 0181BADC
+Received: 1130SBUS
+
+Sending: 1130BADC
+Received: 0182SBUS
+
+Sending: 0182BADC
+Received: 1131SBUS
+
+Sending: 1131BADC
+Received: 0183SBUS
+
+Sending: 0183BADC
+Received: 1132SBUS
+
+Sending: 1132BADC
+Received: 0184SBUS
+
+Sending: 0184BADC
+Received: 1133SBUS
+
+Sending: 1133BADC
+Received: 0185SBUS
+
+Sending: 0185BADC
+Received: 1134SBUS
+
+Sending: 1134BADC
+Received: 0186SBUS
+
+Sending: 0186BADC
+Received: 1135SBUS
+
+Sending: 1135BADC
+Received: 0187SBUS
+
+Sending: 0187BADC
+Received: 1136SBUS
+
+Sending: 1136BADC
+Received: 0188SBUS
+
+Sending: 0188BADC
+Received: 1137SBUS
+
+Sending: 1137BADC
+Received: 0189SBUS
+
+Sending: 0189BADC
+Received: 1138SBUS
+
+Sending: 1138BADC
+Received: 0190SBUS
+
+Sending: 0190BADC
+Received: 1139SBUS
+
+Sending: 1139BADC
+Received: 0191SBUS
+
+Sending: 0191BADC
+Received: 1140SBUS
+
+Sending: 1140BADC
+Received: 0192SBUS
+
+Sending: 0192BADC
+Received: 1141SBUS
+
+Sending: 1141BADC
+Received: 0193SBUS
+
+Sending: 0193BADC
+Received: 1142SBUS
+
+Sending: 1142BADC
+Received: 0194SBUS
+
+Sending: 0194BADC
+Received: 1143SBUS
+
+Sending: 1143BADC
+Received: 0195SBUS
+
+Sending: 0195BADC
+Received: 1144SBUS
+
+Sending: 1144BADC
+Received: 0196SBUS
+
+Sending: 0196BADC
+Received: 1145SBUS
+
+Sending: 1145BADC
+Received: 0197SBUS
+
+Sending: 0197BADC
+Received: 1146SBUS
+
+Sending: 1146BADC
+Received: 0198SBUS
+
+Sending: 0198BADC
+Received: 1147SBUS
+
+Sending: 1147BADC
+Received: 0199SBUS
+
+Sending: 0199BADC
+Received: 1148SBUS
+
+Sending: 1148BADC
+Received: 0200SBUS
+
+Sending: 0200BADC
+Received: 1149SBUS
+
+Sending: 1149BADC
+Received: 0201SBUS
+
+Sending: 0201BADC
+Received: 1150SBUS
+
+Sending: 1150BADC
+Received: 0202SBUS
+
+Sending: 0202BADC
+Received: 1151SBUS
+
+Sending: 1151BADC
+Received: 0203SBUS
+
+Sending: 0203BADC
+Received: 1152SBUS
+
+Sending: 1152BADC
+Received: 0204SBUS
+
+Sending: 0204BADC
+Received: 1153SBUS
+
+Sending: 1153BADC
+Received: 0205SBUS
+
+Sending: 0205BADC
+Received: 1154SBUS
+
+Sending: 1154BADC
+Received: 0206SBUS
+
+Sending: 0206BADC
+Received: 1155SBUS
+
+Sending: 1155BADC
+Received: 0207SBUS
+
+Sending: 0207BADC
+Received: 1156SBUS
+
+Sending: 1156BADC
+Received: 0208SBUS
+
+Sending: 0208BADC
+Received: 1157SBUS
+
+Sending: 1157BADC
+Received: 0209SBUS
+
+Sending: 0209BADC
+Received: 1158SBUS
+
+Sending: 1158BADC
+Received: 0210SBUS
+
+Sending: 0210BADC
+Received: 1159SBUS
+
+Sending: 1159BADC
+Received: 0211SBUS
+
+Sending: 0211BADC
+Received: 1160SBUS
+
+Sending: 1160BADC
+Received: 0212SBUS
+
+Sending: 0212BADC
+Received: 1161SBUS
+
+Sending: 1161BADC
+Received: 0213SBUS
+
+Sending: 0213BADC
+Received: 1162SBUS
+
+Sending: 1162BADC
+Received: 0214SBUS
+
+Sending: 0214BADC
+Received: 1163SBUS
+
+Sending: 1163BADC
+Received: 0215SBUS
+
+Sending: 0215BADC
+Received: 1164SBUS
+
+Sending: 1164BADC
+Received: 0216SBUS
+
+Sending: 0216BADC
+Received: 1165SBUS
+
+Sending: 1165BADC
+Received: 0217SBUS
+
+Sending: 0217BADC
+Received: 1166SBUS
+
+Sending: 1166BADC
+Received: 0218SBUS
+
+Sending: 0218BADC
+Received: 1167SBUS
+
+Sending: 1167BADC
+Received: 0219SBUS
+
+Sending: 0219BADC
+Received: 1168SBUS
+
+Sending: 1168BADC
+Received: 0220SBUS
+
+Sending: 0220BADC
+Received: 1169SBUS
+
+Sending: 1169BADC
+Received: 0221SBUS
+
+Sending: 0221BADC
+Received: 1170SBUS
+
+Sending: 1170BADC
+Received: 0222SBUS
+
+Sending: 0222BADC
+Received: 1171SBUS
+
+Sending: 1171BADC
+Received: 0223SBUS
+
+Sending: 0223BADC
+Received: 1172SBUS
+
+Sending: 1172BADC
+Received: 0224SBUS
+
+Sending: 0224BADC
+Received: 1173SBUS
+
+Sending: 1173BADC
+Received: 0225SBUS
+
+Sending: 0225BADC
+Received: 1174SBUS
+
+Sending: 1174BADC
+Received: 0226SBUS
+
+Sending: 0226BADC
+Received: 1175SBUS
+
+Sending: 1175BADC
+Received: 0227SBUS
+
+Sending: 0227BADC
+Received: 1176SBUS
+
+Sending: 1176BADC
+Received: 0228SBUS
+
+Sending: 0228BADC
+Received: 1177SBUS
+
+Sending: 1177BADC
+Received: 0229SBUS
+
+Sending: 0229BADC
+Received: 1178SBUS
+
+Sending: 1178BADC
+Received: 0230SBUS
+
+Sending: 0230BADC
+Received: 1179SBUS
+
+Sending: 1179BADC
+Received: 0231SBUS
+
+Sending: 0231BADC
+Received: 1180SBUS
+
+Sending: 1180BADC
+Received: 0232SBUS
+
+Sending: 0232BADC
+Received: 1181SBUS
+
+Sending: 1181BADC
+Received: 0233SBUS
+
+Sending: 0233BADC
+Received: 1182SBUS
+
+Sending: 1182BADC
+Received: 0234SBUS
+
+Sending: 0234BADC
+Received: 1183SBUS
+
+Sending: 1183BADC
+Received: 0235SBUS
+
+Sending: 0235BADC
+Received: 1184SBUS
+
+Sending: 1184BADC
+Received: 0236SBUS
+
+Sending: 0236BADC
+Received: 1185SBUS
+
+Sending: 1185BADC
+Received: 0237SBUS
+
+Sending: 0237BADC
+Received: 1186SBUS
+
+Sending: 1186BADC
+Received: 0238SBUS
+
+Sending: 0238BADC
+Received: 1187SBUS
+
+Sending: 1187BADC
+Received: 0239SBUS
+
+Sending: 0239BADC
+Received: 1188SBUS
+
+Sending: 1188BADC
+Received: 0240SBUS
+
+Sending: 0240BADC
+Received: 1189SBUS
+
+Sending: 1189BADC
+Received: 0241SBUS
+
+Sending: 0241BADC
+Received: 1190SBUS
+
+Sending: 1190BADC
+Received: 0242SBUS
+
+Sending: 0242BADC
+Received: 1191SBUS
+
+Sending: 1191BADC
+Received: 0243SBUS
+
+Sending: 0243BADC
+Received: 1192SBUS
+
+Sending: 1192BADC
+Received: 0244SBUS
+
+Sending: 0244BADC
+Received: 1193SBUS
+
+Sending: 1193BADC
+Received: 0245SBUS
+
+Sending: 0245BADC
+Received: 1194SBUS
+
+Sending: 1194BADC
+Received: 0246SBUS
+
+Sending: 0246BADC
+Received: 1195SBUS
+
+Sending: 1195BADC
+Received: 0247SBUS
+
+Sending: 0247BADC
+Received: 1196SBUS
+
+Sending: 1196BADC
+Received: 0248SBUS
+
+Sending: 0248BADC
+Received: 1197SBUS
+
+Sending: 1197BADC
+Received: 0249SBUS
+
+Sending: 0249BADC
+Received: 1198SBUS
+
+Sending: 1198BADC
+Received: 0250SBUS
+
+Sending: 0250BADC
+Received: 1199SBUS
+
+Sending: 1199BADC
+Received: 0251SBUS
+
+Sending: 0251BADC
+Received: 1200SBUS
+
+Sending: 1200BADC
+Received: 0252SBUS
+
+Sending: 0252BADC
+Received: 1201SBUS
+
+Sending: 1201BADC
+Received: 0253SBUS
+
+Sending: 0253BADC
+Received: 1202SBUS
+
+Sending: 1202BADC
+Received: 0254SBUS
+
+Sending: 0254BADC
+Received: 1203SBUS
+
+Sending: 1203BADC
+Received: 0255SBUS
+
+Sending: 0255BADC
+Received: 1204SBUS
+
+Sending: 1204BADC
+Received: 0256SBUS
+
+Sending: 0256BADC
+Received: 1205SBUS
+
+Sending: 1205BADC
+Received: 0257SBUS
+
+Sending: 0257BADC
+Received: 1206SBUS
+
+Sending: 1206BADC
+Received: 0258SBUS
+
+Sending: 0258BADC
+Received: 1207SBUS
+
+Sending: 1207BADC
+Received: 0259SBUS
+
+Sending: 0259BADC
+Received: 1208SBUS
+
+Sending: 1208BADC
+Received: 0260SBUS
+
+Sending: 0260BADC
+Received: 1209SBUS
+
+Sending: 1209BADC
+Received: 0261SBUS
+
+Sending: 0261BADC
+Received: 1210SBUS
+
+Sending: 1210BADC
+Received: 0262SBUS
+
+Sending: 0262BADC
+Received: 1211SBUS
+
+Sending: 1211BADC
+Received: 0263SBUS
+
+Sending: 0263BADC
+Received: 1212SBUS
+
+Sending: 1212BADC
+Received: 0264SBUS
+
+Sending: 0264BADC
+Received: 1213SBUS
+
+Sending: 1213BADC
+Received: 0265SBUS
+
+Sending: 0265BADC
+Received: 1214SBUS
+
+Sending: 1214BADC
+Received: 0266SBUS
+
+Sending: 0266BADC
+Received: 1215SBUS
+
+Sending: 1215BADC
+Received: 0267SBUS
+
+Sending: 0267BADC
+Received: 1216SBUS
+
+Sending: 1216BADC
+Received: 0268SBUS
+
+Sending: 0268BADC
+Received: 1217SBUS
+
+Sending: 1217BADC
+Received: 0269SBUS
+
+Sending: 0269BADC
+Received: 1218SBUS
+
+Sending: 1218BADC
+Received: 0270SBUS
+
+Sending: 0270BADC
+Received: 1219SBUS
+
+Sending: 1219BADC
+Received: 0271SBUS
+
+Sending: 0271BADC
+Received: 1220SBUS
+
+Sending: 1220BADC
+Received: 0272SBUS
+
+Sending: 0272BADC
+Received: 1221SBUS
+
+Sending: 1221BADC
+Received: 0273SBUS
+
+Sending: 0273BADC
+Received: 1222SBUS
+
+Sending: 1222BADC
+Received: 0274SBUS
+
+Sending: 0274BADC
+Received: 1223SBUS
+
+Sending: 1223BADC
+Received: 0275SBUS
+
+Sending: 0275BADC
+Received: 1224SBUS
+
+Sending: 1224BADC
+Received: 0276SBUS
+
+Sending: 0276BADC
+Received: 1225SBUS
+
+Sending: 1225BADC
+Received: 0277SBUS
+
+Sending: 0277BADC
+Received: 1226SBUS
+
+Sending: 1226BADC
+Received: 0278SBUS
+
+Sending: 0278BADC
+Received: 1227SBUS
+
+Sending: 1227BADC
+Received: 0279SBUS
+
+Sending: 0279BADC
+Received: 1228SBUS
+
+Sending: 1228BADC
+Received: 0280SBUS
+
+Sending: 0280BADC
+Received: 1229SBUS
+
+Sending: 1229BADC
+Received: 0281SBUS
+
+Sending: 0281BADC
+Received: 1230SBUS
+
+Sending: 1230BADC
+Received: 0282SBUS
+
+Sending: 0282BADC
+Received: 1231SBUS
+
+Sending: 1231BADC
+Received: 0283SBUS
+
+Sending: 0283BADC
+Received: 1232SBUS
+
+Sending: 1232BADC
+Received: 0284SBUS
+
+Sending: 0284BADC
+Received: 1233SBUS
+
+Sending: 1233BADC
+Received: 0285SBUS
+
+Sending: 0285BADC
+Received: 1234SBUS
+
+Sending: 1234BADC
+Received: 0286SBUS
+
+Sending: 0286BADC
+Received: 1235SBUS
+
+Sending: 1235BADC
+Received: 0287SBUS
+
+Sending: 0287BADC
+Received: 1236SBUS
+
+Sending: 1236BADC
+Received: 0288SBUS
+
+Sending: 0288BADC
+Received: 1237SBUS
+
+Sending: 1237BADC
+Received: 0289SBUS
+
+Sending: 0289BADC
+Received: 1238SBUS
+
+Sending: 1238BADC
+Received: 0290SBUS
+
+Sending: 0290BADC
+Received: 1239SBUS
+
+Sending: 1239BADC
+Received: 0291SBUS
+
+Sending: 0291BADC
+Received: 1240SBUS
+
+Sending: 1240BADC
+Received: 0292SBUS
+
+Sending: 0292BADC
+Received: 1241SBUS
+
+Sending: 1241BADC
+Received: 0293SBUS
+
+Sending: 0293BADC
+Received: 1242SBUS
+
+Sending: 1242BADC
+Received: 0294SBUS
+
+Sending: 0294BADC
+Received: 1243SBUS
+
+Sending: 1243BADC
+Received: 0295SBUS
+
+Sending: 0295BADC
+Received: 1244SBUS
+
+Sending: 1244BADC
+Received: 0296SBUS
+
+Sending: 0296BADC
+Received: 1245SBUS
+
+Sending: 1245BADC
+Received: 0297SBUS
+
+Sending: 0297BADC
+Received: 1246SBUS
+
+Sending: 1246BADC
+Received: 0298SBUS
+
+Sending: 0298BADC
+Received: 1247SBUS
+
+Sending: 1247BADC
+Received: 0299SBUS
+
+Sending: 0299BADC
+Received: 1248SBUS
+
+Sending: 1248BADC
+Received: 0300SBUS
+
+Sending: 0300BADC
+Received: 1249SBUS
+
+Sending: 1249BADC
+Received: 0301SBUS
+
+Sending: 0301BADC
+Received: 1250SBUS
+
+Sending: 1250BADC
+Received: 0302SBUS
+
+Sending: 0302BADC
+Received: 1251SBUS
+
+Sending: 1251BADC
+Received: 0303SBUS
+
+Sending: 0303BADC
+Received: 1252SBUS
+
+Sending: 1252BADC
+Received: 0304SBUS
+
+Sending: 0304BADC
+Received: 1253SBUS
+
+Sending: 1253BADC
+Received: 0305SBUS
+
+Sending: 0305BADC
+Received: 1254SBUS
+
+Sending: 1254BADC
+Received: 0306SBUS
+
+Sending: 0306BADC
+Received: 1255SBUS
+
+Sending: 1255BADC
+Received: 0307SBUS
+
+Sending: 0307BADC
+Received: 1256SBUS
+
+Sending: 1256BADC
+Received: 0308SBUS
+
+Sending: 0308BADC
+Received: 1257SBUS
+
+Sending: 1257BADC
+Received: 0309SBUS
+
+Sending: 0309BADC
+Received: 1258SBUS
+
+Sending: 1258BADC
+Received: 0310SBUS
+
+Sending: 0310BADC
+Received: 1259SBUS
+
+Sending: 1259BADC
+Received: 0311SBUS
+
+Sending: 0311BADC
+Received: 1260SBUS
+
+Sending: 1260BADC
+Received: 0312SBUS
+
+Sending: 0312BADC
+Received: 1261SBUS
+
+Sending: 1261BADC
+Received: 0313SBUS
+
+Sending: 0313BADC
+Received: 1262SBUS
+
+Sending: 1262BADC
+Received: 0314SBUS
+
+Sending: 0314BADC
+Received: 1263SBUS
+
+Sending: 1263BADC
+Received: 0315SBUS
+
+Sending: 0315BADC
+Received: 1264SBUS
+
+Sending: 1264BADC
+Received: 0316SBUS
+
+Sending: 0316BADC
+Received: 1265SBUS
+
+Sending: 1265BADC
+Received: 0317SBUS
+
+Sending: 0317BADC
+Received: 1266SBUS
+
+Sending: 1266BADC
+Received: 0318SBUS
+
+Sending: 0318BADC
+Received: 1267SBUS
+
+Sending: 1267BADC
+Received: 0319SBUS
+
+Sending: 0319BADC
+Received: 1268SBUS
+
+Sending: 1268BADC
+Received: 0320SBUS
+
+Sending: 0320BADC
+Received: 1269SBUS
+
+Sending: 1269BADC
+Received: 0321SBUS
+
+Sending: 0321BADC
+Received: 1270SBUS
+
+Sending: 1270BADC
+Received: 0322SBUS
+
+Sending: 0322BADC
+Received: 1271SBUS
+
+Sending: 1271BADC
+Received: 0323SBUS
+
+Sending: 0323BADC
+Received: 1272SBUS
+
+Sending: 1272BADC
+Received: 0324SBUS
+
+Sending: 0324BADC
+Received: 1273SBUS
+
+Sending: 1273BADC
+Received: 0325SBUS
+
+Sending: 0325BADC
+Received: 1274SBUS
+
+Sending: 1274BADC
+Received: 0326SBUS
+
+Sending: 0326BADC
+Received: 1275SBUS
+
+Sending: 1275BADC
+Received: 0327SBUS
+
+Sending: 0327BADC
+Received: 1276SBUS
+
+Sending: 1276BADC
+Received: 0328SBUS
+
+Sending: 0328BADC
+Received: 1277SBUS
+
+Sending: 1277BADC
+Received: 0329SBUS
+
+Sending: 0329BADC
+Received: 1278SBUS
+
+Sending: 1278BADC
+Received: 0330SBUS
+
+Sending: 0330BADC
+Received: 1279SBUS
+
+Sending: 1279BADC
+Received: 0331SBUS
+
+Sending: 0331BADC
+Received: 1280SBUS
+
+Sending: 1280BADC
+Received: 0332SBUS
+
+Sending: 0332BADC
+Received: 1281SBUS
+
+Sending: 1281BADC
+Received: 0333SBUS
+
+Sending: 0333BADC
+Received: 1282SBUS
+
+Sending: 1282BADC
+Received: 0334SBUS
+
+Sending: 0334BADC
+Received: 1283SBUS
+
+Sending: 1283BADC
+Received: 0335SBUS
+
+Sending: 0335BADC
+Received: 1284SBUS
+
+Sending: 1284BADC
+Received: 0336SBUS
+
+Sending: 0336BADC
+Received: 1285SBUS
+
+Sending: 1285BADC
+Received: 0337SBUS
+
+Sending: 0337BADC
+Received: 1286SBUS
+
+Sending: 1286BADC
+Received: 0338SBUS
+
+Sending: 0338BADC
+Received: 1287SBUS
+
+Sending: 1287BADC
+Received: 0339SBUS
+
+Sending: 0339BADC
+Received: 1288SBUS
+
+Sending: 1288BADC
+Received: 0340SBUS
+
+Sending: 0340BADC
+Received: 1289SBUS
+
+Sending: 1289BADC
+Received: 0341SBUS
+
+Sending: 0341BADC
+Received: 1290SBUS
+
+Sending: 1290BADC
+Received: 0342SBUS
+
+Sending: 0342BADC
+Received: 1291SBUS
+
+Sending: 1291BADC
+Received: 0343SBUS
+
+Sending: 0343BADC
+Received: 1292SBUS
+
+Sending: 1292BADC
+Received: 0344SBUS
+
+Sending: 0344BADC
+Received: 1293SBUS
+
+Sending: 1293BADC
+Received: 0345SBUS
+
+Sending: 0345BADC
+Received: 1294SBUS
+
+Sending: 1294BADC
+Received: 0346SBUS
+
+Sending: 0346BADC
+Received: 1295SBUS
+
+Sending: 1295BADC
+Received: 0347SBUS
+
+Sending: 0347BADC
+Received: 1296SBUS
+
+Sending: 1296BADC
+Received: 0348SBUS
+
+Sending: 0348BADC
+Received: 1297SBUS
+
+Sending: 1297BADC
+Received: 0349SBUS
+
+Sending: 0349BADC
+Received: 1298SBUS
+
+Sending: 1298BADC
+Received: 0350SBUS
+
+Sending: 0350BADC
+Received: 1299SBUS
+
+Sending: 1299BADC
+Received: 0351SBUS
+
+Sending: 0351BADC
+Received: 1300SBUS
+
+Sending: 1300BADC
+Received: 0352SBUS
+
+Sending: 0352BADC
+Received: 1301SBUS
+
+Sending: 1301BADC
+Received: 0353SBUS
+
+Sending: 0353BADC
+Received: 1302SBUS
+
+Sending: 1302BADC
+Received: 0354SBUS
+
+Sending: 0354BADC
+Received: 1303SBUS
+
+Sending: 1303BADC
+Received: 0355SBUS
+
+Sending: 0355BADC
+Received: 1304SBUS
+
+Sending: 1304BADC
+Received: 0356SBUS
+
+Sending: 0356BADC
+Received: 1305SBUS
+
+Sending: 1305BADC
+Received: 0357SBUS
+
+Sending: 0357BADC
+Received: 1306SBUS
+
+Sending: 1306BADC
+Received: 0358SBUS
+
+Sending: 0358BADC
+Received: 1307SBUS
+
+Sending: 1307BADC
+Received: 0359SBUS
+
+Sending: 0359BADC
+Received: 1308SBUS
+
+Sending: 1308BADC
+Received: 0360SBUS
+
+Sending: 0360BADC
+Received: 1309SBUS
+
+Sending: 1309BADC
+Received: 0361SBUS
+
+Sending: 0361BADC
+Received: 1310SBUS
+
+Sending: 1310BADC
+Received: 0362SBUS
+
+Sending: 0362BADC
+Received: 1311SBUS
+
+Sending: 1311BADC
+Received: 0363SBUS
+
+Sending: 0363BADC
+Received: 1312SBUS
+
+Sending: 1312BADC
+Received: 0364SBUS
+
+Sending: 0364BADC
+Received: 1313SBUS
+
+Sending: 1313BADC
+Received: 0365SBUS
+
+Sending: 0365BADC
+Received: 1314SBUS
+
+Sending: 1314BADC
+Received: 0366SBUS
+
+Sending: 0366BADC
+Received: 1315SBUS
+
+Sending: 1315BADC
+Received: 0367SBUS
+
+Sending: 0367BADC
+Received: 1316SBUS
+
+Sending: 1316BADC
+Received: 0368SBUS
+
+Sending: 0368BADC
+Received: 1317SBUS
+
+Sending: 1317BADC
+Received: 0369SBUS
+
+Sending: 0369BADC
+Received: 1318SBUS
+
+Sending: 1318BADC
+Received: 0370SBUS
+
+Sending: 0370BADC
+Received: 1319SBUS
+
+Sending: 1319BADC
+Received: 0371SBUS
+
+Sending: 0371BADC
+Received: 1320SBUS
+
+Sending: 1320BADC
+Received: 0372SBUS
+
+Sending: 0372BADC
+Received: 1321SBUS
+
+Sending: 1321BADC
+Received: 0373SBUS
+
+Sending: 0373BADC
+Received: 1322SBUS
+
+Sending: 1322BADC
+Received: 0374SBUS
+
+Sending: 0374BADC
+Received: 1323SBUS
+
+Sending: 1323BADC
+Received: 0375SBUS
+
+Sending: 0375BADC
+Received: 1324SBUS
+
+Sending: 1324BADC
+Received: 0376SBUS
+
+Sending: 0376BADC
+Received: 1325SBUS
+
+Sending: 1325BADC
+Received: 0377SBUS
+
+Sending: 0377BADC
+Received: 1326SBUS
+
+Sending: 1326BADC
+Received: 0378SBUS
+
+Sending: 0378BADC
+Received: 1327SBUS
+
+Sending: 1327BADC
+Received: 0379SBUS
+
+Sending: 0379BADC
+Received: 1328SBUS
+
+Sending: 1328BADC
+Received: 0380SBUS
+
+Sending: 0380BADC
+Received: 1329SBUS
+
+Sending: 1329BADC
+Received: 0381SBUS
+
+Sending: 0381BADC
+Received: 1330SBUS
+
+Sending: 1330BADC
+Received: 0382SBUS
+
+Sending: 0382BADC
+Received: 1331SBUS
+
+Sending: 1331BADC
+Received: 0383SBUS
+
+Sending: 0383BADC
+Received: 1332SBUS
+
+Sending: 1332BADC
+Received: 0384SBUS
+
+Sending: 0384BADC
+Received: 1333SBUS
+
+Sending: 1333BADC
+Received: 0385SBUS
+
+Sending: 0385BADC
+Received: 1334SBUS
+
+Sending: 1334BADC
+Received: 0386SBUS
+
+Sending: 0386BADC
+Received: 1335SBUS
+
+Sending: 1335BADC
+Received: 0387SBUS
+
+Sending: 0387BADC
+Received: 1336SBUS
+
+Sending: 1336BADC
+Received: 0388SBUS
+
+Sending: 0388BADC
+Received: 1337SBUS
+
+Sending: 1337BADC
+Received: 0389SBUS
+
+Sending: 0389BADC
+Received: 1338SBUS
+
+Sending: 1338BADC
+Received: 0390SBUS
+
+Sending: 0390BADC
+Received: 1339SBUS
+
+Sending: 1339BADC
+Received: 0391SBUS
+
+Sending: 0391BADC
+Received: 1340SBUS
+
+Sending: 1340BADC
+Received: 0392SBUS
+
+Sending: 0392BADC
+Received: 1341SBUS
+
+Sending: 1341BADC
+Received: 0393SBUS
+
+Sending: 0393BADC
+Received: 1342SBUS
+
+Sending: 1342BADC
+Received: 0394SBUS
+
+Sending: 0394BADC
+Received: 1343SBUS
+
+Sending: 1343BADC
+Received: 0395SBUS
+
+Sending: 0395BADC
+Received: 1344SBUS
+
+Sending: 1344BADC
+Received: 0396SBUS
+
+Sending: 0396BADC
+Received: 1345SBUS
+
+Sending: 1345BADC
+Received: 0397SBUS
+
+Sending: 0397BADC
+Received: 1346SBUS
+
+Sending: 1346BADC
+Received: 0398SBUS
+
+Sending: 0398BADC
+Received: 1347SBUS
+
+Sending: 1347BADC
+Received: 0399SBUS
+
+Sending: 0399BADC
+Received: 1348SBUS
+
+Sending: 1348BADC
+Received: 0400SBUS
+
+Sending: 0400BADC
+Received: 1349SBUS
+
+Sending: 1349BADC
+Received: 0401SBUS
+
+Sending: 0401BADC
+Received: 1350SBUS
+
+Sending: 1350BADC
+Received: 0402SBUS
+
+Sending: 0402BADC
+Received: 1351SBUS
+
+Sending: 1351BADC
+Received: 0403SBUS
+
+Sending: 0403BADC
+Received: 1352SBUS
+
+Sending: 1352BADC
+Received: 0404SBUS
+
+Sending: 0404BADC
+Received: 1353SBUS
+
+Sending: 1353BADC
+Received: 0405SBUS
+
+Sending: 0405BADC
+Received: 1354SBUS
+
+Sending: 1354BADC
+Received: 0406SBUS
+
+Sending: 0406BADC
+Received: 1355SBUS
+
+Sending: 1355BADC
+Received: 0407SBUS
+
+Sending: 0407BADC
+Received: 1356SBUS
+
+Sending: 1356BADC
+Received: 0408SBUS
+
+Sending: 0408BADC
+Received: 1357SBUS
+
+Sending: 1357BADC
+Received: 0409SBUS
+
+Sending: 0409BADC
+Received: 1358SBUS
+
+Sending: 1358BADC
+Received: 0410SBUS
+
+Sending: 0410BADC
+Received: 1359SBUS
+
+Sending: 1359BADC
+Received: 0411SBUS
+
+Sending: 0411BADC
+Received: 1360SBUS
+
+Sending: 1360BADC
+Received: 0412SBUS
+
+Sending: 0412BADC
+Received: 1361SBUS
+
+Sending: 1361BADC
+Received: 0413SBUS
+
+Sending: 0413BADC
+Received: 1362SBUS
+
+Sending: 1362BADC
+Received: 0414SBUS
+
+Sending: 0414BADC
+Received: 1363SBUS
+
+Sending: 1363BADC
+Received: 0415SBUS
+
+Sending: 0415BADC
+Received: 1364SBUS
+
+Sending: 1364BADC
+Received: 0416SBUS
+
+Sending: 0416BADC
+Received: 1365SBUS
+
+Sending: 1365BADC
+Received: 0417SBUS
+
+Sending: 0417BADC
+Received: 1366SBUS
+
+Sending: 1366BADC
+Received: 0418SBUS
+
+Sending: 0418BADC
+Received: 1367SBUS
+
+Sending: 1367BADC
+Received: 0419SBUS
+
+Sending: 0419BADC
+Received: 1368SBUS
+
+Sending: 1368BADC
+Received: 0420SBUS
+
+Sending: 0420BADC
+Received: 1369SBUS
+
+Sending: 1369BADC
+Received: 0421SBUS
+
+Sending: 0421BADC
+Received: 1370SBUS
+
+Sending: 1370BADC
+Received: 0422SBUS
+
+Sending: 0422BADC
+Received: 1371SBUS
+
+Sending: 1371BADC
+Received: 0423SBUS
+
+Sending: 0423BADC
+Received: 1372SBUS
+
+Sending: 1372BADC
+Received: 0424SBUS
+
+Sending: 0424BADC
+Received: 1373SBUS
+
+Sending: 1373BADC
+Received: 0425SBUS
+
+Sending: 0425BADC
+Received: 1374SBUS
+
+Sending: 1374BADC
+Received: 0426SBUS
+
+Sending: 0426BADC
+Received: 1375SBUS
+
+Sending: 1375BADC
+Received: 0427SBUS
+
+Sending: 0427BADC
+Received: 1376SBUS
+
+Sending: 1376BADC
+Received: 0428SBUS
+
+Sending: 0428BADC
+Received: 1377SBUS
+
+Sending: 1377BADC
+Received: 0429SBUS
+
+Sending: 0429BADC
+Received: 1378SBUS
+
+Sending: 1378BADC
+Received: 0430SBUS
+
+Sending: 0430BADC
+Received: 1379SBUS
+
+Sending: 1379BADC
+Received: 0431SBUS
+
+Sending: 0431BADC
+Received: 1380SBUS
+
+Sending: 1380BADC
+Received: 0432SBUS
+
+Sending: 0432BADC
+Received: 1381SBUS
+
+Sending: 1381BADC
+Received: 0433SBUS
+
+Sending: 0433BADC
+Received: 1382SBUS
+
+Sending: 1382BADC
+Received: 0434SBUS
+
+Sending: 0434BADC
+Received: 1383SBUS
+
+Sending: 1383BADC
+Received: 0435SBUS
+
+Sending: 0435BADC
+Received: 1384SBUS
+
+Sending: 1384BADC
+Received: 0436SBUS
+
+Sending: 0436BADC
+Received: 1385SBUS
+
+Sending: 1385BADC
+Received: 0437SBUS
+
+Sending: 0437BADC
+Received: 1386SBUS
+
+Sending: 1386BADC
+Received: 0438SBUS
+
+Sending: 0438BADC
+Received: 1387SBUS
+
+Sending: 1387BADC
+Received: 0439SBUS
+
+Sending: 0439BADC
+Received: 1388SBUS
+
+Sending: 1388BADC
+Received: 0440SBUS
+
+Sending: 0440BADC
+Received: 1389SBUS
+
+Sending: 1389BADC
+Received: 0441SBUS
+
+Sending: 0441BADC
+Received: 1390SBUS
+
+Sending: 1390BADC
+Received: 0442SBUS
+
+Sending: 0442BADC
+Received: 1391SBUS
+
+Sending: 1391BADC
+Received: 0443SBUS
+
+Sending: 0443BADC
+Received: 1392SBUS
+
+Sending: 1392BADC
+Received: 0444SBUS
+
+Sending: 0444BADC
+Received: 1393SBUS
+
+Sending: 1393BADC
+Received: 0445SBUS
+
+Sending: 0445BADC
+Received: 1394SBUS
+
+Sending: 1394BADC
+Received: 0446SBUS
+
+Sending: 0446BADC
+Received: 1395SBUS
+
+Sending: 1395BADC
+Received: 0447SBUS
+
+Sending: 0447BADC
+Received: 1396SBUS
+
+Sending: 1396BADC
+Received: 0448SBUS
+
+Sending: 0448BADC
+Received: 1397SBUS
+
+Sending: 1397BADC
+Received: 0449SBUS
+
+Sending: 0449BADC
+Received: 1398SBUS
+
+Sending: 1398BADC
+Received: 0450SBUS
+
+Sending: 0450BADC
+Received: 1399SBUS
+
+Sending: 1399BADC
+Received: 0451SBUS
+
+Sending: 0451BADC
+Received: 1400SBUS
+
+Sending: 1400BADC
+Received: 0452SBUS
+
+Sending: 0452BADC
+Received: 1401SBUS
+
+Sending: 1401BADC
+Received: 0453SBUS
+
+Sending: 0453BADC
+Received: 1402SBUS
+
+Sending: 1402BADC
+Received: 0454SBUS
+
+Sending: 0454BADC
+Received: 1403SBUS
+
+Sending: 1403BADC
+Received: 0455SBUS
+
+Sending: 0455BADC
+Received: 1404SBUS
+
+Sending: 1404BADC
+Received: 0456SBUS
+
+Sending: 0456BADC
+Received: 1405SBUS
+
+Sending: 1405BADC
+Received: 0457SBUS
+
+Sending: 0457BADC
+Received: 1406SBUS
+
+Sending: 1406BADC
+Received: 0458SBUS
+
+Sending: 0458BADC
+Received: 1407SBUS
+
+Sending: 1407BADC
+Received: 0459SBUS
+
+Sending: 0459BADC
+Received: 1408SBUS
+
+Sending: 1408BADC
+Received: 0460SBUS
+
+Sending: 0460BADC
+Received: 1409SBUS
+
+Sending: 1409BADC
+Received: 0461SBUS
+
+Sending: 0461BADC
+Received: 1410SBUS
+
+Sending: 1410BADC
+Received: 0462SBUS
+
+Sending: 0462BADC
+Received: 1411SBUS
+
+Sending: 1411BADC
+Received: 0463SBUS
+
+Sending: 0463BADC
+Received: 1412SBUS
+
+Sending: 1412BADC
+Received: 0464SBUS
+
+Sending: 0464BADC
+Received: 1413SBUS
+
+Sending: 1413BADC
+Received: 0465SBUS
+
+Sending: 0465BADC
+Received: 1414SBUS
+
+Sending: 1414BADC
+Received: 0466SBUS
+
+Sending: 0466BADC
+Received: 1415SBUS
+
+Sending: 1415BADC
+Received: 0467SBUS
+
+Sending: 0467BADC
+Received: 1416SBUS
+
+Sending: 1416BADC
+Received: 0468SBUS
+
+Sending: 0468BADC
+Received: 1417SBUS
+
+Sending: 1417BADC
+Received: 0469SBUS
+
+Sending: 0469BADC
+Received: 1418SBUS
+
+Sending: 1418BADC
+Received: 0470SBUS
+
+Sending: 0470BADC
+Received: 1419SBUS
+
+Sending: 1419BADC
+Received: 0471SBUS
+
+Sending: 0471BADC
+Received: 1420SBUS
+
+Sending: 1420BADC
+Received: 0472SBUS
+
+Sending: 0472BADC
+Received: 1421SBUS
+
+Sending: 1421BADC
+Received: 0473SBUS
+
+Sending: 0473BADC
+Received: 1422SBUS
+
+Sending: 1422BADC
+Received: 0474SBUS
+
+Sending: 0474BADC
+Received: 1423SBUS
+
+Sending: 1423BADC
+Received: 0475SBUS
+
+Sending: 0475BADC
+Received: 1424SBUS
+
+Sending: 1424BADC
+Received: 0476SBUS
+
+Sending: 0476BADC
+Received: 1425SBUS
+
+Sending: 1425BADC
+Received: 0477SBUS
+
+Sending: 0477BADC
+Received: 1426SBUS
+
+Sending: 1426BADC
+Received: 0478SBUS
+
+Sending: 0478BADC
+Received: 1427SBUS
+
+Sending: 1427BADC
+Received: 0479SBUS
+
+Sending: 0479BADC
+Received: 1428SBUS
+
+Sending: 1428BADC
+Received: 0480SBUS
+
+Sending: 0480BADC
+Received: 1429SBUS
+
+Sending: 1429BADC
+Received: 0481SBUS
+
+Sending: 0481BADC
+Received: 1430SBUS
+
+Sending: 1430BADC
+Received: 0482SBUS
+
+Sending: 0482BADC
+Received: 1431SBUS
+
+Sending: 1431BADC
+Received: 0483SBUS
+
+Sending: 0483BADC
+Received: 1432SBUS
+
+Sending: 1432BADC
+Received: 0484SBUS
+
+Sending: 0484BADC
+Received: 1433SBUS
+
+Sending: 1433BADC
+Received: 0485SBUS
+
+Sending: 0485BADC
+Received: 1434SBUS
+
+Sending: 1434BADC
+Received: 0486SBUS
+
+Sending: 0486BADC
+Received: 1435SBUS
+
+Sending: 1435BADC
+Received: 0487SBUS
+
+Sending: 0487BADC
+Received: 1436SBUS
+
+Sending: 1436BADC
+Received: 0488SBUS
+
+Sending: 0488BADC
+Received: 1437SBUS
+
+Sending: 1437BADC
+Received: 0489SBUS
+
+Sending: 0489BADC
+Received: 1438SBUS
+
+Sending: 1438BADC
+Received: 0490SBUS
+
+Sending: 0490BADC
+Received: 1439SBUS
+
+Sending: 1439BADC
+Received: 0491SBUS
+
+Sending: 0491BADC
+Received: 1440SBUS
+
+Sending: 1440BADC
+Received: 0492SBUS
+
+Sending: 0492BADC
+Received: 1441SBUS
+
+Sending: 1441BADC
+Received: 0493SBUS
+
+Sending: 0493BADC
+Received: 1442SBUS
+
+Sending: 1442BADC
+Received: 0494SBUS
+
+Sending: 0494BADC
+Received: 1443SBUS
+
+Sending: 1443BADC
+Received: 0495SBUS
+
+Sending: 0495BADC
+Received: 1444SBUS
+
+Sending: 1444BADC
+Received: 0496SBUS
+
+Sending: 0496BADC
+Received: 1445SBUS
+
+Sending: 1445BADC
+Received: 0497SBUS
+
+Sending: 0497BADC
+Received: 1446SBUS
+
+Sending: 1446BADC
+Received: 0498SBUS
+
+Sending: 0498BADC
+Received: 1447SBUS
+
+Sending: 1447BADC
+Received: 0499SBUS
+
+Sending: 0499BADC
+Received: 1448SBUS
+
+Sending: 1448BADC
+Received: 0500SBUS
+
+Sending: 0500BADC
+Received: 1449SBUS
+
+Sending: 1449BADC
+Received: 0501SBUS
+
+Sending: 0501BADC
+Received: 1450SBUS
+
+Sending: 1450BADC
+Received: 0502SBUS
+
+Sending: 0502BADC
+Received: 1451SBUS
+
+Sending: 1451BADC
+Received: 0503SBUS
+
+Sending: 0503BADC
+Received: 1452SBUS
+
+Sending: 1452BADC
+Received: 0504SBUS
+
+Sending: 0504BADC
+Received: 1453SBUS
+
+Sending: 1453BADC
+Received: 0505SBUS
+
+Sending: 0505BADC
+Received: 1454SBUS
+
+Sending: 1454BADC
+Received: 0506SBUS
+
+Sending: 0506BADC
+Received: 1455SBUS
+
+Sending: 1455BADC
+Received: 0507SBUS
+
+Sending: 0507BADC
+Received: 1456SBUS
+
+Sending: 1456BADC
+Received: 0508SBUS
+
+Sending: 0508BADC
+Received: 1457SBUS
+
+Sending: 1457BADC
+Received: 0509SBUS
+
+Sending: 0509BADC
+Received: 1458SBUS
+
+Sending: 1458BADC
+Received: 0510SBUS
+
+Sending: 0510BADC
+Received: 1459SBUS
+
+Sending: 1459BADC
+Received: 0511SBUS
+
+Sending: 0511BADC
+Received: 1460SBUS
+
+Sending: 1460BADC
+Received: 0512SBUS
+
+Sending: 0512BADC
+Received: 1461SBUS
+
+Sending: 1461BADC
+Received: 0513SBUS
+
+Sending: 0513BADC
+Received: 1462SBUS
+
+Sending: 1462BADC
+Received: 0514SBUS
+
+Sending: 0514BADC
+Received: 1463SBUS
+
+Sending: 1463BADC
+Received: 0515SBUS
+
+Sending: 0515BADC
+Received: 1464SBUS
+
+Sending: 1464BADC
+Received: 0516SBUS
+
+Sending: 0516BADC
+Received: 1465SBUS
+
+Sending: 1465BADC
+Received: 0517SBUS
+
+Sending: 0517BADC
+Received: 1466SBUS
+
+Sending: 1466BADC
+Received: 0518SBUS
+
+Sending: 0518BADC
+Received: 1467SBUS
+
+Sending: 1467BADC
+Received: 0519SBUS
+
+Sending: 0519BADC
+Received: 1468SBUS
+
+Sending: 1468BADC
+Received: 0520SBUS
+
+Sending: 0520BADC
+Received: 1469SBUS
+
+Sending: 1469BADC
+Received: 0521SBUS
+
+Sending: 0521BADC
+Received: 1470SBUS
+
+Sending: 1470BADC
+Received: 0522SBUS
+
+Sending: 0522BADC
+Received: 1471SBUS
+
+Sending: 1471BADC
+Received: 0523SBUS
+
+Sending: 0523BADC
+Received: 1472SBUS
+
+Sending: 1472BADC
+Received: 0524SBUS
+
+Sending: 0524BADC
+Received: 1473SBUS
+
+Sending: 1473BADC
+Received: 0525SBUS
+
+Sending: 0525BADC
+Received: 1474SBUS
+
+Sending: 1474BADC
+Received: 0526SBUS
+
+Sending: 0526BADC
+Received: 1475SBUS
+
+Sending: 1475BADC
+Received: 0527SBUS
+
+Sending: 0527BADC
+Received: 1476SBUS
+
+Sending: 1476BADC
+Received: 0528SBUS
+
+Sending: 0528BADC
+Received: 1477SBUS
+
+Sending: 1477BADC
+Received: 0529SBUS
+
+Sending: 0529BADC
+Received: 1478SBUS
+
+Sending: 1478BADC
+Received: 0530SBUS
+
+Sending: 0530BADC
+Received: 1479SBUS
+
+Sending: 1479BADC
+Received: 0531SBUS
+
+Sending: 0531BADC
+Received: 1480SBUS
+
+Sending: 1480BADC
+Received: 0532SBUS
+
+Sending: 0532BADC
+Received: 1481SBUS
+
+Sending: 1481BADC
+Received: 0533SBUS
+
+Sending: 0533BADC
+Received: 1482SBUS
+
+Sending: 1482BADC
+Received: 0534SBUS
+
+Sending: 0534BADC
+Received: 1483SBUS
+
+Sending: 1483BADC
+Received: 0535SBUS
+
+Sending: 0535BADC
+Received: 1484SBUS
+
+Sending: 1484BADC
+Received: 0536SBUS
+
+Sending: 0536BADC
+Received: 1485SBUS
+
+Sending: 1485BADC
+Received: 0537SBUS
+
+Sending: 0537BADC
+Received: 1486SBUS
+
+Sending: 1486BADC
+Received: 0538SBUS
+
+Sending: 0538BADC
+Received: 1487SBUS
+
+Sending: 1487BADC
+Received: 0539SBUS
+
+Sending: 0539BADC
+Received: 1488SBUS
+
+Sending: 1488BADC
+Received: 0540SBUS
+
+Sending: 0540BADC
+Received: 1489SBUS
+
+Sending: 1489BADC
+Received: 0541SBUS
+
+Sending: 0541BADC
+Received: 1490SBUS
+
+Sending: 1490BADC
+Received: 0542SBUS
+
+Sending: 0542BADC
+Received: 1491SBUS
+
+Sending: 1491BADC
+Received: 0543SBUS
+
+Sending: 0543BADC
+Received: 1492SBUS
+
+Sending: 1492BADC
+Received: 0544SBUS
+
+Sending: 0544BADC
+Received: 1493SBUS
+
+Sending: 1493BADC
+Received: 0545SBUS
+
+Sending: 0545BADC
+Received: 1494SBUS
+
+Sending: 1494BADC
+Received: 0546SBUS
+
+Sending: 0546BADC
+Received: 1495SBUS
+
+Sending: 1495BADC
+Received: 0547SBUS
+
+Sending: 0547BADC
+Received: 1496SBUS
+
+Sending: 1496BADC
+Received: 0548SBUS
+
+Sending: 0548BADC
+Received: 1497SBUS
+
+Sending: 1497BADC
+Received: 0549SBUS
+
+Sending: 0549BADC
+Received: 1498SBUS
+
+Sending: 1498BADC
+Received: 0550SBUS
+
+Sending: 0550BADC
+Received: 1499SBUS
+
+Sending: 1499BADC
+Received: 0551SBUS
+
+Sending: 0551BADC
+Received: 1500SBUS
+
+Sending: 1500BADC
+Received: 0552SBUS
+
+Sending: 0552BADC
+Received: 1501SBUS
+
+Sending: 1501BADC
+Received: 0553SBUS
+
+Sending: 0553BADC
+Received: 1502SBUS
+
+Sending: 1502BADC
+Received: 0554SBUS
+
+Sending: 0554BADC
+Received: 1503SBUS
+
+Sending: 1503BADC
+Received: 0555SBUS
+
+Sending: 0555BADC
+Received: 1504SBUS
+
+Sending: 1504BADC
+Received: 0556SBUS
+
+Sending: 0556BADC
+Received: 1505SBUS
+
+Sending: 1505BADC
+Received: 0557SBUS
+
+Sending: 0557BADC
+Received: 1506SBUS
+
+Sending: 1506BADC
+Received: 0558SBUS
+
+Sending: 0558BADC
+Received: 1507SBUS
+
+Sending: 1507BADC
+Received: 0559SBUS
+
+Sending: 0559BADC
+Received: 1508SBUS
+
+Sending: 1508BADC
+Received: 0560SBUS
+
+Sending: 0560BADC
+Received: 1509SBUS
+
+Sending: 1509BADC
+Received: 0561SBUS
+
+Sending: 0561BADC
+Received: 1510SBUS
+
+Sending: 1510BADC
+Received: 0562SBUS
+
+Sending: 0562BADC
+Received: 1511SBUS
+
+Sending: 1511BADC
+Received: 0563SBUS
+
+Sending: 0563BADC
+Received: 1512SBUS
+
+Sending: 1512BADC
+Received: 0564SBUS
+
+Sending: 0564BADC
+Received: 1513SBUS
+
+Sending: 1513BADC
+Received: 0565SBUS
+
+Sending: 0565BADC
+Received: 1514SBUS
+
+Sending: 1514BADC
+Received: 0566SBUS
+
+Sending: 0566BADC
+Received: 1515SBUS
+
+Sending: 1515BADC
+Received: 0567SBUS
+
+Sending: 0567BADC
+Received: 1516SBUS
+
+Sending: 1516BADC
+Received: 0568SBUS
+
+Sending: 0568BADC
+Received: 1517SBUS
+
+Sending: 1517BADC
+Received: 0569SBUS
+
+Sending: 0569BADC
+Received: 1518SBUS
+
+Sending: 1518BADC
+Received: 0570SBUS
+
+Sending: 0570BADC
+Received: 1519SBUS
+
+Sending: 1519BADC
+Received: 0571SBUS
+
+Sending: 0571BADC
+Received: 1520SBUS
+
+Sending: 1520BADC
+Received: 0572SBUS
+
+Sending: 0572BADC
+Received: 1521SBUS
+
+Sending: 1521BADC
+Received: 0573SBUS
+
+Sending: 0573BADC
+Received: 1522SBUS
+
+Sending: 1522BADC
+Received: 0574SBUS
+
+Sending: 0574BADC
+Received: 1523SBUS
+
+Sending: 1523BADC
+Received: 0575SBUS
+
+Sending: 0575BADC
+Received: 1524SBUS
+
+Sending: 1524BADC
+Received: 0576SBUS
+
+Sending: 0576BADC
+Received: 1525SBUS
+
+Sending: 1525BADC
+Received: 0577SBUS
+
+Sending: 0577BADC
+Received: 1526SBUS
+
+Sending: 1526BADC
+Received: 0578SBUS
+
+Sending: 0578BADC
+Received: 1527SBUS
+
+Sending: 1527BADC
+Received: 0579SBUS
+
+Sending: 0579BADC
+Received: 1528SBUS
+
+Sending: 1528BADC
+Received: 0580SBUS
+
+Sending: 0580BADC
+Received: 1529SBUS
+
+Sending: 1529BADC
+Received: 0581SBUS
+
+Sending: 0581BADC
+Received: 1530SBUS
+
+Sending: 1530BADC
+Received: 0582SBUS
+
+Sending: 0582BADC
+Received: 1531SBUS
+
+Sending: 1531BADC
+Received: 0583SBUS
+
+Sending: 0583BADC
+Received: 1532SBUS
+
+Sending: 1532BADC
+Received: 0584SBUS
+
+Sending: 0584BADC
+Received: 1533SBUS
+
+Sending: 1533BADC
+Received: 0585SBUS
+
+Sending: 0585BADC
+Received: 1534SBUS
+
+Sending: 1534BADC
+Received: 0586SBUS
+
+Sending: 0586BADC
+Received: 1535SBUS
+
+Sending: 1535BADC
+Received: 0587SBUS
+
+Sending: 0587BADC
+Received: 1536SBUS
+
+Sending: 1536BADC
+Received: 0588SBUS
+
+Sending: 0588BADC
+Received: 1537SBUS
+
+Sending: 1537BADC
+Received: 0589SBUS
+
+Sending: 0589BADC
+Received: 1538SBUS
+
+Sending: 1538BADC
+Received: 0590SBUS
+
+Sending: 0590BADC
+Received: 1539SBUS
+
+Sending: 1539BADC
+Received: 0591SBUS
+
+Sending: 0591BADC
+Received: 1540SBUS
+
+Sending: 1540BADC
+Received: 0592SBUS
+
+Sending: 0592BADC
+Received: 1541SBUS
+
+Sending: 1541BADC
+Received: 0593SBUS
+
+Sending: 0593BADC
+Received: 1542SBUS
+
+Sending: 1542BADC
+Received: 0594SBUS
+
+Sending: 0594BADC
+Received: 1543SBUS
+
+Sending: 1543BADC
+Received: 0595SBUS
+
+Sending: 0595BADC
+Received: 1544SBUS
+
+Sending: 1544BADC
+Received: 0596SBUS
+
+Sending: 0596BADC
+Received: 1545SBUS
+
+Sending: 1545BADC
+Received: 0597SBUS
+
+Sending: 0597BADC
+Received: 1546SBUS
+
+Sending: 1546BADC
+Received: 0598SBUS
+
+Sending: 0598BADC
+Received: 1547SBUS
+
+Sending: 1547BADC
+Received: 0599SBUS
+
+Sending: 0599BADC
+Received: 1548SBUS
+
+Sending: 1548BADC
+Received: 0600SBUS
+
+Sending: 0600BADC
+Received: 1549SBUS
+
+Sending: 1549BADC
+Received: 0601SBUS
+
+Sending: 0601BADC
+Received: 1550SBUS
+
+Sending: 1550BADC
+Received: 0602SBUS
+
+Sending: 0602BADC
+Received: 1551SBUS
+
+Sending: 1551BADC
+Received: 0603SBUS
+
+Sending: 0603BADC
+Received: 1552SBUS
+
+Sending: 1552BADC
+Received: 0604SBUS
+
+Sending: 0604BADC
+Received: 1553SBUS
+
+Sending: 1553BADC
+Received: 0605SBUS
+
+Sending: 0605BADC
+Received: 1554SBUS
+
+Sending: 1554BADC
+Received: 0606SBUS
+
+Sending: 0606BADC
+Received: 1555SBUS
+
+Sending: 1555BADC
+Received: 0607SBUS
+
+Sending: 0607BADC
+Received: 1556SBUS
+
+Sending: 1556BADC
+Received: 0608SBUS
+
+Sending: 0608BADC
+Received: 1557SBUS
+
+Sending: 1557BADC
+Received: 0609SBUS
+
+Sending: 0609BADC
+Received: 1558SBUS
+
+Sending: 1558BADC
+Received: 0610SBUS
+
+Sending: 0610BADC
+Received: 1559SBUS
+
+Sending: 1559BADC
+Received: 0611SBUS
+
+Sending: 0611BADC
+Received: 1560SBUS
+
+Sending: 1560BADC
+Received: 0612SBUS
+
+Sending: 0612BADC
+Received: 1561SBUS
+
+Sending: 1561BADC
+Received: 0613SBUS
+
+Sending: 0613BADC
+Received: 1562SBUS
+
+Sending: 1562BADC
+Received: 0614SBUS
+
+Sending: 0614BADC
+Received: 1563SBUS
+
+Sending: 1563BADC
+Received: 0615SBUS
+
+Sending: 0615BADC
+Received: 1564SBUS
+
+Sending: 1564BADC
+Received: 0616SBUS
+
+Sending: 0616BADC
+Received: 1565SBUS
+
+Sending: 1565BADC
+Received: 0617SBUS
+
+Sending: 0617BADC
+Received: 1566SBUS
+
+Sending: 1566BADC
+Received: 0618SBUS
+
+Sending: 0618BADC
+Received: 1567SBUS
+
+Sending: 1567BADC
+Received: 0619SBUS
+
+Sending: 0619BADC
+Received: 1568SBUS
+
+Sending: 1568BADC
+Received: 0620SBUS
+
+Sending: 0620BADC
+Received: 1569SBUS
+
+Sending: 1569BADC
+Received: 0621SBUS
+
+Sending: 0621BADC
+Received: 1570SBUS
+
+Sending: 1570BADC
+Received: 0622SBUS
+
+Sending: 0622BADC
+Received: 1571SBUS
+
+Sending: 1571BADC
+Received: 0623SBUS
+
+Sending: 0623BADC
+Received: 1572SBUS
+
+Sending: 1572BADC
+Received: 0624SBUS
+
+Sending: 0624BADC
+Received: 1573SBUS
+
+Sending: 1573BADC
+Received: 0625SBUS
+
+Sending: 0625BADC
+Received: 1574SBUS
+
+Sending: 1574BADC
+Received: 0626SBUS
+
+Sending: 0626BADC
+Received: 1575SBUS
+
+Sending: 1575BADC
+Received: 0627SBUS
+
+Sending: 0627BADC
+Received: 1576SBUS
+
+Sending: 1576BADC
+Received: 0628SBUS
+
+Sending: 0628BADC
+Received: 1577SBUS
+
+Sending: 1577BADC
+Received: 0629SBUS
+
+Sending: 0629BADC
+Received: 1578SBUS
+
+Sending: 1578BADC
+Received: 0630SBUS
+
+Sending: 0630BADC
+Received: 1579SBUS
+
+Sending: 1579BADC
+Received: 0631SBUS
+
+Sending: 0631BADC
+Received: 1580SBUS
+
+Sending: 1580BADC
+Received: 0632SBUS
+
+Sending: 0632BADC
+Received: 1581SBUS
+
+Sending: 1581BADC
+Received: 0633SBUS
+
+Sending: 0633BADC
+Received: 1582SBUS
+
+Sending: 1582BADC
+Received: 0634SBUS
+
+Sending: 0634BADC
+Received: 1583SBUS
+
+Sending: 1583BADC
+Received: 0635SBUS
+
+Sending: 0635BADC
+Received: 1584SBUS
+
+Sending: 1584BADC
+Received: 0636SBUS
+
+Sending: 0636BADC
+Received: 1585SBUS
+
+Sending: 1585BADC
+Received: 0637SBUS
+
+Sending: 0637BADC
+Received: 1586SBUS
+
+Sending: 1586BADC
+Received: 0638SBUS
+
+Sending: 0638BADC
+Received: 1587SBUS
+
+Sending: 1587BADC
+Received: 0639SBUS
+
+Sending: 0639BADC
+Received: 1588SBUS
+
+Sending: 1588BADC
+Received: 0640SBUS
+
+Sending: 0640BADC
+Received: 1589SBUS
+
+Sending: 1589BADC
+Received: 0641SBUS
+
+Sending: 0641BADC
+Received: 1590SBUS
+
+Sending: 1590BADC
+Received: 0642SBUS
+
+Sending: 0642BADC
+Received: 1591SBUS
+
+Sending: 1591BADC
+Received: 0643SBUS
+
+Sending: 0643BADC
+Received: 1592SBUS
+
+Sending: 1592BADC
+Received: 0644SBUS
+
+Sending: 0644BADC
+Received: 1593SBUS
+
+Sending: 1593BADC
+Received: 0645SBUS
+
+Sending: 0645BADC
+Received: 1594SBUS
+
+Sending: 1594BADC
+Received: 0646SBUS
+
+Sending: 0646BADC
+Received: 1595SBUS
+
+Sending: 1595BADC
+Received: 0647SBUS
+
+Sending: 0647BADC
+Received: 1596SBUS
+
+Sending: 1596BADC
+Received: 0648SBUS
+
+Sending: 0648BADC
+Received: 1597SBUS
+
+Sending: 1597BADC
+Received: 0649SBUS
+
+Sending: 0649BADC
+Received: 1598SBUS
+
+Sending: 1598BADC
+Received: 0650SBUS
+
+Sending: 0650BADC
+Received: 1599SBUS
+
+Sending: 1599BADC
+Received: 0651SBUS
+
+Sending: 0651BADC
+Received: 1600SBUS
+
+Sending: 1600BADC
+Received: 0652SBUS
+
+Sending: 0652BADC
+Received: 1601SBUS
+
+Sending: 1601BADC
+Received: 0653SBUS
+
+Sending: 0653BADC
+Received: 1602SBUS
+
+Sending: 1602BADC
+Received: 0654SBUS
+
+Sending: 0654BADC
+Received: 1603SBUS
+
+Sending: 1603BADC
+Received: 0655SBUS
+
+Sending: 0655BADC
+Received: 1604SBUS
+
+Sending: 1604BADC
+Received: 0656SBUS
+
+Sending: 0656BADC
+Received: 1605SBUS
+
+Sending: 1605BADC
+Received: 0657SBUS
+
+Sending: 0657BADC
+Received: 1606SBUS
+
+Sending: 1606BADC
+Received: 0658SBUS
+
+Sending: 0658BADC
+Received: 1607SBUS
+
+Sending: 1607BADC
+Received: 0659SBUS
+
+Sending: 0659BADC
+Received: 1608SBUS
+
+Sending: 1608BADC
+Received: 0660SBUS
+
+Sending: 0660BADC
+Received: 1609SBUS
+
+Sending: 1609BADC
+Received: 0661SBUS
+
+Sending: 0661BADC
+Received: 1610SBUS
+
+Sending: 1610BADC
+Received: 0662SBUS
+
+Sending: 0662BADC
+Received: 1611SBUS
+
+Sending: 1611BADC
+Received: 0663SBUS
+
+Sending: 0663BADC
+Received: 1612SBUS
+
+Sending: 1612BADC
+Received: 0664SBUS
+
+Sending: 0664BADC
+Received: 1613SBUS
+
+Sending: 1613BADC
+Received: 0665SBUS
+
+Sending: 0665BADC
+Received: 1614SBUS
+
+Sending: 1614BADC
+Received: 0666SBUS
+
+Sending: 0666BADC
+Received: 1615SBUS
+
+Sending: 1615BADC
+Received: 0667SBUS
+
+Sending: 0667BADC
+Received: 1616SBUS
+
+Sending: 1616BADC
+Received: 0668SBUS
+
+Sending: 0668BADC
+Received: 1617SBUS
+
+Sending: 1617BADC
+Received: 0669SBUS
+
+Sending: 0669BADC
+Received: 1618SBUS
+
+Sending: 1618BADC
+Received: 0670SBUS
+
+Sending: 0670BADC
+Received: 1619SBUS
+
+Sending: 1619BADC
+Received: 0671SBUS
+
+Sending: 0671BADC
+Received: 1620SBUS
+
+Sending: 1620BADC
+Received: 0672SBUS
+
+Sending: 0672BADC
+Received: 1621SBUS
+
+Sending: 1621BADC
+Received: 0673SBUS
+
+Sending: 0673BADC
+Received: 1622SBUS
+
+Sending: 1622BADC
+Received: 0674SBUS
+
+Sending: 0674BADC
+Received: 1623SBUS
+
+Sending: 1623BADC
+Received: 0675SBUS
+
+Sending: 0675BADC
+Received: 1624SBUS
+
+Sending: 1624BADC
+Received: 0676SBUS
+
+Sending: 0676BADC
+Received: 1625SBUS
+
+Sending: 1625BADC
+Received: 0677SBUS
+
+Sending: 0677BADC
+Received: 1626SBUS
+
+Sending: 1626BADC
+Received: 0678SBUS
+
+Sending: 0678BADC
+Received: 1627SBUS
+
+Sending: 1627BADC
+Received: 0679SBUS
+
+Sending: 0679BADC
+Received: 1628SBUS
+
+Sending: 1628BADC
+Received: 0680SBUS
+
+Sending: 0680BADC
+Received: 1629SBUS
+
+Sending: 1629BADC
+Received: 0681SBUS
+
+Sending: 0681BADC
+Received: 1630SBUS
+
+Sending: 1630BADC
+Received: 0682SBUS
+
+Sending: 0682BADC
+Received: 1631SBUS
+
+Sending: 1631BADC
+Received: 0683SBUS
+
+Sending: 0683BADC
+Received: 1632SBUS
+
+Sending: 1632BADC
+Received: 0684SBUS
+
+Sending: 0684BADC
+Received: 1633SBUS
+
+Sending: 1633BADC
+Received: 0685SBUS
+
+Sending: 0685BADC
+Received: 1634SBUS
+
+Sending: 1634BADC
+Received: 0686SBUS
+
+Sending: 0686BADC
+Received: 1635SBUS
+
+Sending: 1635BADC
+Received: 0687SBUS
+
+Sending: 0687BADC
+Received: 1636SBUS
+
+Sending: 1636BADC
+Received: 0688SBUS
+
+Sending: 0688BADC
+Received: 1637SBUS
+
+Sending: 1637BADC
+Received: 0689SBUS
+
+Sending: 0689BADC
+Received: 1638SBUS
+
+Sending: 1638BADC
+Received: 0690SBUS
+
+Sending: 0690BADC
+Received: 1639SBUS
+
+Sending: 1639BADC
+Received: 0691SBUS
+
+Sending: 0691BADC
+Received: 1640SBUS
+
+Sending: 1640BADC
+Received: 0692SBUS
+
+Sending: 0692BADC
+Received: 1641SBUS
+
+Sending: 1641BADC
+Received: 0693SBUS
+
+Sending: 0693BADC
+Received: 1642SBUS
+
+Sending: 1642BADC
+Received: 0694SBUS
+
+Sending: 0694BADC
+Received: 1643SBUS
+
+Sending: 1643BADC
+Received: 0695SBUS
+
+Sending: 0695BADC
+Received: 1644SBUS
+
+Sending: 1644BADC
+Received: 0696SBUS
+
+Sending: 0696BADC
+Received: 1645SBUS
+
+Sending: 1645BADC
+Received: 0697SBUS
+
+Sending: 0697BADC
+Received: 1646SBUS
+
+Sending: 1646BADC
+Received: 0698SBUS
+
+Sending: 0698BADC
+Received: 1647SBUS
+
+Sending: 1647BADC
+Received: 0699SBUS
+
+Sending: 0699BADC
+Received: 1648SBUS
+
+Sending: 1648BADC
+Received: 0700SBUS
+
+Sending: 0700BADC
+Received: 1649SBUS
+
+Sending: 1649BADC
+Received: 0701SBUS
+
+Sending: 0701BADC
+Received: 1650SBUS
+
+Sending: 1650BADC
+Received: 0702SBUS
+
+Sending: 0702BADC
+Received: 1651SBUS
+
+Sending: 1651BADC
+Received: 0703SBUS
+
+Sending: 0703BADC
+Received: 1652SBUS
+
+Sending: 1652BADC
+Received: 0704SBUS
+
+Sending: 0704BADC
+Received: 1653SBUS
+
+Sending: 1653BADC
+Received: 0705SBUS
+
+Sending: 0705BADC
+Received: 1654SBUS
+
+Sending: 1654BADC
+Received: 0706SBUS
+
+Sending: 0706BADC
+Received: 1655SBUS
+
+Sending: 1655BADC
+Received: 0707SBUS
+
+Sending: 0707BADC
+Received: 1656SBUS
+
+Sending: 1656BADC
+Received: 0708SBUS
+
+Sending: 0708BADC
+Received: 1657SBUS
+
+Sending: 1657BADC
+Received: 0709SBUS
+
+Sending: 0709BADC
+Received: 1658SBUS
+
+Sending: 1658BADC
+Received: 0710SBUS
+
+Sending: 0710BADC
+Received: 1659SBUS
+
+Sending: 1659BADC
+Received: 0711SBUS
+
+Sending: 0711BADC
+Received: 1660SBUS
+
+Sending: 1660BADC
+Received: 0712SBUS
+
+Sending: 0712BADC
+Received: 1661SBUS
+
+Sending: 1661BADC
+Received: 0713SBUS
+
+Sending: 0713BADC
+Received: 1662SBUS
+
+Sending: 1662BADC
+Received: 0714SBUS
+
+Sending: 0714BADC
+Received: 1663SBUS
+
+Sending: 1663BADC
+Received: 0715SBUS
+
+Sending: 0715BADC
+Received: 1664SBUS
+
+Sending: 1664BADC
+Received: 0716SBUS
+
+Sending: 0716BADC
+Received: 1665SBUS
+
+Sending: 1665BADC
+Received: 0717SBUS
+
+Sending: 0717BADC
+Received: 1666SBUS
+
+Sending: 1666BADC
+Received: 0718SBUS
+
+Sending: 0718BADC
+Received: 1667SBUS
+
+Sending: 1667BADC
+Received: 0719SBUS
+
+Sending: 0719BADC
+Received: 1668SBUS
+
+Sending: 1668BADC
+Received: 0720SBUS
+
+Sending: 0720BADC
+Received: 1669SBUS
+
+Sending: 1669BADC
+Received: 0721SBUS
+
+Sending: 0721BADC
+Received: 1670SBUS
+
+Sending: 1670BADC
+Received: 0722SBUS
+
+Sending: 0722BADC
+Received: 1671SBUS
+
+Sending: 1671BADC
+Received: 0723SBUS
+
+Sending: 0723BADC
+Received: 1672SBUS
+
+Sending: 1672BADC
+Received: 0724SBUS
+
+Sending: 0724BADC
+Received: 1673SBUS
+
+Sending: 1673BADC
+Received: 0725SBUS
+
+Sending: 0725BADC
+Received: 1674SBUS
+
+Sending: 1674BADC
+Received: 0726SBUS
+
+Sending: 0726BADC
+Received: 1675SBUS
+
+Sending: 1675BADC
+Received: 0727SBUS
+
+Sending: 0727BADC
+Received: 1676SBUS
+
+Sending: 1676BADC
+Received: 0728SBUS
+
+Sending: 0728BADC
+Received: 1677SBUS
+
+Sending: 1677BADC
+Received: 0729SBUS
+
+Sending: 0729BADC
+Received: 1678SBUS
+
+Sending: 1678BADC
+Received: 0730SBUS
+
+Sending: 0730BADC
+Received: 1679SBUS
+
+Sending: 1679BADC
+Received: 0731SBUS
+
+Sending: 0731BADC
+Received: 1680SBUS
+
+Sending: 1680BADC
+Received: 0732SBUS
+
+Sending: 0732BADC
+Received: 1681SBUS
+
+Sending: 1681BADC
+Received: 0733SBUS
+
+Sending: 0733BADC
+Received: 1682SBUS
+
+Sending: 1682BADC
+Received: 0734SBUS
+
+Sending: 0734BADC
+Received: 1683SBUS
+
+Sending: 1683BADC
+Received: 0735SBUS
+
+Sending: 0735BADC
+Received: 1684SBUS
+
+Sending: 1684BADC
+Received: 0736SBUS
+
+Sending: 0736BADC
+Received: 1685SBUS
+
+Sending: 1685BADC
+Received: 0737SBUS
+
+Sending: 0737BADC
+Received: 1686SBUS
+
+Sending: 1686BADC
+Received: 0738SBUS
+
+Sending: 0738BADC
+Received: 1687SBUS
+
+Sending: 1687BADC
+Received: 0739SBUS
+
+Sending: 0739BADC
+Received: 1688SBUS
+
+Sending: 1688BADC
+Received: 0740SBUS
+
+Sending: 0740BADC
+Received: 1689SBUS
+
+Sending: 1689BADC
+Received: 0741SBUS
+
+Sending: 0741BADC
+Received: 1690SBUS
+
+Sending: 1690BADC
+Received: 0742SBUS
+
+Sending: 0742BADC
+Received: 1691SBUS
+
+Sending: 1691BADC
+Received: 0743SBUS
+
+Sending: 0743BADC
+Received: 1692SBUS
+
+Sending: 1692BADC
+Received: 0744SBUS
+
+Sending: 0744BADC
+Received: 1693SBUS
+
+Sending: 1693BADC
+Received: 0745SBUS
+
+Sending: 0745BADC
+Received: 1694SBUS
+
+Sending: 1694BADC
+Received: 0746SBUS
+
+Sending: 0746BADC
+Received: 1695SBUS
+
+Sending: 1695BADC
+Received: 0747SBUS
+
+Sending: 0747BADC
+Received: 1696SBUS
+
+Sending: 1696BADC
+Received: 0748SBUS
+
+Sending: 0748BADC
+Received: 1697SBUS
+
+Sending: 1697BADC
+Received: 0749SBUS
+
+Sending: 0749BADC
+Received: 1698SBUS
+
+Sending: 1698BADC
+Received: 0750SBUS
+
+Sending: 0750BADC
+Received: 1699SBUS
+
+Sending: 1699BADC
+Received: 0751SBUS
+
+Sending: 0751BADC
+Received: 1700SBUS
+
+Sending: 1700BADC
+Received: 0752SBUS
+
+Sending: 0752BADC
+Received: 1701SBUS
+
+Sending: 1701BADC
+Received: 0753SBUS
+
+Sending: 0753BADC
+Received: 1702SBUS
+
+Sending: 1702BADC
+Received: 0754SBUS
+
+Sending: 0754BADC
+Received: 1703SBUS
+
+Sending: 1703BADC
+Received: 0755SBUS
+
+Sending: 0755BADC
+Received: 1704SBUS
+
+Sending: 1704BADC
+Received: 0756SBUS
+
+Sending: 0756BADC
+Received: 1705SBUS
+
+Sending: 1705BADC
+Received: 0757SBUS
+
+Sending: 0757BADC
+Received: 1706SBUS
+
+Sending: 1706BADC
+Received: 0758SBUS
+
+Sending: 0758BADC
+Received: 1707SBUS
+
+Sending: 1707BADC
+Received: 0759SBUS
+
+Sending: 0759BADC
+Received: 1708SBUS
+
+Sending: 1708BADC
+Received: 0760SBUS
+
+Sending: 0760BADC
+Received: 1709SBUS
+
+Sending: 1709BADC
+Received: 0761SBUS
+
+Sending: 0761BADC
+Received: 1710SBUS
+
+Sending: 1710BADC
+Received: 0762SBUS
+
+Sending: 0762BADC
+Received: 1711SBUS
+
+Sending: 1711BADC
+Received: 0763SBUS
+
+Sending: 0763BADC
+Received: 1712SBUS
+
+Sending: 1712BADC
+Received: 0764SBUS
+
+Sending: 0764BADC
+Received: 1713SBUS
+
+Sending: 1713BADC
+Received: 0765SBUS
+
+Sending: 0765BADC
+Received: 1714SBUS
+
+Sending: 1714BADC
+Received: 0766SBUS
+
+Sending: 0766BADC
+Received: 1715SBUS
+
+Sending: 1715BADC
+Received: 0767SBUS
+
+Sending: 0767BADC
+Received: 1716SBUS
+
+Sending: 1716BADC
+Received: 0768SBUS
+
+Sending: 0768BADC
+Received: 1717SBUS
+
+Sending: 1717BADC
+Received: 0769SBUS
+
+Sending: 0769BADC
+Received: 1718SBUS
+
+Sending: 1718BADC
+Received: 0770SBUS
+
+Sending: 0770BADC
+Received: 1719SBUS
+
+Sending: 1719BADC
+Received: 0771SBUS
+
+Sending: 0771BADC
+Received: 1720SBUS
+
+Sending: 1720BADC
+Received: 0772SBUS
+
+Sending: 0772BADC
+Received: 1721SBUS
+
+Sending: 1721BADC
+Received: 0773SBUS
+
+Sending: 0773BADC
+Received: 1722SBUS
+
+Sending: 1722BADC
+Received: 0774SBUS
+
+Sending: 0774BADC
+Received: 1723SBUS
+
+Sending: 1723BADC
+Received: 0775SBUS
+
+Sending: 0775BADC
+Received: 1724SBUS
+
+Sending: 1724BADC
+Received: 0776SBUS
+
+Sending: 0776BADC
+Received: 1725SBUS
+
+Sending: 1725BADC
+Received: 0777SBUS
+
+Sending: 0777BADC
+Received: 1726SBUS
+
+Sending: 1726BADC
+Received: 0778SBUS
+
+Sending: 0778BADC
+Received: 1727SBUS
+
+Sending: 1727BADC
+Received: 0779SBUS
+
+Sending: 0779BADC
+Received: 1728SBUS
+
+Sending: 1728BADC
+Received: 0780SBUS
+
+Sending: 0780BADC
+Received: 1729SBUS
+
+Sending: 1729BADC
+Received: 0781SBUS
+
+Sending: 0781BADC
+Received: 1730SBUS
+
+Sending: 1730BADC
+Received: 0782SBUS
+
+Sending: 0782BADC
+Received: 1731SBUS
+
+Sending: 1731BADC
+Received: 0783SBUS
+
+Sending: 0783BADC
+Received: 1732SBUS
+
+Sending: 1732BADC
+Received: 0784SBUS
+
+Sending: 0784BADC
+Received: 1733SBUS
+
+Sending: 1733BADC
+Received: 0785SBUS
+
+Sending: 0785BADC
+Received: 1734SBUS
+
+Sending: 1734BADC
+Received: 0786SBUS
+
+Sending: 0786BADC
+Received: 1735SBUS
+
+Sending: 1735BADC
+Received: 0787SBUS
+
+Sending: 0787BADC
+Received: 1736SBUS
+
+Sending: 1736BADC
+Received: 0788SBUS
+
+Sending: 0788BADC
+Received: 1737SBUS
+
+Sending: 1737BADC
+Received: 0789SBUS
+
+Sending: 0789BADC
+Received: 1738SBUS
+
+Sending: 1738BADC
+Received: 0790SBUS
+
+Sending: 0790BADC
+Received: 1739SBUS
+
+Sending: 1739BADC
+Received: 0791SBUS
+
+Sending: 0791BADC
+Received: 1740SBUS
+
+Sending: 1740BADC
+Received: 0792SBUS
+
+Sending: 0792BADC
+Received: 1741SBUS
+
+Sending: 1741BADC
+Received: 0793SBUS
+
+Sending: 0793BADC
+Received: 1742SBUS
+
+Sending: 1742BADC
+Received: 0794SBUS
+
+Sending: 0794BADC
+Received: 1743SBUS
+
+Sending: 1743BADC
+Received: 0795SBUS
+
+Sending: 0795BADC
+Received: 1744SBUS
+
+Sending: 1744BADC
+Received: 0796SBUS
+
+Sending: 0796BADC
+Received: 1745SBUS
+
+Sending: 1745BADC
+Received: 0797SBUS
+
+Sending: 0797BADC
+Received: 1746SBUS
+
+Sending: 1746BADC
+Received: 0798SBUS
+
+Sending: 0798BADC
+Received: 1747SBUS
+
+Sending: 1747BADC
+Received: 0799SBUS
+
+Sending: 0799BADC
+Received: 1748SBUS
+
+Sending: 1748BADC
+Received: 0800SBUS
+
+Sending: 0800BADC
+Received: 1749SBUS
+
+Sending: 1749BADC
+Received: 0801SBUS
+
+Sending: 0801BADC
+Received: 1750SBUS
+
+Sending: 1750BADC
+Received: 0802SBUS
+
+Sending: 0802BADC
+Received: 1751SBUS
+
+Sending: 1751BADC
+Received: 0803SBUS
+
+Sending: 0803BADC
+Received: 1752SBUS
+
+Sending: 1752BADC
+Received: 0804SBUS
+
+Sending: 0804BADC
+Received: 1753SBUS
+
+Sending: 1753BADC
+Received: 0805SBUS
+
+Sending: 0805BADC
+Received: 1754SBUS
+
+Sending: 1754BADC
+Received: 0806SBUS
+
+Sending: 0806BADC
+Received: 1755SBUS
+
+Sending: 1755BADC
+Received: 0807SBUS
+
+Sending: 0807BADC
+Received: 1756SBUS
+
+Sending: 1756BADC
+Received: 0808SBUS
+
+Sending: 0808BADC
+Received: 1757SBUS
+
+Sending: 1757BADC
+Received: 0809SBUS
+
+Sending: 0809BADC
+Received: 1758SBUS
+
+Sending: 1758BADC
+Received: 0810SBUS
+
+Sending: 0810BADC
+Received: 1759SBUS
+
+Sending: 1759BADC
+Received: 0811SBUS
+
+Sending: 0811BADC
+Received: 1760SBUS
+
+Sending: 1760BADC
+Received: 0812SBUS
+
+Sending: 0812BADC
+Received: 1761SBUS
+
+Sending: 1761BADC
+Received: 0813SBUS
+
+Sending: 0813BADC
+Received: 1762SBUS
+
+Sending: 1762BADC
+Received: 0814SBUS
+
+Sending: 0814BADC
+Received: 1763SBUS
+
+Sending: 1763BADC
+Received: 0815SBUS
+
+Sending: 0815BADC
+Received: 1764SBUS
+
+Sending: 1764BADC
+Received: 0816SBUS
+
+Sending: 0816BADC
+Received: 1765SBUS
+
+Sending: 1765BADC
+Received: 0817SBUS
+
+Sending: 0817BADC
+Received: 1766SBUS
+
+Sending: 1766BADC
+Received: 0818SBUS
+
+Sending: 0818BADC
+Received: 1767SBUS
+
+Sending: 1767BADC
+Received: 0819SBUS
+
+Sending: 0819BADC
+Received: 1768SBUS
+
+Sending: 1768BADC
+Received: 0820SBUS
+
+Sending: 0820BADC
+Received: 1769SBUS
+
+Sending: 1769BADC
+Received: 0821SBUS
+
+Sending: 0821BADC
+Received: 1770SBUS
+
+Sending: 1770BADC
+Received: 0822SBUS
+
+Sending: 0822BADC
+Received: 1771SBUS
+
+Sending: 1771BADC
+Received: 0823SBUS
+
+Sending: 0823BADC
+Received: 1772SBUS
+
+Sending: 1772BADC
+Received: 0824SBUS
+
+Sending: 0824BADC
+Received: 1773SBUS
+
+Sending: 1773BADC
+Received: 0825SBUS
+
+Sending: 0825BADC
+Received: 1774SBUS
+
+Sending: 1774BADC
+Received: 0826SBUS
+
+Sending: 0826BADC
+Received: 1775SBUS
+
+Sending: 1775BADC
+Received: 0827SBUS
+
+Sending: 0827BADC
+Received: 1776SBUS
+
+Sending: 1776BADC
+Received: 0828SBUS
+
+Sending: 0828BADC
+Received: 1777SBUS
+
+Sending: 1777BADC
+Received: 0829SBUS
+
+Sending: 0829BADC
+Received: 1778SBUS
+
+Sending: 1778BADC
+Received: 0830SBUS
+
+Sending: 0830BADC
+Received: 1779SBUS
+
+Sending: 1779BADC
+Received: 0831SBUS
+
+Sending: 0831BADC
+Received: 1780SBUS
+
+Sending: 1780BADC
+Received: 0832SBUS
+
+Sending: 0832BADC
+Received: 1781SBUS
+
+Sending: 1781BADC
+Received: 0833SBUS
+
+Sending: 0833BADC
+Received: 1782SBUS
+
+Sending: 1782BADC
+Received: 0834SBUS
+
+Sending: 0834BADC
+Received: 1783SBUS
+
+Sending: 1783BADC
+Received: 0835SBUS
+
+Sending: 0835BADC
+Received: 1784SBUS
+
+Sending: 1784BADC
+Received: 0836SBUS
+
+Sending: 0836BADC
+Received: 1785SBUS
+
+Sending: 1785BADC
+Received: 0837SBUS
+
+Sending: 0837BADC
+Received: 1786SBUS
+
+Sending: 1786BADC
+Received: 0838SBUS
+
+Sending: 0838BADC
+Received: 1787SBUS
+
+Sending: 1787BADC
+Received: 0839SBUS
+
+Sending: 0839BADC
+Received: 1788SBUS
+
+Sending: 1788BADC
+Received: 0840SBUS
+
+Sending: 0840BADC
+Received: 1789SBUS
+
+Sending: 1789BADC
+Received: 0841SBUS
+
+Sending: 0841BADC
+Received: 1790SBUS
+
+Sending: 1790BADC
+Received: 0842SBUS
+
+Sending: 0842BADC
+Received: 1791SBUS
+
+Sending: 1791BADC
+Received: 0843SBUS
+
+Sending: 0843BADC
+Received: 1792SBUS
+
+Sending: 1792BADC
+Received: 0844SBUS
+
+Sending: 0844BADC
+Received: 1793SBUS
+
+Sending: 1793BADC
+Received: 0845SBUS
+
+Sending: 0845BADC
+Received: 1794SBUS
+
+Sending: 1794BADC
+Received: 0846SBUS
+
+Sending: 0846BADC
+Received: 1795SBUS
+
+Sending: 1795BADC
+Received: 0847SBUS
+
+Sending: 0847BADC
+Received: 1796SBUS
+
+Sending: 1796BADC
+Received: 0848SBUS
+
+Sending: 0848BADC
+Received: 1797SBUS
+
+Sending: 1797BADC
+Received: 0849SBUS
+
+Sending: 0849BADC
+Received: 1798SBUS
+
+Sending: 1798BADC
+Received: 0850SBUS
+
+Sending: 0850BADC
+Received: 1799SBUS
+
+Sending: 1799BADC
+Received: 0851SBUS
+
+Sending: 0851BADC
+Received: 1800SBUS
+
+Sending: 1800BADC
+Received: 0852SBUS
+
+Sending: 0852BADC
+Received: 1801SBUS
+
+Sending: 1801BADC
+Received: 0853SBUS
+
+Sending: 0853BADC
+Received: 1802SBUS
+
+Sending: 1802BADC
+Received: 0854SBUS
+
+Sending: 0854BADC
+Received: 1803SBUS
+
+Sending: 1803BADC
+Received: 0855SBUS
+
+Sending: 0855BADC
+Received: 1804SBUS
+
+Sending: 1804BADC
+Received: 0856SBUS
+
+Sending: 0856BADC
+Received: 1805SBUS
+
+Sending: 1805BADC
+Received: 0857SBUS
+
+Sending: 0857BADC
+Received: 1806SBUS
+
+Sending: 1806BADC
+Received: 0858SBUS
+
+Sending: 0858BADC
+Received: 1807SBUS
+
+Sending: 1807BADC
+Received: 0859SBUS
+
+Sending: 0859BADC
+Received: 1808SBUS
+
+Sending: 1808BADC
+Received: 1809SBUS
+
+Sending: 1809BADC
+Received: 1810SBUS
+
+Sending: 1810BADC
+Received: 1811SBUS
+
+Sending: 1811BADC
+Received: 1812SBUS
+
+Sending: 1812BADC
+Received: 1813SBUS
+
+Sending: 1813BADC
+Received: 1814SBUS
+
+Sending: 1814BADC
+Received: 1815SBUS
+
+Sending: 1815BADC
+Received: 1816SBUS
+
+Sending: 1816BADC
+Received: 1817SBUS
+
+Sending: 1817BADC
+Received: 1818SBUS
+
+Sending: 1818BADC
+Received: 1819SBUS
+
+Sending: 1819BADC
+Received: 1820SBUS
+
+Sending: 1820BADC
+Received: 1821SBUS
+
+Sending: 1821BADC
+Received: 1822SBUS
+
+Sending: 1822BADC
+Received: 1823SBUS
+
+Sending: 1823BADC
+Received: 1824SBUS
+
+Sending: 1824BADC
+Received: 1825SBUS
+
+Sending: 1825BADC
+Received: 1826SBUS
+
+Sending: 1826BADC
+Received: 1827SBUS
+
+Sending: 1827BADC
+Received: 1828SBUS
+
+Sending: 1828BADC
+Received: 1829SBUS
+
+Sending: 1829BADC
+Received: 1830SBUS
+
+Sending: 1830BADC
+Received: 1831SBUS
+
+Sending: 1831BADC
+Received: 1832SBUS
+
+Sending: 1832BADC
+Received: 1833SBUS
+
+Sending: 1833BADC
+Received: 1834SBUS
+
+Sending: 1834BADC
+Received: 1835SBUS
+
+Sending: 1835BADC
+Received: 1836SBUS
+
+Sending: 1836BADC
+Received: 1837SBUS
+
+Sending: 1837BADC
+Received: 1838SBUS
+
+Sending: 1838BADC
+Received: 1839SBUS
+
+Sending: 1839BADC
+Received: 1840SBUS
+
+Sending: 1840BADC
+Received: 1841SBUS
+
+Sending: 1841BADC
+Received: 1842SBUS
+
+Sending: 1842BADC
+Received: 1843SBUS
+
+Sending: 1843BADC
+Received: 1844SBUS
+
+Sending: 1844BADC
+Received: 1845SBUS
+
+Sending: 1845BADC
+Received: 1846SBUS
+
+Sending: 1846BADC
+Received: 1847SBUS
+
+Sending: 1847BADC
+Received: 1848SBUS
+
+Sending: 1848BADC
+Received: 1849SBUS
+
+Sending: 1849BADC
+Received: 1850SBUS
+
+Sending: 1850BADC
+Received: 1851SBUS
+
+Sending: 1851BADC
+Received: 1852SBUS
+
+Sending: 1852BADC
+Received: 1853SBUS
+
+Sending: 1853BADC
+Received: 1854SBUS
+
+Sending: 1854BADC
+Received: 1855SBUS
+
+Sending: 1855BADC
+Received: 1856SBUS
+
+Sending: 1856BADC
+Received: 1857SBUS
+
+Sending: 1857BADC
+Received: 1858SBUS
+
+Sending: 1858BADC
+Received: 1859SBUS
+
+Sending: 1859BADC
+Received: 1860SBUS
+
+Sending: 1860BADC
+Received: 1861SBUS
+
+Sending: 1861BADC
+Received: 1862SBUS
+
+Sending: 1862BADC
+Received: 1863SBUS
+
+Sending: 1863BADC
+Received: 1864SBUS
+
+Sending: 1864BADC
+Received: 1865SBUS
+
+Sending: 1865BADC
+Received: 1866SBUS
+
+Sending: 1866BADC
+Received: 1867SBUS
+
+Sending: 1867BADC
+Received: 1868SBUS
+
+Sending: 1868BADC
+Received: 1869SBUS
+
+Sending: 1869BADC
+Received: 1870SBUS
+
+Sending: 1870BADC
+Received: 1871SBUS
+
+Sending: 1871BADC
+Received: 1872SBUS
+
+Sending: 1872BADC
+Received: 1873SBUS
+
+Sending: 1873BADC
+Received: 1874SBUS
+
+Sending: 1874BADC
+Received: 1875SBUS
+
+Sending: 1875BADC
+Received: 1876SBUS
+
+Sending: 1876BADC
+Received: 1877SBUS
+
+Sending: 1877BADC
+Received: 1878SBUS
+
+Sending: 1878BADC
+Received: 1879SBUS
+
+Sending: 1879BADC
+Received: 1880SBUS
+
+Sending: 1880BADC
+Received: 1881SBUS
+
+Sending: 1881BADC
+Received: 1882SBUS
+
+Sending: 1882BADC
+Received: 1883SBUS
+
+Sending: 1883BADC
+Received: 1884SBUS
+
+Sending: 1884BADC
+Received: 1885SBUS
+
+Sending: 1885BADC
+Received: 1886SBUS
+
+Sending: 1886BADC
+Received: 1887SBUS
+
+Sending: 1887BADC
+Received: 1888SBUS
+
+Sending: 1888BADC
+Received: 1889SBUS
+
+Sending: 1889BADC
+Received: 1890SBUS
+
+Sending: 1890BADC
+Received: 1891SBUS
+
+Sending: 1891BADC
+Received: 1892SBUS
+
+Sending: 1892BADC
+Received: 1893SBUS
+
+Sending: 1893BADC
+Received: 1894SBUS
+
+Sending: 1894BADC
+Received: 1895SBUS
+
+Sending: 1895BADC
+Received: 1896SBUS
+
+Sending: 1896BADC
+Received: 1897SBUS
+
+Sending: 1897BADC
+Received: 1898SBUS
+
+Sending: 1898BADC
+Received: 1899SBUS
+
+Sending: 1899BADC
+Received: 1900SBUS
+
+Sending: 1900BADC
+Received: 1901SBUS
+
+Sending: 1901BADC
+Received: 1902SBUS
+
+Sending: 1902BADC
+Received: 1903SBUS
+
+Sending: 1903BADC
+Received: 1904SBUS
+
+Sending: 1904BADC
+Received: 1905SBUS
+
+Sending: 1905BADC
+Received: 1906SBUS
+
+Sending: 1906BADC
+Received: 1907SBUS
+
+Sending: 1907BADC
+Received: 1908SBUS
+
+Sending: 1908BADC
+Received: 1909SBUS
+
+Sending: 1909BADC
+Received: 1910SBUS
+
+Sending: 1910BADC
+Received: 1911SBUS
+
+Sending: 1911BADC
+Received: 1912SBUS
+
+Sending: 1912BADC
+Received: 1913SBUS
+
+Sending: 1913BADC
+Received: 1914SBUS
+
+Sending: 1914BADC
+Received: 1915SBUS
+
+Sending: 1915BADC
+Received: 1916SBUS
+
+Sending: 1916BADC
+Received: 1917SBUS
+
+Sending: 1917BADC
+Received: 1918SBUS
+
+Sending: 1918BADC
+Received: 1919SBUS
+
+Sending: 1919BADC
+Received: 1920SBUS
+
+Sending: 1920BADC
+Received: 1921SBUS
+
+Sending: 1921BADC
+Received: 1922SBUS
+
+Sending: 1922BADC
+Received: 1923SBUS
+
+Sending: 1923BADC
+Received: 1924SBUS
+
+Sending: 1924BADC
+Received: 1925SBUS
+
+Sending: 1925BADC
+Received: 1926SBUS
+
+Sending: 1926BADC
+Received: 1927SBUS
+
+Sending: 1927BADC
+Received: 1928SBUS
+
+Sending: 1928BADC
+Received: 1929SBUS
+
+Sending: 1929BADC
+Received: 1930SBUS
+
+Sending: 1930BADC
+Received: 1931SBUS
+
+Sending: 1931BADC
+Received: 1932SBUS
+
+Sending: 1932BADC
+Received: 1933SBUS
+
+Sending: 1933BADC
+Received: 1934SBUS
+
+Sending: 1934BADC
+Received: 1935SBUS
+
+Sending: 1935BADC
+Received: 1936SBUS
+
+Sending: 1936BADC
+Received: 1937SBUS
+
+Sending: 1937BADC
+Received: 1938SBUS
+
+Sending: 1938BADC
+Received: 1939SBUS
+
+Sending: 1939BADC
+Received: 1940SBUS
+
+Sending: 1940BADC
+Received: 1941SBUS
+
+Sending: 1941BADC
+Received: 1942SBUS
+
+Sending: 1942BADC
+Received: 1943SBUS
+
+Sending: 1943BADC
+Received: 1944SBUS
+
+Sending: 1944BADC
+Received: 1945SBUS
+
+Sending: 1945BADC
+Received: 1946SBUS
+
+Sending: 1946BADC
+Received: 1947SBUS
+
+Sending: 1947BADC
+Received: 1948SBUS
+
+Sending: 1948BADC
+Received: 1949SBUS
+
+Sending: 1949BADC
+Received: 1950SBUS
+
+Sending: 1950BADC
+Received: 1951SBUS
+
+Sending: 1951BADC
+Received: 1952SBUS
+
+Sending: 1952BADC
+Received: 1953SBUS
+
+Sending: 1953BADC
+Received: 1954SBUS
+
+Sending: 1954BADC
+Received: 1955SBUS
+
+Sending: 1955BADC
+Received: 1956SBUS
+
+Sending: 1956BADC
+Received: 1957SBUS
+
+Sending: 1957BADC
+Received: 1958SBUS
+
+Sending: 1958BADC
+Received: 1959SBUS
+
+Sending: 1959BADC
+Received: 1960SBUS
+
+Sending: 1960BADC
+Received: 1961SBUS
+
+Sending: 1961BADC
+Received: 1962SBUS
+
+Sending: 1962BADC
+Received: 1963SBUS
+
+Sending: 1963BADC
+Received: 1964SBUS
+
+Sending: 1964BADC
+Received: 1965SBUS
+
+Sending: 1965BADC
+Received: 1966SBUS
+
+Sending: 1966BADC
+Received: 1967SBUS
+
+Sending: 1967BADC
+Received: 1968SBUS
+
+Sending: 1968BADC
+Received: 1969SBUS
+
+Sending: 1969BADC
+Received: 1970SBUS
+
+Sending: 1970BADC
+Received: 1971SBUS
+
+Sending: 1971BADC
+Received: 1972SBUS
+
+Sending: 1972BADC
+Received: 1973SBUS
+
+Sending: 1973BADC
+Received: 1974SBUS
+
+Sending: 1974BADC
+Received: 1975SBUS
+
+Sending: 1975BADC
+Received: 1976SBUS
+
+Sending: 1976BADC
+Received: 1977SBUS
+
+Sending: 1977BADC
+Received: 1978SBUS
+
+Sending: 1978BADC
+Received: 1979SBUS
+
+Sending: 1979BADC
+Received: 1980SBUS
+
+Sending: 1980BADC
+Received: 1981SBUS
+
+Sending: 1981BADC
+Received: 1982SBUS
+
+Sending: 1982BADC
+Received: 1983SBUS
+
+Sending: 1983BADC
+Received: 1984SBUS
+
+Sending: 1984BADC
+Received: 1985SBUS
+
+Sending: 1985BADC
+Received: 1986SBUS
+
+Sending: 1986BADC
+Received: 1987SBUS
+
+Sending: 1987BADC
+Received: 1988SBUS
+
+Sending: 1988BADC
+Received: 1989SBUS
+
+Sending: 1989BADC
+Received: 1990SBUS
+
+Sending: 1990BADC
+Received: 1991SBUS
+
+Sending: 1991BADC
+Received: 1992SBUS
+
+Sending: 1992BADC
+Received: 1993SBUS
+
+Sending: 1993BADC
+Received: 1994SBUS
+
+Sending: 1994BADC
+Received: 1995SBUS
+
+Sending: 1995BADC
+Received: 1996SBUS
+
+Sending: 1996BADC
+Received: 1997SBUS
+
+Sending: 1997BADC
+Received: 1998SBUS
+
+Sending: 1998BADC
+Received: 1999SBUS
+
+Sending: 1999BADC
+Received: 2000SBUS
+
+Sending: 2000BADC
+Received: 2001SBUS
+
+Sending: 2001BADC
+Received: 2002SBUS
+
+Sending: 2002BADC
+Received: 2003SBUS
+
+Sending: 2003BADC
+Received: 2004SBUS
+
+Sending: 2004BADC
+Received: 2005SBUS
+
+Sending: 2005BADC
+Received: 2006SBUS
+
+Sending: 2006BADC
+Received: 2007SBUS
+
+Sending: 2007BADC
+Received: 2008SBUS
+
+Sending: 2008BADC
+Received: 2009SBUS
+
+Sending: 2009BADC
+Received: 2010SBUS
+
+Sending: 2010BADC
+Received: 2011SBUS
+
+Sending: 2011BADC
+Received: 2012SBUS
+
+Sending: 2012BADC
+Received: 2013SBUS
+
+Sending: 2013BADC
+Received: 2014SBUS
+
+Sending: 2014BADC
+Received: 2015SBUS
+
+Sending: 2015BADC
+Received: 2016SBUS
+
+Sending: 2016BADC
+Received: 2017SBUS
+
+Sending: 2017BADC
+Received: 2018SBUS
+
+Sending: 2018BADC
+Received: 2019SBUS
+
+Sending: 2019BADC
+Received: 2020SBUS
+
+Sending: 2020BADC
+Received: 2021SBUS
+
+Sending: 2021BADC
+Received: 2022SBUS
+
+Sending: 2022BADC
+Received: 2023SBUS
+
+Sending: 2023BADC
+Received: 2024SBUS
+
+Sending: 2024BADC
+Received: 2025SBUS
+
+Sending: 2025BADC
+Received: 2026SBUS
+
+Sending: 2026BADC
+Received: 2027SBUS
+
+Sending: 2027BADC
+Received: 2028SBUS
+
+Sending: 2028BADC
+Received: 2029SBUS
+
+Sending: 2029BADC
+Received: 2030SBUS
+
+Sending: 2030BADC
+Received: 2031SBUS
+
+Sending: 2031BADC
+Received: 2032SBUS
+
+Sending: 2032BADC
+Received: 2033SBUS
+
+Sending: 2033BADC
+Received: 2034SBUS
+
+Sending: 2034BADC
+Received: 2035SBUS
+
+Sending: 2035BADC
+Received: 2036SBUS
+
+Sending: 2036BADC
+Received: 2037SBUS
+
+Sending: 2037BADC
+Received: 2038SBUS
+
+Sending: 2038BADC
+Received: 2039SBUS
+
+Sending: 2039BADC
+Received: 2040SBUS
+
+Sending: 2040BADC
+Received: 2041SBUS
+
+Sending: 2041BADC
+Received: 2042SBUS
+
+Sending: 2042BADC
+Received: 2043SBUS
+
+Sending: 2043BADC
+Received: 2044SBUS
+
+Sending: 2044BADC
+Received: 2045SBUS
+
+Sending: 2045BADC
+Received: 2046SBUS
+
+Sending: 2046BADC
+Received: 2047SBUS
+
+Sending: 2047BADC
+Received: 2048SBUS
+
+Sending: 2048BADC
+Received: 2049SBUS
+
+Sending: 2049BADC
+Received: 2050SBUS
+
+Sending: 2050BADC
+Received: 2051SBUS
+
+Sending: 2051BADC
+Received: 2052SBUS
+
+Sending: 2052BADC
+Received: 2053SBUS
+
+Sending: 2053BADC
+Received: 2054SBUS
+
+Sending: 2054BADC
+Received: 2055SBUS
+
+Sending: 2055BADC
+Received: 2056SBUS
+
+Sending: 2056BADC
+Received: 2057SBUS
+
+Sending: 2057BADC
+Received: 2058SBUS
+
+Sending: 2058BADC
+Received: 2059SBUS
+
+Sending: 2059BADC
+Received: 2060SBUS
+
+Sending: 2060BADC
+Received: 2061SBUS
+
+Sending: 2061BADC
+Received: 2062SBUS
+
+Sending: 2062BADC
+Received: 2063SBUS
+
+Sending: 2063BADC
+Received: 2064SBUS
+
+Sending: 2064BADC
+Received: 2065SBUS
+
+Sending: 2065BADC
+Received: 2066SBUS
+
+Sending: 2066BADC
+Received: 2067SBUS
+
+Sending: 2067BADC
+Received: 2068SBUS
+
+Sending: 2068BADC
+Received: 2069SBUS
+
+Sending: 2069BADC
+Received: 2070SBUS
+
+Sending: 2070BADC
+Received: 2071SBUS
+
+Sending: 2071BADC
+Received: 2072SBUS
+
+Sending: 2072BADC
+Received: 2073SBUS
+
+Sending: 2073BADC
+Received: 2074SBUS
+
+Sending: 2074BADC
+Received: 2075SBUS
+
+Sending: 2075BADC
+Received: 2076SBUS
+
+Sending: 2076BADC
+Received: 2077SBUS
+
+Sending: 2077BADC
+Received: 2078SBUS
+
+Sending: 2078BADC
+Received: 2079SBUS
+
+Sending: 2079BADC
+Received: 2080SBUS
+
+Sending: 2080BADC
+Received: 2081SBUS
+
+Sending: 2081BADC
+Received: 2082SBUS
+
+Sending: 2082BADC
+Received: 2083SBUS
+
+Sending: 2083BADC
+Received: 2084SBUS
+
+Sending: 2084BADC
+Received: 2085SBUS
+
+Sending: 2085BADC
+Received: 2086SBUS
+
+Sending: 2086BADC
+Received: 2087SBUS
+
+Sending: 2087BADC
+Received: 2088SBUS
+
+Sending: 2088BADC
+Received: 2089SBUS
+
+Sending: 2089BADC
+Received: 2090SBUS
+
+Sending: 2090BADC
+Received: 2091SBUS
+
+Sending: 2091BADC
+Received: 2092SBUS
+
+Sending: 2092BADC
+Received: 2093SBUS
+
+Sending: 2093BADC
+Received: 2094SBUS
+
+Sending: 2094BADC
+Received: 2095SBUS
+
+Sending: 2095BADC
+Received: 2096SBUS
+
+Sending: 2096BADC
+Received: 2097SBUS
+
+Sending: 2097BADC
+Received: 2098SBUS
+
+Sending: 2098BADC
+Received: 2099SBUS
+
+Sending: 2099BADC
+Received: 2100SBUS
+
+Sending: 2100BADC
+Received: 2101SBUS
+
+Sending: 2101BADC
+Received: 2102SBUS
+
+Sending: 2102BADC
+Received: 2103SBUS
+
+Sending: 2103BADC
+Received: 2104SBUS
+
+Sending: 2104BADC
+Received: 2105SBUS
+
+Sending: 2105BADC
+Received: 2106SBUS
+
+Sending: 2106BADC
+Received: 2107SBUS
+
+Sending: 2107BADC
+Received: 2108SBUS
+
+Sending: 2108BADC
+Received: 2109SBUS
+
+Sending: 2109BADC
+Received: 2110SBUS
+
+Sending: 2110BADC
+Received: 2111SBUS
+
+Sending: 2111BADC
+Received: 2112SBUS
+
+Sending: 2112BADC
+Received: 2113SBUS
+
+Sending: 2113BADC
+Received: 2114SBUS
+
+Sending: 2114BADC
+Received: 2115SBUS
+
+Sending: 2115BADC
+Received: 2116SBUS
+
+Sending: 2116BADC
+Received: 2117SBUS
+
+Sending: 2117BADC
+Received: 2118SBUS
+
+Sending: 2118BADC
+Received: 2119SBUS
+
+Sending: 2119BADC
+Received: 2120SBUS
+
+Sending: 2120BADC
+Received: 2121SBUS
+
+Sending: 2121BADC
+Received: 2122SBUS
+
+Sending: 2122BADC
+Received: 2123SBUS
+
+Sending: 2123BADC
+Received: 2124SBUS
+
+Sending: 2124BADC
+Received: 2125SBUS
+
+Sending: 2125BADC
+Received: 2126SBUS
+
+Sending: 2126BADC
+Received: 2127SBUS
+
+Sending: 2127BADC
+Received: 2128SBUS
+
+Sending: 2128BADC
+Received: 2129SBUS
+
+Sending: 2129BADC
+Received: 2130SBUS
+
+Sending: 2130BADC
+Received: 2131SBUS
+
+Sending: 2131BADC
+Received: 2132SBUS
+
+Sending: 2132BADC
+Received: 2133SBUS
+
+Sending: 2133BADC
+Received: 2134SBUS
+
+Sending: 2134BADC
+Received: 2135SBUS
+
+Sending: 2135BADC
+Received: 2136SBUS
+
+Sending: 2136BADC
+Received: 2137SBUS
+
+Sending: 2137BADC
+Received: 2138SBUS
+
+Sending: 2138BADC
+Received: 2139SBUS
+
+Sending: 2139BADC
+Received: 2140SBUS
+
+Sending: 2140BADC
+Received: 2141SBUS
+
+Sending: 2141BADC
+Received: 2142SBUS
+
+Sending: 2142BADC
+Received: 2143SBUS
+
+Sending: 2143BADC
+Received: 2144SBUS
+
+Sending: 2144BADC
+Received: 2145SBUS
+
+Sending: 2145BADC
+Received: 2146SBUS
+
+Sending: 2146BADC
+Received: 2147SBUS
+
+Sending: 2147BADC

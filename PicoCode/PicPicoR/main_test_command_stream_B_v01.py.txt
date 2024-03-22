@@ -1,0 +1,95 @@
+main_test_command_stream_B_v01.py starting
+
+Received: 0000WHOU
+
+Sending: 0000PICOR
+Received: 0001HREV
+
+Sending: 0001OKOK
+Received: 0002HFWD
+
+Sending: 0002OKOK
+Received: 0003HOFF
+
+Sending: 0003OKOK
+Received: 0004DRIV00500000000
+
+Sending: 0004OKOK
+spin: 0, fore_and_aft: 50, crab: 0mix a
+
+mix b
+
+running a
+running a
+running b
+Received: 0005DRIV000000000000
+
+Sending: 0005OKOK
+spin: 0, fore_and_aft: 0, crab: 0mix a
+
+running a
+running a
+running b
+Received: 0006HOFF
+
+Sending: 0006OKOK
+Received: 0000WHOU
+
+Sending: 0000PICOR
+Received: 0001HREV
+
+Sending: 0001OKOK
+Received: 0002HFWD
+
+Sending: 0002OKOK
+Received: 0003HOFF
+
+Sending: 0003OKOK
+Received: 0004DRIV00500000000z
+
+Sending: 0004BADC
+Received: 0005DRIV000000000000
+
+Sending: 0005OKOK
+spin: 0, fore_and_aft: 0, crab: 0mix a
+
+running a
+running a
+running b
+Received: 0006HOFF
+
+Sending: 0006OKOK
+Received: 0000WHOU
+
+Sending: 0000PICOR
+Received: 0001HREV
+
+Sending: 0001OKOK
+Received: 0002HFWD
+
+Sending: 0002OKOK
+Received: 0003HOFF
+
+Sending: 0003OKOK
+Received: 0004DRIV005000000000
+
+Sending: 0004OKOK
+spin: 0, fore_and_aft: 50, crab: 0mix a
+
+mix b
+
+running a
+running a
+running b
+Received: 0005DRIV000000000000
+
+Sending: 0005OKOK
+spin: 0, fore_and_aft: 0, crab: 0mix a
+
+running a
+running a
+running b
+Received: 0006EXIT
+
+Sending: 0006OKOK
+Exiting

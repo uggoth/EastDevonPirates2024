@@ -1,0 +1,6 @@
+main_rc_zombie_arm_v08.py starting
+
+Command WHOU
+STOPPING
+Command EXIT
+
