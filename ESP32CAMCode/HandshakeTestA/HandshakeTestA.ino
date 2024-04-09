@@ -1,6 +1,6 @@
 //  HandshakeTestA
 
-const int HANDSHAKE_PIN = 12;
+const int HANDSHAKE_PIN = 13;
 
 void setup() {
   pinMode(HANDSHAKE_PIN, OUTPUT);
