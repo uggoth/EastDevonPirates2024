@@ -4,11 +4,11 @@ Please note that the modulus notation for the direction needle will not compile 
 
 compass-with-turn-indication-main.py 
 
-Calibrates the compass by twisting in 3-axes until all the display LEDs are lidt, then after a few seconds delay gives a smiley on the LEDs with a 115200 8-n-1 output of degrees from north to the usb port, whilst using the accelerometer to indicate a right or left turn on the LEDs.
+Calibrates the compass by twisting in 3-axes until all the display LEDs are lit, then after a few seconds delay, gives a smiley on the LEDs, with a 115200 8-n-1 output of degrees from north to the usb port, whilst using the accelerometer to indicate a right or left turn on the LEDs.
 
 Compass-needle-main.py
  
-Is a extension to the above, replacing the accelerometer output with a bar indicator on the LED’s pointing to North. this is a direct copy from the API documents.
+Is an extension to the above, replacing the accelerometer output with a bar indicator on the LED’s pointing to North. this is a direct copy from the API documents.
  
 WARNING does not compile on MU Editor v1.2 as it fails to recognise modulus symbol!
 
