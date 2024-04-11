@@ -1,0 +1,33 @@
+DIP Switch Reference ---------------------------
+
+1. Pico Pi	ON Pico obeys	OFF Pico ignores
+2. Battery	ON Check	OFF No check
+3. Pico		ON Reboot	OFF Run
+4. Pi		ON Do startup	OFF No startup
+5. Pico Radio	ON Pico obeys	OFF Pico ignores
+6. NOT USED YET
+7. Arm servos	ON Restricted	OFF Full travel
+8. WILL BE	ON Maybury	OFF Netgear Hub
+
+Ethernet configs for Pis ------------------------
+
+  Netgear Hub:
+    Disable IPv6
+    10.10.10.11 (see below)
+    10.10.10.254
+    10.10.10.254
+    10.10.10.254
+
+  Maybury (or anywhere else):
+    Automatically configure empty options
+    All blank
+
+Hub addresses -----------------------------------
+
+10.10.10.1    Col's laptop
+10.10.10.2    John's laptop
+10.10.10.3    Paula's laptop
+10.10.10.4    Ian's laptop
+10.10.10.10   ZyderBot 10
+10.10.10.11   ZyderBot 11
+10.10.10.254  Macally Hub
