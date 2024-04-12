@@ -1,0 +1,15 @@
+--------- Pico Command Reference --------------
+
+EXIT - exit program
+WHOU - return name of device
+SBUS - return ssssttttuuuuccccsssskkkkrrrrpppp
+       (steering, throttle, updown, crab, switch6, knob5, obey radio DIP, obey pi DIP)
+WAITdddd - wait for delay
+HREV - headlights for driving in reverse
+FSTP - stop all motors and turn headlights off
+STOP - stop all motors
+HFWD - headlights for driving forwards
+HOFF - headlights off
+DRIVttttssssdddd - throttle, steering, delay - motor control via mixer
+DRVDaaaabbbbccccdddd - lf, lr, rf, rr - direct motor control
+

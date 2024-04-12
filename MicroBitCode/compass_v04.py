@@ -1,4 +1,4 @@
-# modified
+# modified as compass_v04.py
 # coded by Paula Taylor 20240410
 # code to send magnetic heading to attached serial vi usb for PiWars entry
 # added reference code to show turning left or right,forward or back  on led display
@@ -23,3 +23,4 @@ while True:
     # below is not understood by Mu-Editor v1.2 on MacOS
     #needle = ((15 - compass.heading()) // 30) % 12
     #display.show(Image.ALL_CLOCKS[needle])
+# Write your code here :-)
