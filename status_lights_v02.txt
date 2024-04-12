@@ -1,0 +1,17 @@
+status_lights_v02.txt
+
+ZyderBot Rear Status Lights ----------------
+
+The central pixel is pixel 0
+The top centre pixel is pixel 1
+Then clockwise
+
+0  Blue when Pico is running a program, or dim white
+1  Green when Pico is initialising, then blue, red if initialise fails
+2  Blue if obeying radio commands
+3  Blue while obeying a radio command, or red if command not understood
+4  Blue if obeying Pi commands
+5  Blue while obeying a Pi command, or red if command not understood
+6  Pi Status: green initialising, blue running, red error
+7  NOT USED YET
+
