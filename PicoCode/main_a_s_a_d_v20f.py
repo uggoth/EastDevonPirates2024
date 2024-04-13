@@ -1,5 +1,5 @@
 module_prefix = 'main_a_s_a_d'
-module_version = '20'
+module_version = '20f'
 module_name = module_prefix + '_v' + module_version + '.py'
 import utime
 start_time = int(utime.ticks_ms() / 1000)
@@ -1050,61 +1050,11 @@ def run_motors(steering, throttle, duration):
         utime.sleep_ms(duration)
         my_drive_train.stop()
 
-logfile_name = module_prefix + '_log.txt'
-logging = open(logfile_name,'w')
-logging.write('Logfile Starts\n\n')
-logging.close()
-
 def log(msg):
     global logfile_name
     logging = open(logfile_name,'a')
     logging.write(msg + '\n')
     logging.close()
-
-log (module_name + ' starting at ' + str(start_time) + '\n')
-
-my_rear_light = ThisRearLight()
-my_buttons = TheseButtons()
-my_switches = TheseSwitches()
-my_dip_1 = my_switches.dip_1
-my_dip_5 = my_switches.dip_5
-my_dip_6 = my_switches.dip_6
-my_drive_train = ThisDriveTrain()
-my_headlight  = ThisHeadlight()
-
-if my_dip_1.get() == 'ON':
-    mecanum = True
-    log ('Mecanum Wheels Fitted')
-else:
-    mecanum = False
-    log ('Standard Wheels Fitted')
-my_rear_light.mecanum(mecanum)
-
-if my_dip_5.get() == 'ON':
-    obey_radio = True
-else:
-    obey_radio = False
-my_rear_light.obey_radio(obey_radio)
-
-if my_dip_6.get() == 'ON':
-    obey_pi = True
-else:
-    obey_pi = False
-my_rear_light.obey_pi(obey_pi)
-
-
-# obey_pi = True   # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< jammed in to force Pi usage - JOHN REMOVE WITH DIP USAGE
-
-
-
-if obey_radio:
-    my_sbus = SBUSReceiverMC6C()
-    log ('obey_radio')
-
-if obey_pi:
-    my_handshake = ThisHandshake()
-    my_stream = CommandStream('HEBE Commands', my_handshake)
-    log ('obey_pi')
 
 def process_command(serial_no, command, data, 
                    steering_value, throttle_value, updown_value, crab_value, switch_value, knob_value):
@@ -1118,18 +1068,22 @@ def process_command(serial_no, command, data,
         log(command + 'OK')
         return False
     elif 'SGRN' == command:
+        my_stream.send(serial_no + 'OKOK')
         my_rear_light.set_pixel(6, my_rear_light.colours['green'])
         my_rear_light.show()
         return True
     elif 'SRED' == command:
+        my_stream.send(serial_no + 'OKOK')
         my_rear_light.set_pixel(6, my_rear_light.colours['red'])
         my_rear_light.show()
         return True
     elif 'SBLU' == command:
+        my_stream.send(serial_no + 'OKOK')
         my_rear_light.set_pixel(6, my_rear_light.colours['blue'])
         my_rear_light.show()
         return True
     elif 'SOFF' == command:
+        my_stream.send(serial_no + 'OKOK')
         my_rear_light.set_pixel(6, my_rear_light.colours['off'])
         my_rear_light.show()
         return True
@@ -1164,7 +1118,7 @@ def process_command(serial_no, command, data,
         log(serial_no + 'OKOK')
         my_headlight.rev()
         return True
-    elif command == 'TRNR':
+    elif command == 'TRNL':
         if ((data is None) or (len(data) < 4)):
             my_stream.send(serial_no + 'BADC')
             my_rear_light.bad()
@@ -1182,7 +1136,7 @@ def process_command(serial_no, command, data,
                 log(ermsg)
                 my_drive_train.stop()
                 return True
-        steering = -100
+        steering = 100
         throttle = 0
         my_stream.send(serial_no + 'OKOK')
         log (command + ' ' + str(steering) + ' ' + str(throttle) + ' ' + data)
@@ -1206,7 +1160,7 @@ def process_command(serial_no, command, data,
                 log(ermsg)
                 my_drive_train.stop()
                 return True
-        steering = 100
+        steering = -100
         throttle = 0
         my_stream.send(serial_no + 'OKOK')
         log (command + ' ' + str(steering) + ' ' + str(throttle) + ' ' + data)
@@ -1235,53 +1189,53 @@ def process_command(serial_no, command, data,
         my_headlight.off()
         return True
     elif 'DRIV' == command:
-        my_stream.send(serial_no + 'OKOK' + 'Driving')
         if ((data is None) or (len(data) < 8)):
-            #my_stream.send(serial_no + 'BADC')
-            #my_rear_light.bad()
-            ermsg = '*** No DRIV parms ***'
-            log(ermsg)
+            errmsg = 'BADC *** No DRIV parms ***'
+            my_stream.send(serial_no + errmsg)
+            my_rear_light.bad()
+            log(errmsg)
             my_drive_train.stop()
             return True
         else:
             try:
                 throttle = int(data[0:4])
             except ValueError:
-                #my_stream.send(serial_no + 'BADV throttle not integer')
+                errmsg = 'BADV throttle not integer ****'
+                my_stream.send(serial_no + errmsg)
                 my_rear_light.bad()
-                ermsg = '*** Bad DRIV parms ***'
-                log(ermsg)
+                log(errmsg)
                 my_drive_train.stop()
                 return True
             try:
                 steering = int(data[4:8])
             except ValueError:
-                #my_stream.send(serial_no + 'BADV steering not integer')
+                errmsg = 'BADV steering not integer ****'
+                my_stream.send(serial_no + errmsg)
                 my_rear_light.bad()
-                ermsg = '*** Bad DRIV parms ***'
-                log(ermsg)
+                log(errmsg)
                 my_drive_train.stop()
                 return True
-            delay = 0
             if len(data) > 8:
                 try:
                     delay = int(data[8:12])
                 except ValueError:
-                    #my_stream.send(serial_no + 'BADV delay not integer')
+                    errmsg = 'BADV delay not integer ****'
+                    my_stream.send(serial_no + errmsg)
                     my_rear_light.bad()
-                    ermsg = '*** Bad DRIV parms ***'
-                    log(ermsg)
+                    log(errmsg)
                     my_drive_train.stop()
                     return True
             else:
                 delay = 0
-            crab = 0
+            my_stream.send(serial_no + 'OKOK' + 'Driving')
             my_rear_light.OK()
-            log('before DRIV' + command + data)
+            log('before DRIV: ' + command + ' ' + data)
+            crab = 0
             result = my_drive_train.drive(steering, throttle, crab)
-            log('after DRIV' + str(result))
             if delay > 0:
                 utime.sleep_ms(delay)
+                my_drive_train.stop()
+            log('after DRIV: ' + str(result))
         return True
     # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Following section added by John 20240407<<<<<<<<<<<<<<<<<<<<<<
     # <<<<<<<<<<provides for easier translation from PID information. Is just direct motor control
@@ -1324,24 +1278,73 @@ def process_command(serial_no, command, data,
         my_stream.send(serial_no + 'BADC')
         return True
 
+logfile_name = module_prefix + '_log.txt'
+logging = open(logfile_name,'w')
+logging.write('Logfile Starts\n\n')
+logging.close()
+
+log (module_name + ' starting at ' + str(start_time) + '\n')
+
+my_rear_light = ThisRearLight()
+my_buttons = TheseButtons()
+my_switches = TheseSwitches()
+my_dip_1 = my_switches.dip_1
+my_dip_5 = my_switches.dip_5
+my_dip_6 = my_switches.dip_6
+my_drive_train = ThisDriveTrain()
+my_headlight  = ThisHeadlight()
+
+if my_dip_1.get() == 'ON':
+    mecanum = True
+    log ('Mecanum Wheels Fitted')
+else:
+    mecanum = False
+    log ('Standard Wheels Fitted')
+my_rear_light.mecanum(mecanum)
+
+if my_dip_5.get() == 'ON':
+    obey_radio = True
+else:
+    obey_radio = False
+my_rear_light.obey_radio(obey_radio)
+
+if my_dip_6.get() == 'ON':
+    obey_pi = True
+else:
+    obey_pi = False
+my_rear_light.obey_pi(obey_pi)
+
+if obey_radio:
+    my_sbus = SBUSReceiverMC6C()
+    log ('obey_radio')
+
+testing_commands = True
+
+if obey_pi or testing_commands:
+    my_handshake = ThisHandshake()
+    my_stream = CommandStream('HEBE Commands', my_handshake)
+    log ('obey_pi')
+
 ################# pre commands for testing ########################
- 
-pre_commands = [['SGRN', '0000', 1000],
-                ['SRED', '0000', 1000],
-                ['SBLU', '0000', 1000],
-                ['TRNR', '100 0 0040', 2000],
-                ['SOFF', '0000', 1000]]
-serial_no = 0
-for command_set in pre_commands:
-    serial_no += 1
-    serial_no_string = '{:04}'.format(serial_no)
-    command = command_set[0]
-    data = command_set[1]
-    duration = command_set[2]
-    keep_going = process_command(serial_no_string, command, data, 0, 0, 0, 0, 0, 0)
-    if not keep_going:
-        break
-    utime.sleep_ms(duration)
+
+if testing_commands:
+    pre_commands = [['SGRN', '0000', 1000],
+                    ['SRED', '0000', 1000],
+                    ['SBLU', '0000', 1000],
+                    ['DRIV', '000000300500', 2000],
+                    #['TRNR', '100 0 0040', 2000],
+                    ['SOFF', '0000', 1000]]
+    serial_no = 0
+    for command_set in pre_commands:
+        serial_no += 1
+        serial_no_string = '{:04}'.format(serial_no)
+        command = command_set[0]
+        data = command_set[1]
+        duration = command_set[2]
+        keep_going = process_command(serial_no_string, command, data, 0, 0, 0, 0, 0, 0)
+        if not keep_going:
+            break
+        utime.sleep_ms(duration)
 
 ###################################################################
 
