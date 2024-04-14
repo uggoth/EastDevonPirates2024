@@ -27,12 +27,12 @@ Paula Taylor East Devon Pirates 20240411
 
 added
  
-accelerometer-only-v1-main.py
+Accelerometer-only-v1-main.py
 
-accelerometer-only-v1.hex
+Accelerometer-only-v1.hex
 
 
-Gives indication of change in direction to LEDS and printed output to serial port.
+Gives indication of change in direction to LEDS and printed output to serial port, no calibration needed as all output is movement relative.
 
 Paula 20240414 
 
