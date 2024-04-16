@@ -3,9 +3,10 @@ import numpy as np
 #import math
 import csv
 import traceback
+from time import sleep
 
-
-__DEBUG__ = True     #Not btohering with -O option
+__ZOMBIE_DEBUG__ = True     #MUST BE FALSE FOR THE REAL THING
+#__ZOMBIE_DEBUG__ = False   #MUST BE FALSE FOR THE REAL THING
 class ZombieVision:
 
     #Get the camera 
@@ -14,7 +15,7 @@ class ZombieVision:
     __cfgFileName__ = './zombies.csv'
     __brightMax__ = 10    #Max number of bright targets we can process
 
-    def __init__(self):
+    def __init__(self,cb_LightOn):
         try:
             #HERE Write a log file
 
@@ -23,8 +24,8 @@ class ZombieVision:
             ##################################
 
             #Size, tolerance, Squarness of a bright spot
-            self.brightSize = 50    #X and Y must be this size +- Tol
-            self.BrightTol = 2
+            self.brightSize = 80    #X and Y must be this size +- Tol
+            self.BrightTol = 30
             self.brightSquareness = 10
 
             #The following are 'about right' default and it is expected that they 
@@ -59,9 +60,13 @@ class ZombieVision:
             ##################################
 
 
-            self.BrightTargets = np.zeros((self.__brightMax__,2),int)
+            self.brightTargets = np.zeros((self.__brightMax__,3),int)
+            self.brightTargetsCount = 0
             self.brightSquareMax = self.brightSize + self.BrightTol
             self.brightSquareMin = self.brightSize - self.BrightTol
+
+            self.callbackLight = cb_LightOn
+
             
             #Read from config file
             self.cfgRead()
@@ -69,18 +74,25 @@ class ZombieVision:
             #HERE Log error
             print('__init__:',e)
 
-    def getBrightest(self,frame,frameDisp):
+    def getBrightest(self,frame):
         #Center of brightest part of image 
         try:
+            #Remove any we already have
+            self.RemoveBrightTargets()
+            if not __ZOMBIE_DEBUG__ :
+                #Ask are calling code to turn the light on
+                self.callbackLight(True)
+                #Wait for the humans
+                sleep(5)
             #Gaus then global thresh
             gausblurBright = cv2.GaussianBlur(frame,(self.gausradiusBright1,self.gausradiusBright2),0)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 cv2.imshow("Gaussian for Brightness",gausblurBright)
             ret3,golbalThreshBright = cv2.threshold(gausblurBright,self.threshBinLevel,self.threshBinMax,cv2.THRESH_BINARY)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 cv2.imshow("Global Thresh for Brightness",golbalThreshBright)
             contours, hierarchy = cv2.findContours(golbalThreshBright, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
-            if __DEBUG__:
+            if __ZOMBIE_DEBUG__:
                 t=golbalThreshBright.shape
                 #brightTarget=np.full((t[0], t[1]), 127, dtype=np.uint8)
                 globalThreshContours = cv2.drawContours(frame, contours, -1, (254,0,254), 1)
@@ -93,23 +105,28 @@ class ZombieVision:
                         currentContour = component[0]
                         currentHierarchy = component[1]
                         x,y,w,h = cv2.boundingRect(currentContour)
-                        if __DEBUG__:
+                        if __ZOMBIE_DEBUG__:
                             cv2.putText(globalThreshContours,str(w) + " " + str(h),(x,y),cv2.FONT_HERSHEY_SCRIPT_SIMPLEX,0.5,(255,255,255),2,cv2.LINE_4)
                         #Right Size?
                         if ( w < self.brightSquareMax and w > self.brightSquareMin) and ( h <  self.brightSquareMax and h > self.brightSquareMin):
                             #Square (ish)?
-                            print (x,y,w,h,abs(w-h),x + int (w / 2),y + int (h / 2))
+                            #print (x,y,w,h,abs(w-h),x + int (w / 2),y + int (h / 2))
                             diff=abs(w-h)
                             if diff < self.brightSquareness:
                                 cv2.rectangle(globalThreshContours,(x,y),(x+w,y+h),(255,255,255),1)
-                                self.BrightTargets[cnt,0] = (int)(x + int (w / 2))
-                                self.BrightTargets[cnt,1] = (int)(y + int (h / 2))
-                                if __DEBUG__:
-                                    print("Bright ",(self.BrightTargets[cnt]))
-                                    self.crossHair(globalThreshContours,self.BrightTargets[cnt])
+                                self.brightTargets[cnt,0] = (int)(x + int (w / 2))
+                                self.brightTargets[cnt,1] = (int)(y + int (h / 2))
+                                if __ZOMBIE_DEBUG__:
+                                    #print("Bright ",(self.brightTargets[cnt]))
+                                    self.crossHair(globalThreshContours,self.brightTargets[cnt])
                                 cnt+=1
-                                
-                            '''
+                self.brightTargetsCount = cnt
+                tgc = 0   
+                for target in range(0,cnt):
+                    # % certintanty - only expecting 1, any more is bad news
+                    self.brightTargets[tgc,2] = int(100 / (cnt))
+                    tgc+=1
+                '''
                             #Hierarchy
                             if currentHierarchy[2] < 0:
                                 #Innermost children
@@ -119,16 +136,26 @@ class ZombieVision:
                                 #Outermost parents
                                 cv2.rectangle(tmpimg,(x,y),(x+w,y+h),(0,255,0),3)
                             '''
-            if __DEBUG__ :
+            if not __ZOMBIE_DEBUG__:
+                #Request light is turned off
+                self.callbackLight(False)
+                #Wait for the humans
+                sleep(5)
+            if __ZOMBIE_DEBUG__ :
                 #cv2.imshow("tmpimg",tmpimg)
                 cv2.imshow("Brightness contours",globalThreshContours)
                 #cv2.imshow("tmpimg",brightTarget)
+                #print (" Bright Target Count " + str(self.brightTargetsCount))
         except Exception as e:
             #HERE Log error
             print('__getBrightest__:',e)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 print(traceback.format_exc())
                 quit()
+
+    def RemoveBrightTargets(self):
+        self.brightTargets.fill(0)
+        self.brightTargetsCount = 0
 
     def GetScene(self):
         #Capture and Analyse the scene
@@ -138,20 +165,20 @@ class ZombieVision:
             #HERE - this for fixed image
 #            frame = cv2.imread("box.jpg",cv2.IMREAD_COLOR)
 
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 frameDisp = frame.copy()
                 cv2.imshow("frameDisp", frameDisp)          # Original Frame
             #Crop
             frame=frame[self.cropYMin:self.cropYMax,self.cropXMin:self.cropXMax]
-            if __DEBUG__ :
-                cropDisp = frame.copy()
-                cv2.imshow("cropDisp", cropDisp)          # Original Frame
+            if __ZOMBIE_DEBUG__ :
+                Original = frame.copy()
+                cv2.imshow("Original", Original)          # Original Frame
             #HERE Colour Detect
             frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 frameGrey = frame.copy()
                 cv2.imshow("frameGrey", frameGrey)          # To Grayscale
-            golbalThreshBright = self.getBrightest(frame,frameDisp)
+            golbalThreshBright = self.getBrightest(frame)
             
 
     ###
@@ -200,7 +227,7 @@ class ZombieVision:
         except Exception as e:
             #HERE Log error
             print('GetScene:', e)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 quit()
 
     #Tuning Callbacks
@@ -315,6 +342,7 @@ class ZombieVision:
                             tuning = False
                 if state == 4:
                     state = 0
+                    cv2.destroyWindow("Grey")
     
 
             #print(self.threshBinLevel)
@@ -325,7 +353,7 @@ class ZombieVision:
             #HERE Log error
             tuning = True
             print('tune:', e)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 print(traceback.format_exc())
                 quit()
 
@@ -360,8 +388,7 @@ class ZombieVision:
             #HERE Log
             print ("cfgRead:", e)
             #if __DBUG__ :
-            #    quit()
-       
+            #    quit()       
 
     def cfgWrite(self):
         try:
@@ -375,13 +402,12 @@ class ZombieVision:
                                 self.gaus3radius])
         except Exception as e:
             print('cfgWriteL:',e)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 quit()
        
-
     def crossHair(self,image,point):
         try:
-            print(point[0],point[1])
+            #print(point[0],point[1])
             cv2.line(image,(point[0]-5,point[1]),
                     (point[0]+5,point[1]),
                         (0,255,0), 1)
@@ -390,28 +416,52 @@ class ZombieVision:
                         (0,0,255), 1)
         except Exception as e:
             print('crossHair:',e)
-            if __DEBUG__ :
+            if __ZOMBIE_DEBUG__ :
                 quit()
 
     def Target(Self):
-        #Analyse 
-            #3 Times ?
         pass
 
 
-try:     
 
-#Sharpening filter          
-    zombies = ZombieVision() 
-    #zombies.cfgWrite()
- #   zombies.tune()
- #   zombies.cfgWrite()
+
+####################################
+#Add to main Code
+####################################
+
+#Light On Callback
+def zombie_LightOnRequest(on):
+    try:
+        #Request from ZompieVision to tuen the external light on or off.
+        #Singalling that the target should be illuminated
+        if on:
+            #Turn the External LED on
+            print ("ZombieVision requests light on ")
+        else:
+            #Turn the External LED off
+            print ("ZombieVision requests light off ")
+    except(e):
+        print('zombie_LightOnRequest:',e)
+        if __ZOMBIE_DEBUG__ :
+                    quit()       
+
+
+try:     
+    zombies = ZombieVision(zombie_LightOnRequest) 
+    zombies.tune()
+    zombies.cfgWrite()
     while(True):
-        zombies.GetScene() 
+        zombies.GetScene()
+        if zombies.brightTargetsCount > 0 :
+            print ("Bright Found " + str(zombies.brightTargetsCount)) 
+            print ("numpy X, numpy Y, %% certainty")        
+            #ERROR HERE THESE ARE CURRENTLY CROPPED CORDINATES - WILL CONVERT THEM FOR WHOLE IMAGE
+            for x in range(0,zombies.brightTargetsCount):
+                print (zombies.brightTargets[x])
         cv2.waitKey(10)      
 
 except Exception as e:
     #HERE log it
     print('main:',e)
-    if __DEBUG__ :
+    if __ZOMBIE_DEBUG__ :
                 quit()       

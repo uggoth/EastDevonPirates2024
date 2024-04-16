@@ -1,0 +1,10 @@
+Bullseye
+updates installed from GUI
+following all sudo
+apt-get update
+atp-get upgrade
+apt-get install python3-opencv
+raspi-config -> enable legacy support
+DONT TRAMPLES numpy-> sudo pip3 install matplotlib 
+pip install keyboard
+
