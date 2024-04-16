@@ -13,6 +13,7 @@ class ZombieVision:
     __vid = cv2.VideoCapture(0)
     #Config File Name
     __cfgFileName__ = './zombies.csv'
+    __targetsMax__ = 6
     __brightMax__ = 10    #Max number of bright targets we can process
 
     def __init__(self,cb_LightOn):
@@ -60,6 +61,8 @@ class ZombieVision:
             ##################################
 
 
+            self.targets = np.zeros((self.__brightMax__,3),int)
+            self.targetsCount = 0
             self.brightTargets = np.zeros((self.__brightMax__,3),int)
             self.brightTargetsCount = 0
             self.brightSquareMax = self.brightSize + self.BrightTol
@@ -169,16 +172,17 @@ class ZombieVision:
                 frameDisp = frame.copy()
                 cv2.imshow("frameDisp", frameDisp)          # Original Frame
             #Crop
-            frame=frame[self.cropYMin:self.cropYMax,self.cropXMin:self.cropXMax]
             if __ZOMBIE_DEBUG__ :
                 Original = frame.copy()
                 cv2.imshow("Original", Original)          # Original Frame
             #HERE Colour Detect
             frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+            frame=self.cropBlack(frame,self.cropYMin,self.cropYMax,self.cropXMin,self.cropXMax)
             if __ZOMBIE_DEBUG__ :
                 frameGrey = frame.copy()
                 cv2.imshow("frameGrey", frameGrey)          # To Grayscale
             golbalThreshBright = self.getBrightest(frame)
+            self.targets = self.ProcessTargets()
             
 
     ###
@@ -268,9 +272,10 @@ class ZombieVision:
                 cv2.imshow("Original",frame)
                 grey = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
                 cv2.imshow("Grey",grey)
+                #Don't crop the pixels - we might need them, turn them to black
+                crop = self.cropBlack(grey,self.cropYMin,self.cropYMax,self.cropXMin,self.cropXMax)
                 if state == 1:
                     #HERE Add Rotate ?
-                    crop=grey[self.cropYMin:self.cropYMax,self.cropXMin:self.cropXMax]
                     cv2.imshow("Crop",crop)
                     if (not tuning):
                         blank = np.full((100, 640), 127, dtype=np.uint8)
@@ -301,8 +306,7 @@ class ZombieVision:
                             tuning = False
                 if state == 2:
                     #Gaus then global threshold
-                    grey=grey[self.cropYMin:self.cropYMax,self.cropXMin:self.cropXMax]
-                    gausblur2 = cv2.GaussianBlur(grey,(5,5),0)
+                    gausblur2 = cv2.GaussianBlur(crop,(5,5),0)
                     ret3,th3 = cv2.threshold(gausblur2,self.threshBinLevel,self.threshBinMax,cv2.THRESH_BINARY)
                     cv2.imshow("Gaussian -> Global Thresh",th3)
                     if not tuning :
@@ -323,7 +327,7 @@ class ZombieVision:
                 if state == 3:
                     #Canny Edge Detection
                     #grey=grey[self.cropYMin:self.cropYMax,self.cropXMin:self.cropXMax]
-                    cannyEdge=cv2.Canny(grey,self.cannyMax,self.cannyMin)
+                    cannyEdge=cv2.Canny(crop,self.cannyMax,self.cannyMin)
                     cv2.imshow("Canny",cannyEdge)
                     if not tuning:
                         cv2.createTrackbar("Canny Max","Canny",(int)(self.cannyMax),1000,self.cb_CannyMax)
@@ -356,6 +360,17 @@ class ZombieVision:
             if __ZOMBIE_DEBUG__ :
                 print(traceback.format_exc())
                 quit()
+
+    def cropBlack(self, grey, YMin, YMax, XMin, XMax):
+        #Add black around the image , don't reduce the actual size
+        #crop=grey[self.cropYMin:self.cropYMax,self.cropXMin:self.cropXMax]
+        crop=grey.copy()
+        y,x=crop.shape
+        crop[0:YMin,] = 0
+        crop[YMax:y-1,] = 0
+        crop[0:y-1,0:XMin] = 0
+        crop[0:y-1,XMax:x-1] = 0
+        return crop
 
     def cfgRead(self):
         try:
@@ -419,8 +434,11 @@ class ZombieVision:
             if __ZOMBIE_DEBUG__ :
                 quit()
 
-    def Target(Self):
-        pass
+    def ProcessTargets(self):
+        self.targets = self.brightTargets
+        self.targetsCount = self.brightTargetsCount
+        return self.targets
+
 
 
 
@@ -452,12 +470,12 @@ try:
     zombies.cfgWrite()
     while(True):
         zombies.GetScene()
-        if zombies.brightTargetsCount > 0 :
-            print ("Bright Found " + str(zombies.brightTargetsCount)) 
+        if zombies.targetsCount > 0 :
+            print ("Bright Found " + str(zombies.targetsCount)) 
             print ("numpy X, numpy Y, %% certainty")        
             #ERROR HERE THESE ARE CURRENTLY CROPPED CORDINATES - WILL CONVERT THEM FOR WHOLE IMAGE
-            for x in range(0,zombies.brightTargetsCount):
-                print (zombies.brightTargets[x])
+            for x in range(0,zombies.targetsCount):
+                print (zombies.targets[x])
         cv2.waitKey(10)      
 
 except Exception as e:
